@@ -1,0 +1,45 @@
+filters:
+  and:
+    - list(type).contains(link("Concepts"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Name
+  note.status:
+    displayName: Status
+  file.backlinks:
+    displayName: Backlinks
+  file.mtime:
+    displayName: Modified
+views:
+  - type: table
+    name: All concepts
+    order:
+      - file.name
+      - status
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Developed
+    filters:
+      and:
+        - status == "developed"
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+  - type: table
+    name: Stubs
+    filters:
+      and:
+        - status != "developed"
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,39 @@
+filters:
+  and:
+    - list(type).contains(link("Lectures"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Lecture
+  note.course:
+    displayName: Course
+  note.date:
+    displayName: Date
+  note.week:
+    displayName: Week
+views:
+  - type: table
+    name: All lectures
+    order:
+      - file.name
+      - course
+      - date
+      - week
+    sort:
+      - property: course
+        direction: DESC
+      - property: date
+        direction: DESC
+  - type: table
+    name: Course
+    filters:
+      and:
+        - list(course).contains(this)
+    order:
+      - date
+      - file.name
+      - week
+    sort:
+      - property: date
+        direction: ASC
+    columnSize: {}

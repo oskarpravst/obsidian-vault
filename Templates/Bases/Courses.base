@@ -1,0 +1,40 @@
+filters:
+  and:
+    - list(type).contains(link("Courses"))
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Course
+  note.professor:
+    displayName: Professor
+  note.semester:
+    displayName: Semester
+  note.year:
+    displayName: Year
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: Active
+    filters:
+      and:
+        - status == "active"
+    order:
+      - file.name
+      - professor
+      - year
+      - semester
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All courses
+    order:
+      - file.name
+      - professor
+      - year
+      - semester
+      - status
+    sort:
+      - property: year
+        direction: ASC
