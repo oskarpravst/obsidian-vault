@@ -55,6 +55,8 @@ In everyday language: "not (rain and cold)" means "not rain **or** not cold".
 
 - [[2026-10-05 - Propositional Logic - 1]] — law 7 of propositional logic (Discrete structures)
 - [[2026-10-11 - Boolean Algebra - 1]] — rule 4 of Boolean algebra (Digital circuits)
+- [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — used in the proof of law 11b and in showing $\{\neg, \lor\}$ and $\{\neg, \land\}$ are complete (Discrete structures)
+- [[Functional Completeness]]
 - [[Duality]]
 - [[Truth Table]]
 

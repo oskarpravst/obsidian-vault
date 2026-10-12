@@ -49,6 +49,8 @@ $\neg p \lor q$ and $p \Rightarrow q$ have the same column, so $\neg p \lor q \s
 
 - [[2026-10-05 - Propositional Logic - 1]] — truth tables, tautology, equivalence (Discrete structures)
 - [[2026-10-11 - Boolean Algebra - 1]] — truth tables of switching functions (Digital circuits)
+- [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — DNO/KNO from a truth table, counterexample for non-equivalence, checking whether an argument is valid (Discrete structures)
+- [[Disjunctive Normal Form]], [[Conjunctive Normal Form]]
 - [[De Morgan's Laws]]
 
 ## Sources

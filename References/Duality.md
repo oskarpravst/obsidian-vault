@@ -46,6 +46,8 @@ The same pairs appear in propositional logic, e.g. the two [[De Morgan's Laws]] 
 
 - [[2026-10-11 - Boolean Algebra - 1]] — postulates and their duals (Digital circuits)
 - [[2026-10-05 - Propositional Logic - 1]] — laws of propositional logic come in dual pairs (Discrete structures)
+- [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — the KNO is built by the dual recipe of the DNO (Discrete structures)
+- [[Disjunctive Normal Form]], [[Conjunctive Normal Form]]
 - [[De Morgan's Laws]]
 
 ## Sources
