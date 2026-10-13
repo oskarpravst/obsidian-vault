@@ -107,7 +107,7 @@ It is enough to find **a single row** of the truth table where they differ — a
 
 Focus on the rows with **1** (*zapičim se v vrstice z 1*).
 
-$A$ is true iff we are in row 2 **or** row 4 **or** row 5 **or** row 6 **or** row 8:
+$A$ is true if we are in row 2 **or** row 4 **or** row 5 **or** row 6 **or** row 8:
 
 - row 2: $p = 0, q = 0, r = 1$ ($p$ false, $q$ false, $r$ true)
 - row 4: $p = 0, q = 1, r = 1$
