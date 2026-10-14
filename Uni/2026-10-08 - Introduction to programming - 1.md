@@ -378,5 +378,7 @@ Automatic testing checks if the program produced the expected results for the pr
 
 ## Connections
 
+- Course: [[Programming 1]]
+- Exercises: [[2026-10-14 - Exercises for Introduction to programming - 1]] — terminal, running programs with input files, automatic testing with `tj.exe`
 
 ## Sources
