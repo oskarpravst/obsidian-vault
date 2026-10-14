@@ -424,6 +424,6 @@ Here $p \Rightarrow q \sim 0$ and $r \Rightarrow s \sim 0$, so the first premise
 
 ## Sources
 
-- Handwritten notes: [[Discrete structures 2 notes.pdf]]
+- Handwritten notes: [[Sources/discrete_structures/photoNotes/lectures/lecture2/lecture 2.pdf|lecture 2]]
 - G. Fijavž, *Diskretne strukture* (FRI, 2015), sections 1.5–1.7
 - [Functional completeness — Wikipedia](https://en.wikipedia.org/wiki/Functional_completeness)

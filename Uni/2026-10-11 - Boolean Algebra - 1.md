@@ -279,4 +279,4 @@ A truth table can be written in parts. If the set of input variables is the same
 
 ## Sources
 
-- Handwritten notes: [[Introduction to Digital Circuits 1 notes.pdf]]
+- Handwritten notes: [[Sources/introduction_to_digital_circuits/photoNotes/lectures/lecture 1.pdf|lecture 1]]

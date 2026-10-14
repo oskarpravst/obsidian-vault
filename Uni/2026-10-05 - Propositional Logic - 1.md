@@ -221,8 +221,8 @@ $A \sim B$
 ## Connections
 
 - Course: [[Discrete structures]]
-- Exercises: [[Discrete structures 1 exercises.pdf]]
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaja1.pdf|vaja1]]
 
 ## Sources
 
-- Handwritten notes (photos): [[Discrete structures 1 notes 1.jpeg|1]], [[Discrete structures 1 notes 2.jpeg|2]], [[Discrete structures 1 notes 3.jpeg|3]], [[Discrete structures 1 notes 4.jpeg|4]], [[Discrete structures 1 notes 5.jpeg|5]], [[Discrete structures 1 notes 6.jpeg|6]]
+- Handwritten notes (photos): [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5316.jpeg|1]], [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5317.jpeg|2]], [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5318.jpeg|3]], [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5319.jpeg|4]], [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5320.jpeg|5]], [[Sources/discrete_structures/photoNotes/lectures/lecture1/IMG_5321.jpeg|6]]

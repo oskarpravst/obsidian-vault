@@ -198,7 +198,7 @@ $ echo 32 -7 | java Vsota2
 
 - Course: [[Programming 1]]
 - Lecture: [[2026-10-08 - Introduction to programming - 1]] — input with `Scanner`, compiling and running, testing with test cases
-- Exercises: [[Programming 1 1 exercises.pdf]]
+- Exercises: [[Sources/programming_1/vaje/prog1/p1_vaje01/vaje01.pdf|vaje01]]
 
 ## Sources
 

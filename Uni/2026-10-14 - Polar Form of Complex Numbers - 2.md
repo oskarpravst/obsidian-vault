@@ -217,6 +217,6 @@ Each $Q_j$ is a quadratic factor that cannot be split over $\mathbb{R}$ (*kvadra
 
 ## Sources
 
-- Handwritten notes: [[Calculus 2 notes.pdf]]
+- Handwritten notes: [[Sources/calculus/photoNotes/lectures/lecture 2.pdf|lecture 2]]
 - J. Globevnik, M. Brojan, *Analiza I* (2012), section 1.7.1 (`calculus/skripta.pdf`)
 - [Fundamental theorem of algebra — Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra)

@@ -185,8 +185,8 @@ Differentiate with respect to time … *(unfinished in notes)*
 ## Connections
 
 - Course: [[Physics]]
-- Exercises: [[Physics 1 exercises.pdf]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 1.pdf|vaje 1]]
 
 ## Sources
 
-- Handwritten notes: [[Physics 1 notes.pdf]]
+- Handwritten notes: [[Sources/physics/photoNotes/lectures/notes 1.pdf|notes 1]]

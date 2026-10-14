@@ -9,3 +9,6 @@
 
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store
+
+# Symlink to course materials (~/uni/1st_year_1st_semester) — never commit
+/Sources
