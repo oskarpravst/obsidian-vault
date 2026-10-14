@@ -5,7 +5,7 @@ tags:
   - journal
 type: "[[Lectures]]"
 course: "[[Programming 1]]"
-date:
+date: 2026-10-08
 week: "1"
 ---
 

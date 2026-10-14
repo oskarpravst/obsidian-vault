@@ -281,6 +281,7 @@ Friction comes from the roughness of the surfaces (*nazobčenost površine*).
 ## Connections
 
 - Course: [[Physics]]
+- Exercises: [[Physics 2 exercises.pdf]]
 - Previous lecture: [[2026-10-11 - Physical Quantities and Kinematics - 1]] — uniform circular motion, $\vec{a} = -\omega^2\vec{r}$
 - [[Derivative]] — product rule
 

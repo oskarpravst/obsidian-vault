@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="390" viewBox="0 0 500 390" font-family="Helvetica, Arial, sans-serif">
+<line x1="30.0" y1="294.0" x2="462.0" y2="294.0" stroke="#8c8c8c" stroke-width="1.4"/>
+<polygon points="470.0,294.0 462.0,297.6 462.0,290.4" fill="#8c8c8c"/>
+<line x1="96.0" y1="360.0" x2="96.0" y2="38.0" stroke="#8c8c8c" stroke-width="1.4"/>
+<polygon points="96.0,30.0 99.6,38.0 92.4,38.0" fill="#8c8c8c"/>
+<text x="466.0" y="312.0" text-anchor="end" fill="#8c8c8c" font-size="15">Re</text>
+<text x="104.0" y="40.0" text-anchor="start" fill="#8c8c8c" font-size="15">Im</text>
+<line x1="371.0" y1="294.0" x2="371.0" y2="118.0" stroke="#8c8c8c" stroke-width="1.2" stroke-dasharray="5,4"/>
+<line x1="96.0" y1="118.0" x2="371.0" y2="118.0" stroke="#8c8c8c" stroke-width="1.2" stroke-dasharray="5,4"/>
+<line x1="96.0" y1="294.0" x2="362.6" y2="123.4" stroke="#3b82f6" stroke-width="2.5"/>
+<polygon points="371.0,118.0 365.0,127.2 360.2,119.6" fill="#3b82f6"/>
+<circle cx="371.0" cy="118.0" r="4" fill="#3b82f6"/>
+<text x="381.0" y="110.0" text-anchor="start" fill="#3b82f6" font-size="15">z = x + iy</text>
+<text x="371.0" y="314.0" text-anchor="middle" fill="#8c8c8c" font-size="15">x = r cos φ</text>
+<text x="88.0" y="123.0" text-anchor="end" fill="#8c8c8c" font-size="15">y = r sin φ</text>
+<text x="221.5" y="196.0" text-anchor="end" fill="#3b82f6" font-size="15">r = |z|</text>
+<polyline points="167.5,294.0 167.5,293.3 167.5,292.6 167.5,292.0 167.4,291.3 167.4,290.6 167.4,289.9 167.3,289.3 167.3,288.6 167.2,287.9 167.2,287.2 167.1,286.6 167.0,285.9 167.0,285.2 166.9,284.5 166.8,283.9 166.7,283.2 166.6,282.5 166.5,281.8 166.3,281.2 166.2,280.5 166.1,279.8 165.9,279.2 165.8,278.5 165.7,277.9 165.5,277.2 165.3,276.5 165.2,275.9 165.0,275.2 164.8,274.6 164.6,273.9 164.4,273.3 164.2,272.6 164.0,272.0 163.8,271.3 163.6,270.7 163.4,270.0 163.1,269.4 162.9,268.8 162.7,268.1 162.4,267.5 162.2,266.9 161.9,266.3 161.6,265.6 161.4,265.0 161.1,264.4 160.8,263.8 160.5,263.2 160.2,262.5 159.9,261.9 159.6,261.3 159.3,260.7 159.0,260.1 158.6,259.5 158.3,258.9 158.0,258.4 157.6,257.8 157.3,257.2 156.9,256.6 156.6,256.0 156.2,255.5" stroke="#f59e0b" stroke-width="2" fill="none" fill-opacity="1" stroke-linejoin="round"/>
+<line x1="156.9" y1="256.6" x2="160.5" y2="262.2" stroke="#f59e0b" stroke-width="2"/>
+<polygon points="156.2,255.5 163.5,260.3 157.4,264.1" fill="#f59e0b"/>
+<text x="186.5" y="275.3" text-anchor="start" fill="#f59e0b" font-size="17">φ</text>
+<text x="316.0" y="46.5" text-anchor="middle" fill="#8c8c8c" font-size="15">tan φ = y / x</text>
+</svg>
