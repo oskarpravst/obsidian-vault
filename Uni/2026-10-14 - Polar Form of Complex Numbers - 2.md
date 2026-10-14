@@ -220,3 +220,26 @@ Each $Q_j$ is a quadratic factor that cannot be split over $\mathbb{R}$ (*kvadra
 - Handwritten notes: [[Sources/calculus/photoNotes/lectures/lecture 2.pdf|lecture 2]]
 - J. Globevnik, M. Brojan, *Analiza I* (2012), section 1.7.1 (`calculus/skripta.pdf`)
 - [Fundamental theorem of algebra — Wikipedia](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra)
+
+## Learning Resources
+
+Course material (same notation as the lectures):
+- Exercises (*naloge*): [[Sources/calculus/oma_zbirka.pdf#page=11|oma_zbirka — ch. 2 Kompleksna števila]], solutions (*rešitve*) from [[Sources/calculus/oma_zbirka.pdf#page=45|p. 45]]
+- Script: [[Sources/calculus/skripta.pdf#page=38|skripta — 1.7.1 geometric representation, argument]]
+- Script: [[Sources/calculus/mat1 (2).pdf#page=32|mat1 — 1.3 polar form]], roots (*koreni*) [[Sources/calculus/mat1 (2).pdf#page=35|p. 35]]
+
+Videos:
+- 3Blue1Brown — [What is Euler's formula actually saying?](https://www.youtube.com/watch?v=ZxYOEwM6Wbk) — $e^{i\varphi}$ as rotation
+- 3Blue1Brown — [e^(iπ) in 3.14 minutes, using dynamics](https://www.youtube.com/watch?v=v0YEaeIClKY)
+- 3Blue1Brown — [Euler's formula with introductory group theory](https://www.youtube.com/watch?v=mvmuCPvRoWQ) — multiplication as stretch + rotation
+- Welch Labs — [Imaginary Numbers Are Real](https://www.youtube.com/watch?v=T647CGsuOVU) — parts 5–7 (complex plane, complex multiplication)
+
+Articles and practice:
+- BetterExplained — [A Visual, Intuitive Guide to Imaginary Numbers](https://betterexplained.com/articles/a-visual-intuitive-guide-to-imaginary-numbers/)
+- Paul's Online Notes — [Forms](https://tutorial.math.lamar.edu/extras/complexprimer/Forms.aspx), [Powers and Roots](https://tutorial.math.lamar.edu/Extras/ComplexPrimer/Roots.aspx)
+- [Khan Academy — Complex numbers (Precalculus)](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:complex) — polar form, multiplication, roots, with exercises
+- [Harvey Mudd — Complex Numbers tutorial](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/precalculus/complex-numbers/) — roots of unity
+
+Book: T. Needham, *Visual Complex Analysis*, ch. 1 "Geometry and Complex Arithmetic"
+
+Suggested order: 3Blue1Brown (Euler) → Welch Labs 5–7 → Paul's Notes (roots) → oma_zbirka exercises.
