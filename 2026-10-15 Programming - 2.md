@@ -74,7 +74,74 @@ else
 
 v teh verigah se izvede vedno samo en del(blok)
 
+vedno inicializiramo spremenljivke preden jih uporabimo
 
+
+# Logicni izrazi in tip boolean
+
+pogoj v if stavku je logicni izraz(3 < 4, to je izraz z svojo vrednostjo ali resnica ali neresnica)
+boolean (george bool) boolova algebra izhaja
+
+ce truge se izvede if del, ce false se izvede else del.
+
+```java
+boolean b = 4 > 5
+b = false
+
+c = !b
+c = true
+
+```
+
+enako kot :
+```java
+leva == desna 
+
+3 == 3 // true
+
+3 = 3 // napaka
+
+3 == 3.0 // true, ker se pri operacijah kjer mesamo int in double, int pretvori v double
+
+```
+
+logicni operatorji:
+
+```java
+p && q // and
+
+p || q // or
+
+!p // no
+```
+
+
+kratkosticno izvajanje(shortcut evaluation)
+```java
+p && q // ce je p false program sploh ne pregleda q
+
+p || q // ce je p true program sploh ne pregleda q
+```
+
+
+prevajalnik vidi samo tipe:
+
+```java
+import java.util.Scanner;
+
+public class Vecje {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        
+        boolean a = (3 < 4) || (1 / 0 == 1);
+        boolean a = (3 < 4) || (b == c); // nedefinirane spremenljivke zato se nebi prevedlo
+        System.out.println(a);
+
+    }
+}
+```
+
+in ima prednost pred ali
 
 
 ## Key Concepts
@@ -142,6 +209,82 @@ public class Vecje2 {
     }
 
 ```
+
+ocena:
+```java
+import java.util.Scanner;
+
+public class Ocena {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int tocke = sc.nextInt();
+        int ocena = 0;
+
+        if (tocke >= 90){
+            ocena = 10;
+        } else if (tocke >= 80){ // && tocke < 90 ker je to ze v prejsnem pogoju
+            ocena = 9;
+        } else if (tocke >= 70){
+            ocena = 8;
+        }  else if (tocke >= 70){
+            ocena = 7;
+        } else if (tocke >= 60){
+            ocena = 6;
+        } else if (tocke >= 50){
+            ocena = 5;   
+        }
+        System.out.println(ocena); 
+    }
+}
+```
+
+sistem pipe:
+```
+echo 75 | java Ocena 
+```
+
+prednost: quicker
+
+ce vpisujem prevelike(101) ali premale(-5) procente ne dela:
+```java
+import java.util.Scanner;
+
+public class Ocena {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int tocke = sc.nextInt();
+
+        if(tocke > 100 || tocke < 0){
+            System.out.println("napaka")
+        } else{
+            int ocena = 0;
+
+            if (tocke >= 90){
+                ocena = 10;
+            } else if (tocke >= 80){ // && tocke < 90 ker je to ze v prejsnem pogoju
+                ocena = 9;
+            } else if (tocke >= 70){
+                ocena = 8;
+            }  else if (tocke >= 70){
+                ocena = 7;
+            } else if (tocke >= 60){
+                ocena = 6;
+            } else if (tocke >= 50){
+                ocena = 5;   
+            }
+            System.out.println(ocena); 
+
+        }
+    }
+}
+
+```
+
+
+program, ki napise, ali je prebrano leto prestopno
+
 
 ## Questions
 
