@@ -143,6 +143,17 @@ public class Vecje {
 
 in ima prednost pred ali
 
+# While(dokler)
+
+dokler je pogoj izpolnjen ponavlja. While pomeni da je zanka
+
+```java
+while (pogoj){ // kot pri if stavku preveri
+	stavki // ne gremo naprej ampak se vrnemo na preverjanje pogoja
+}
+
+```
+
 
 ## Key Concepts
 
@@ -283,9 +294,112 @@ public class Ocena {
 ```
 
 
-program, ki napise, ali je prebrano leto prestopno
+program, ki napise, ali je prebrano leto prestopno:
+
+```java
+import java.util.Scanner;
+
+public class PrestopnoLeto {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int leto = sc.nextInt();
+
+        if (leto % 400 == 0 || leto % 4 == 0 && leto % 100 != 0){
+            System.out.println("prestopno");
+        }
+        else {
+            System.out.println("ni prestopno");
+        }
 
 
+    }
+}
+```
+
+Zaporedje:
+
+```java
+import java.util.Scanner;
+
+public class Zaporedje {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int spMeja = sc.nextInt();
+        int zgMeja = sc.nextInt();
+
+        int stevilo = spMeja;
+
+        while (stevilo <= zgMeja) {
+
+            System.out.println(stevilo);
+            stevilo = stevilo + 1 ;
+        }
+
+    }
+}
+```
+telo -> pogoj(nakoncu napisemo)
+```
+echo 5 10 | java Zaporedje
+```
+
+infinite loop:
+
+```java
+import java.util.Scanner;
+
+public class Zaporedje {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int spMeja = sc.nextInt();
+        int zgMeja = sc.nextInt();
+
+        int stevilo = spMeja;
+
+        while (stevilo <= zgMeja) {
+
+            System.out.println(stevilo);
+            // stevilo se ne spreminja
+        }
+
+    }
+```
+ker se stevilo ne spreminja 
+
+ctrl + c prekine neskonco zanko
+
+conceptualno ima vsaka spremenljivka svoj pomen. Zato je bolje narediti novo spremenljivko.
+
+sprotno sestevanje:
+```java
+import java.util.Scanner;
+
+public class Trgovina {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int vsota = 0; // vsota doslej vnesenih stevil
+
+        while (vsota <= 42) {
+            System.out.print("vnesi stevilo: ");
+            int stevilo = sc.nextInt();
+            vsota = vsota + stevilo;
+
+            System.out.println(vsota);
+
+        }
+    }
+}
+```
+
+
+sprotno racunanje kjer smo omejeni z velikostjo vrece:
+```java
+
+```
 ## Questions
 
 - [ ] 
