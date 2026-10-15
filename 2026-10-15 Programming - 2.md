@@ -155,6 +155,74 @@ while (pogoj){ // kot pri if stavku preveri
 ```
 
 
+# Operatorji op=
+
+```
+stevec = stevec + 1
+stevec += 1
+
+vsota = vsota + stevilo
+vsota += stevilo
+
+in general
+variable op= something
+```
+
+ko povecujemo za 1:
+```
+a = a + 1
+a += 1
+++a
+a++
+
+enako za -
+```
+
+ce je sestavni del vecjega izraza
+```
+int a = 5
+int b = ++a; a se poveca za 1 in potem se 6 skopira v b
+
+int x = 5
+int y = x++; 5 se skopira v y potem pa se x poveca za 1
+```
+
+example:
+```java
+jshell> int a = 10;
+a ==> 10
+
+jshell> int b = a++;
+b ==> 10
+
+jshell> a
+a ==> 11
+
+jshell> int c = ++a;
+c ==> 12
+
+jshell> a
+a ==> 12
+
+ampak
+
+jshell> int c = a + 1;
+c ==> 13
+
+jshell> a
+a ==> 12
+```
+
+# Do loop
+
+```java
+do {
+	stavki
+} while (pogoj);
+```
+najprej stavki izvedejo potem pa se preveri(zanka se bo vedno vsaj enkrat izvedla)
+
+
 ## Key Concepts
 
 
@@ -396,10 +464,89 @@ public class Trgovina {
 ```
 
 
-sprotno racunanje kjer smo omejeni z velikostjo vrece:
+sprotno racunanje kjer progrm prebere 5 stevil:
 ```java
+import java.util.Scanner;
 
+public class Trgovina2 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int vsota = 0; // vsota doslej vnesenih stevil
+        int stVnosov = 0;
+
+        while (stVnosov < 5) {
+            System.out.print("vnesi stevilo: ");
+            int stevilo = sc.nextInt();
+            
+            stVnosov = stVnosov + 1;
+            vsota = vsota + stevilo;
+
+
+            System.out.println(vsota);
+
+        }
+    }
+}
 ```
+
+zakaj stVnosov deklariramo izven loopa? ker bi tako vsakic ko gre cez ga resetiralo.
+
+zdruzimo oba pogoja:
+
+```java
+import java.util.Scanner;
+
+public class Trgovina3 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int vsota = 0; // vsota doslej vnesenih stevil
+        int stVnosov = 0;
+
+        // while (stVnosov < 5 || vsota <= 42) {
+        while (stVnosov < 5 && vsota <= 42) {
+
+            System.out.print("vnesi stevilo: ");
+            int stevilo = sc.nextInt();
+            
+            stVnosov = stVnosov + 1;
+            vsota = vsota + stevilo;
+
+
+            System.out.println(vsota);
+
+        }
+    }
+}
+```
+
+ce imamo external file z inputom lahko beremo inpute(ne vemo kako dolg je input):
+
+```java 
+import java.util.Scanner;
+
+public class Trgovina3 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        sc.hasNextInt(); // vrne true ce je na vhodu se kaksno stevilo
+
+        while (sc.hasNextInt()){
+            int stevilo = sc.nextInt();
+            vsota = vsota + stevilo;
+        }
+        System.out.println(vsota);
+    }
+}
+```
+
+do loop example:
+
+```java
+```
+
+
 ## Questions
 
 - [ ] 
