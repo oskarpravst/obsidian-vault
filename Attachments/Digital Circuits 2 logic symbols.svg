@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="345" viewBox="0 0 640 345" font-family="Helvetica, Arial, sans-serif">
+<path d="M 110,30 L 140.0,30 A 30.0,30.0 0 0 1 140.0,90 L 110,90 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="60" y1="45" x2="110" y2="45" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="52" y="50" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="60" y1="75" x2="110" y2="75" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="52" y="80" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<circle cx="175" cy="60.0" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="180" y1="60.0" x2="220" y2="60.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="226" y="65.0" text-anchor="start" fill="#f59e0b" font-size="15">x₁ ↑ x₂</text>
+<text x="143" y="120" text-anchor="middle" fill="#8c8c8c" font-size="14">Sheffer (NAND)</text>
+<path d="M 430,30 Q 469.6,30 496.0,60.0 Q 469.6,90 430,90 Q 445.0,60.0 430,30 Z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<line x1="380" y1="45" x2="435.625" y2="45" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="372" y="50" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="380" y1="75" x2="435.625" y2="75" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="372" y="80" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<circle cx="501.0" cy="60.0" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="506.0" y1="60.0" x2="546.0" y2="60.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="552.0" y="65.0" text-anchor="start" fill="#f59e0b" font-size="15">x₁ ↓ x₂</text>
+<text x="463" y="120" text-anchor="middle" fill="#8c8c8c" font-size="14">Peirce (NOR)</text>
+<path d="M 110,190 Q 149.6,190 176.0,220.0 Q 149.6,250 110,250 Q 125.0,220.0 110,190 Z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M 101,190 Q 116.0,220.0 101,250" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="60" y1="205" x2="106.625" y2="205" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="52" y="210" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="60" y1="235" x2="106.625" y2="235" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="52" y="240" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<line x1="176.0" y1="220.0" x2="216.0" y2="220.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="222.0" y="225.0" text-anchor="start" fill="#f59e0b" font-size="15">x₁ ∇ x₂</text>
+<text x="143" y="280" text-anchor="middle" fill="#8c8c8c" font-size="14">sum modulo 2 (XOR)</text>
+<path d="M 430,190 Q 469.6,190 496.0,220.0 Q 469.6,250 430,250 Q 445.0,220.0 430,190 Z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M 421,190 Q 436.0,220.0 421,250" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="380" y1="205" x2="426.625" y2="205" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="372" y="210" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="380" y1="235" x2="426.625" y2="235" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="372" y="240" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<circle cx="501.0" cy="220.0" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="506.0" y1="220.0" x2="546.0" y2="220.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="552.0" y="225.0" text-anchor="start" fill="#f59e0b" font-size="15">x₁ ≡ x₂</text>
+<text x="463" y="280" text-anchor="middle" fill="#8c8c8c" font-size="14">equivalence (XNOR)</text>
+<text x="320" y="330" text-anchor="middle" fill="#8c8c8c" font-size="13">circle on the output = negation</text>
+</svg>

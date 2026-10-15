@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="170" viewBox="0 0 460 170" font-family="Helvetica, Arial, sans-serif">
+<rect x="150" y="30" width="110" height="110" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="205" y="92" text-anchor="middle" fill="#3b82f6" font-size="18">p.f.</text>
+<line x1="70" y1="50" x2="150" y2="50" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="60" y="55" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="70" y1="75" x2="150" y2="75" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="60" y="80" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<line x1="70" y1="125" x2="150" y2="125" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="60" y="130" text-anchor="end" fill="#8c8c8c" font-size="15">xₙ</text>
+<text x="110" y="105" text-anchor="middle" fill="#8c8c8c" font-size="16">⋮</text>
+<line x1="260" y1="85" x2="300" y2="85" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="308,85 300,81 300,89" fill="#8c8c8c"/>
+<text x="314" y="90" text-anchor="start" fill="#f59e0b" font-size="15">f(x₁, x₂, …, xₙ)</text>
+</svg>

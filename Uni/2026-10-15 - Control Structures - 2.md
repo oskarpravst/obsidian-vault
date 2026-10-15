@@ -51,7 +51,7 @@ if (pogoj){ // if true, this inside will be executed
 if (pogoj){
 	stavki1 // if met: here and then out (not into else)
 } else{
-	stavki2 // if met, the if will be skipped
+	stavki2 // if not met, the if part is skipped and only this runs
 }
 
 // all of this is just 1 conditional statement
@@ -142,11 +142,15 @@ public class Vecje {
         Scanner sc = new Scanner(System.in);
 
         boolean a = (3 < 4) || (1 / 0 == 1);
-        boolean a = (3 < 4) || (b == c); // undefined variables, so it wouldn't compile
+        // boolean a = (3 < 4) || (b == c); // undefined variables, so it wouldn't compile
         System.out.println(a);
     }
 }
 ```
+
+The first line compiles, because the compiler only checks that both sides are of type `boolean`. It also runs without an `ArithmeticException`: `3 < 4` is `true`, so with short-circuit evaluation `1 / 0` is never evaluated. Output: `true`.
+
+The second line does not compile, because `b` and `c` are not declared (and `a` would be declared twice), so it is commented out.
 
 ### `while` loop (*dokler*)
 
@@ -337,17 +341,19 @@ public class Ocena {
             ocena = 9;
         } else if (tocke >= 70){
             ocena = 8;
-        }  else if (tocke >= 70){
-            ocena = 7;
         } else if (tocke >= 60){
-            ocena = 6;
+            ocena = 7;
         } else if (tocke >= 50){
+            ocena = 6;
+        } else {
             ocena = 5;
         }
         System.out.println(ocena);
     }
 }
 ```
+
+The grading scale follows the slides: 90+ → 10, 80+ → 9, 70+ → 8, 60+ → 7, 50+ → 6, otherwise 5. (In class the condition `tocke >= 70` was written twice, so grade 7 was never reached.)
 
 System [[Pipe|pipe]]:
 
@@ -379,11 +385,11 @@ public class Ocena {
                 ocena = 9;
             } else if (tocke >= 70){
                 ocena = 8;
-            }  else if (tocke >= 70){
-                ocena = 7;
             } else if (tocke >= 60){
-                ocena = 6;
+                ocena = 7;
             } else if (tocke >= 50){
+                ocena = 6;
+            } else {
                 ocena = 5;
             }
             System.out.println(ocena);
@@ -537,12 +543,13 @@ With an external input file we can read the input even though we don't know how 
 ```java
 import java.util.Scanner;
 
-public class Trgovina3 {
+public class SestejVhod {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        sc.hasNextInt(); // vrne true ce je na vhodu se kaksno stevilo
+        int vsota = 0;
 
+        // sc.hasNextInt() vrne true ce je na vhodu se kaksno stevilo
         while (sc.hasNextInt()){
             int stevilo = sc.nextInt();
             vsota = vsota + stevilo;
@@ -595,7 +602,7 @@ public class Zaporedje {
         int spMeja = sc.nextInt();
         int zgMeja = sc.nextInt();
 
-        for (int stevilo = spMeja; stevilo <= zgMeja; stevilo + 1){
+        for (int stevilo = spMeja; stevilo <= zgMeja; stevilo++){
             System.out.println(stevilo);
         }
     }

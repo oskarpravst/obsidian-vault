@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="400" viewBox="0 0 660 400" font-family="Helvetica, Arial, sans-serif">
+<path d="M 130,20 L 160.0,20 A 30.0,30.0 0 0 1 160.0,80 L 130,80 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="75" y1="35" x2="130" y2="35" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="40" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₁</text>
+<line x1="75" y1="50" x2="130" y2="50" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="55" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₂</text>
+<line x1="75" y1="65" x2="130" y2="65" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="70" text-anchor="end" fill="#8c8c8c" font-size="15">x₃</text>
+<text x="196" y="42.0" text-anchor="start" fill="#8c8c8c" font-size="14">x̄₁x̄₂x₃</text>
+<polyline points="190,50.0 360,50.0 360,155 436.375,155" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<path d="M 130,110 L 160.0,110 A 30.0,30.0 0 0 1 160.0,170 L 130,170 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="75" y1="125" x2="130" y2="125" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="130" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₁</text>
+<line x1="75" y1="140" x2="130" y2="140" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="145" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<line x1="75" y1="155" x2="130" y2="155" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="160" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₃</text>
+<text x="196" y="132.0" text-anchor="start" fill="#8c8c8c" font-size="14">x̄₁x₂x̄₃</text>
+<polyline points="190,140.0 340,140.0 340,178 441.78,178" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<path d="M 130,200 L 160.0,200 A 30.0,30.0 0 0 1 160.0,260 L 130,260 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="75" y1="215" x2="130" y2="215" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="220" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="75" y1="230" x2="130" y2="230" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="235" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₂</text>
+<line x1="75" y1="245" x2="130" y2="245" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="250" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₃</text>
+<text x="196" y="222.0" text-anchor="start" fill="#8c8c8c" font-size="14">x₁x̄₂x̄₃ = m₄</text>
+<polyline points="190,230.0 360,230.0 360,201 441.895,201" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<path d="M 130,290 L 160.0,290 A 30.0,30.0 0 0 1 160.0,350 L 130,350 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="75" y1="305" x2="130" y2="305" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="310" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="75" y1="320" x2="130" y2="320" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="325" text-anchor="end" fill="#8c8c8c" font-size="15">x₂</text>
+<line x1="75" y1="335" x2="130" y2="335" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="66" y="340" text-anchor="end" fill="#8c8c8c" font-size="15">x₃</text>
+<text x="196" y="312.0" text-anchor="start" fill="#8c8c8c" font-size="14">x₁x₂x₃ = m₇</text>
+<polyline points="190,320.0 380,320.0 380,224 436.72,224" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<path d="M 430,140 Q 496.0,140 540.0,190.0 Q 496.0,240 430,240 Q 455.0,190.0 430,140 Z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<line x1="540.0" y1="190.0" x2="570.0" y2="190.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="576.0" y="195.0" text-anchor="start" fill="#f59e0b" font-size="15">f(x₁, x₂, x₃)</text>
+<text x="320" y="385" text-anchor="middle" fill="#8c8c8c" font-size="15">f = m₁ ∨ m₂ ∨ m₄ ∨ m₇</text>
+</svg>
