@@ -308,7 +308,7 @@ An integrated circuit contains the logic circuits (*logična vezja*) and the pow
 - GND = 0 V
 - VCC = 5 V
 
-![[Digital Circuits 2 integrated circuit.svg]]
+![[Digital Circuits 2 integrated circuit.svg|459]]
 
 ## Questions
 
