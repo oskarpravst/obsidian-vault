@@ -9,31 +9,6 @@ date: 2026-10-14
 week: "1"
 ---
 
-# 2026-10-14 - Exercises for Introduction to programming - 1
-
-## Main Idea
-
-
-## Tasks
-
-
-## Notes
-
-
-## Code
-
-
-## Questions
-
-- [ ] 
-
-## Connections
-
-- Lecture:
-- Exercises:
-
-## Sources
-
 # 2026-10-14 - Exercises for Introduction to programming
 
 ## Main Idea

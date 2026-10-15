@@ -13,9 +13,6 @@ week:
 ## Notes
 
 
-## Key Concepts
-
-
 ## Code
 
 '''

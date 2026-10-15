@@ -154,7 +154,7 @@ The second line does not compile, because `b` and `c` are not declared (and `a` 
 
 ### `while` loop (*dokler*)
 
-While the condition is met, it repeats. `while` means it is a loop.
+While the condition is met, it repeats. `while` means it is a [[While Loop|loop]].
 
 ```java
 while (pogoj){ // checks like an if statement
@@ -239,7 +239,7 @@ do {
 } while (pogoj);
 ```
 
-First the statements are executed, then the condition is checked (the loop always runs at least once).
+In a [[Do-while Loop|`do` loop]] the statements are executed first, then the condition is checked (the loop always runs at least once).
 
 Body → condition (the condition is written at the end).
 
@@ -252,14 +252,6 @@ for (inicializacija; pogoj; posodobitev){
 ```
 
 The [[For Loop|for loop]] is a shorter way of writing a `while` loop tied to a counter (*števec*).
-
-## Key Concepts
-
-- [[Conditional Statement]] – `if`, `else`, `else if`
-- [[Boolean]] – logical expressions, comparison and logical operators
-- [[Short-circuit Evaluation]]
-- [[While Loop]], [[Do-while Loop]], [[For Loop]]
-- [[Infinite Loop]]
 
 ## Code
 

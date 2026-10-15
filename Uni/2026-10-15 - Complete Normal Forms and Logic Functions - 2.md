@@ -275,7 +275,7 @@ We will avoid implications (*implikacije se bomo izogibali*).
 
 ### Logic symbols (*logični simboli*)
 
-The circle (bubble) on the output means negation (*negacija*).
+Symbols of the [[Logic Gate|logic gates]]. The circle (bubble) on the output means negation (*negacija*).
 
 | Symbol | Shape | Output |
 |---|---|---|
@@ -310,13 +310,6 @@ An integrated circuit contains the logic circuits (*logična vezja*) and the pow
 
 ![[Digital Circuits 2 integrated circuit.svg]]
 
-## Key Concepts
-
-- [[Minterm]], [[Maxterm]]
-- [[Disjunctive Normal Form|PDNO]] (complete disjunctive normal form), [[Conjunctive Normal Form|PKNO]] (complete conjunctive normal form)
-- [[De Morgan's Laws]] — conversion between minterms and maxterms
-- [[Logic Gate|Logic gates]]: [[Sheffer Stroke|NAND]], [[Peirce Arrow|NOR]], [[Exclusive Or|XOR]], XNOR
-
 ## Questions
 
 - [ ] 
@@ -326,6 +319,7 @@ An integrated circuit contains the logic circuits (*logična vezja*) and the pow
 - Course: [[Introduction to Digital Circuits]]
 - Previous lecture: [[2026-10-11 - Boolean Algebra - 1]] — switching functions, truth tables, logic symbols
 - Related: [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] (normal forms and NAND/NOR in Discrete structures)
+- PDNO and PKNO correspond to the [[Disjunctive Normal Form]] and [[Conjunctive Normal Form]] of propositional logic
 
 ## Sources
 
