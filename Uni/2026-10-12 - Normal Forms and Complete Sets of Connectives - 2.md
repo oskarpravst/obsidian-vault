@@ -243,11 +243,11 @@ Also not complete:
 $A \veebar B$ — "*A ekskluzivni ali B*". True when **exactly one** is true (the opposite of equivalence).
 
 | $A$ | $B$ | $A \veebar B$ |
-|:-:|:-:|:-:|
-| 0 | 0 | 0 |
-| 0 | 1 | 1 |
-| 1 | 0 | 1 |
-| 1 | 1 | 0 |
+| :-: | :-: | :-----------: |
+|  0  |  0  |       0       |
+|  0  |  1  |       1       |
+|  1  |  0  |       1       |
+|  1  |  1  |       0       |
 
 #### Sheffer connective (NAND)
 
