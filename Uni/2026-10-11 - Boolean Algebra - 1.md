@@ -276,6 +276,9 @@ A truth table can be written in parts. If the set of input variables is the same
 
 - Course: [[Introduction to Digital Circuits]]
 - Related: [[2026-10-05 - Propositional Logic - 1]] (same laws in propositional logic)
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja1/vaje 1.pdf|vaje 1]], circuit [[Sources/introduction_to_digital_circuits/vaje/vaja1/vaja1.circ|vaja1.circ]]
+
+![[Digital Circuits 1 vaja1 circuit.svg]]
 
 ## Sources
 

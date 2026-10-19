@@ -420,7 +420,7 @@ Here $p \Rightarrow q \sim 0$ and $r \Rightarrow s \sim 0$, so the first premise
 
 - Course: [[Discrete structures]]
 - Previous lecture: [[2026-10-05 - Propositional Logic - 1]]
-- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 2.pdf|vaja 2]]
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 2.pdf|vaja 2]]
 - NAND/NOR and normal forms also appear in [[Introduction to Digital Circuits]]
 
 ## Sources

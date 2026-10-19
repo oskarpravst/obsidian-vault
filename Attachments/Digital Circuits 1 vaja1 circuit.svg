@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="466" height="185" viewBox="0 0 466 185" font-family="Helvetica, Arial, sans-serif">
+<g transform="translate(-153,-175)">
+<line x1="210" y1="190" x2="320" y2="190" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="260" x2="250" y2="260" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="210" y1="320" x2="250" y2="320" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="280" y1="260" x2="320" y2="260" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="280" y1="320" x2="410" y2="320" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="190" x2="320" y2="200" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="200" x2="320" y2="210" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="230" x2="320" y2="240" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="240" x2="320" y2="260" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="370" y1="220" x2="430" y2="220" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="410" y1="280" x2="410" y2="320" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="410" y1="280" x2="430" y2="280" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="430" y1="220" x2="430" y2="240" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<line x1="480" y1="260" x2="570" y2="260" stroke="#8c8c8c" stroke-width="2" stroke-linecap="round"/>
+<rect x="194" y="182" width="16" height="16" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<text x="188" y="195" text-anchor="end" fill="#8c8c8c" font-size="16">x₁</text>
+<rect x="194" y="252" width="16" height="16" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<text x="188" y="265" text-anchor="end" fill="#8c8c8c" font-size="16">x₂</text>
+<rect x="194" y="312" width="16" height="16" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<text x="188" y="325" text-anchor="end" fill="#8c8c8c" font-size="16">x₃</text>
+<circle cx="578" cy="260" r="8" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="594" y="265" fill="#f59e0b" font-size="16">y</text>
+<path d="M250,250 L270,260 L250,270 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="275" cy="260" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M250,310 L270,320 L250,330 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="275" cy="320" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M320,195 H345 A25,25 0 0 1 345,245 H320 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M430,235 Q460,235 480,260 Q460,285 430,285 Q445,260 430,235 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+</g>
+</svg>
