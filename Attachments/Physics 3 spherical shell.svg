@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260" font-family="Helvetica, Arial, sans-serif">
+<circle cx="150" cy="140" r="100" stroke="#3b82f6" stroke-width="3" fill="none"/>
+<text x="220" y="52" text-anchor="start" fill="#3b82f6" font-size="15">Δm</text>
+<text x="20" y="30" text-anchor="start" fill="#8c8c8c" font-size="15">Δr ≪ r</text>
+<circle cx="140" cy="125" r="4" stroke="#ef4444" stroke-width="0" fill="#ef4444"/>
+<line x1="140" y1="125" x2="134.09596195932437" y2="91.51653639758491" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="132.70677653798893,83.63807437348726 130.2,92.2 138.0,90.8" fill="#f59e0b"/>
+<line x1="140" y1="125" x2="164.04163056034264" y2="100.95836943965739" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="169.698484809835,95.301515190165 161.2,98.1 166.9,103.8" fill="#f59e0b"/>
+<line x1="140" y1="125" x2="173.48346360241507" y2="130.90403804067563" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="181.36192562651274,132.29322346201107 174.2,127.0 172.8,134.8" fill="#f59e0b"/>
+<line x1="140" y1="125" x2="137.03670474657963" y2="158.87061973511933" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="136.33945880459837,166.8401773198533 141.0,159.2 133.1,158.5" fill="#f59e0b"/>
+<line x1="140" y1="125" x2="108.05045089327912" y2="136.62868487307273" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="100.53290992699185,139.36484601967808 109.4,140.4 106.7,132.9" fill="#f59e0b"/>
+<line x1="140" y1="125" x2="112.14883049417426" y2="105.49840116406442" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="105.59561413986233,100.90978967325606 109.9,108.8 114.4,102.2" fill="#f59e0b"/>
+<text x="70.0" y="95" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">g</tspan></text>
+<line x1="70.7" y1="80.8" x2="77.0" y2="80.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="79.0,80.8 75.0,78.3 75.0,83.2" fill="#f59e0b"/>
+<text x="123.5" y="202" fill="#f59e0b" font-size="16" xml:space="preserve"><tspan font-size="16">Σ</tspan><tspan font-size="16">F</tspan><tspan font-size="12" dy="4">g</tspan><tspan font-size="16" dy="-4"> = 0</tspan></text>
+<line x1="133.9" y1="186.8" x2="140.7" y2="186.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="142.7,186.8 138.7,184.4 138.7,189.2" fill="#f59e0b"/>
+<text x="268" y="135" text-anchor="start" fill="#8c8c8c" font-size="15">spherical shell</text>
+<text x="268" y="154" text-anchor="start" fill="#8c8c8c" font-size="15">(sferična lupina)</text>
+</svg>
