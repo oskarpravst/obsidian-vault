@@ -21,7 +21,7 @@ $$|\vec{r}(t)| = r = \text{const.}$$
 
 In 2D: $x^2 + y^2 = r^2$, i.e. $x(t)^2 + y(t)^2 = r^2$.
 
-The position is described by the angle $\varphi(t)$ from the $x$ axis ([[Physics 2 notes.pdf#page=1|sketch]]):
+The position is described by the angle $\varphi(t)$ from the $x$ axis ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=1|sketch]]):
 
 $$
 \vec{r}(t):\quad
@@ -73,7 +73,7 @@ Here $\ddot{\varphi}(t) = \alpha(t)$ and $\dot{\varphi}(t)^2 = \omega(t)^2$ (see
 
 #### Speed of circular motion
 
-From ① with $\dot{\varphi} = \omega$ ([[Physics 2 notes.pdf#page=3|sketch]]: $\vec{v}$ is tangent to the circle):
+From ① with $\dot{\varphi} = \omega$ ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=3|sketch]]: $\vec{v}$ is tangent to the circle):
 
 $$\vec{v}(t) = r\omega\,\big(-\sin\varphi(t),\; \cos\varphi(t),\; 0\big)$$
 
@@ -117,14 +117,14 @@ These are exactly the two terms of $\vec{a}(t)$ from ②: the first ($r\ddot{\va
 - $v = |\vec{v}(t)| = \omega r = \text{const.}$, but $\vec{v}$ changes direction
 
 > [!tip] Fun lesson (*hecna lekcija*)
-> Uniform circular motion is **still accelerated motion** — $\vec{a}_r$ points towards the centre ([[Physics 2 notes.pdf#page=5|sketch]]).
+> Uniform circular motion is **still accelerated motion** — $\vec{a}_r$ points towards the centre ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=5|sketch]]).
 > As soon as you move in a circle, the direction of the velocity changes → it is accelerated motion. (That is why on Earth we are in an accelerated frame — *zato smo na Zemlji v pospešenem sistemu*.)
 
 ### F 2.2 — Vector form of circular motion
 
 > [!info] Vector product (*vektorski produkt*) — simplified
 > $$\vec{c} = \vec{a} \times \vec{b} = -(\vec{b} \times \vec{a}), \qquad |\vec{c}| = |\vec{a}|\,|\vec{b}|\sin\theta$$
-> - The result is a **vector**, perpendicular to both $\vec{a}$ and $\vec{b}$. Its direction is defined by the positive rule (*smer definirana s pozitivnim pravilom*) — see the [[Physics 2 notes.pdf#page=6|sketch]].
+> - The result is a **vector**, perpendicular to both $\vec{a}$ and $\vec{b}$. Its direction is defined by the positive rule (*smer definirana s pozitivnim pravilom*) — see the [[Sources/physics/photoNotes/lectures/notes 2.pdf#page=6|sketch]].
 > - $\theta = 0 \implies |\vec{c}| = 0$: parallel vectors have no vector product (they don't define a plane — *ni ravnine*).
 > - $\theta = \frac{\pi}{2} \implies |\vec{c}|_{\max} = |\vec{a}|\,|\vec{b}|$
 
@@ -166,7 +166,7 @@ The basic building block of matter is the **atom** — approximately a point bod
 
 #### Newton's laws for $N = 2$ atoms (both with mass $m_1$)
 
-Each atom feels an **external force** (*zunanja sila*) $\vec{F}_{z1}$, $\vec{F}_{z2}$ and an **internal force** (*notranja sila* — inside the system) from the other atom, $\vec{F}_{2\to1}$, $\vec{F}_{1\to2}$ ([[Physics 2 notes.pdf#page=8|sketch]]).
+Each atom feels an **external force** (*zunanja sila*) $\vec{F}_{z1}$, $\vec{F}_{z2}$ and an **internal force** (*notranja sila* — inside the system) from the other atom, $\vec{F}_{2\to1}$, $\vec{F}_{1\to2}$ ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=8|sketch]]).
 
 - **2nd law** for each body:
   $$
@@ -193,7 +193,7 @@ $$\vec{F}_z = m_{\text{system}} \cdot \vec{a}_{\text{system}}$$
 
 #### $N = 3$
 
-Each body feels its external force and the internal forces of the other two ([[Physics 2 notes.pdf#page=9|sketch]]).
+Each body feels its external force and the internal forces of the other two ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=9|sketch]]).
 
 **Punchline:** the sum of internal forces is always 0 (because of Newton's 3rd law) (*vsota notranjih sil je vedno 0, zaradi 3. N. z.*).
 
@@ -207,7 +207,7 @@ For a rigid body (*togo telo*) that moves without rotating (translation): $\vec{
 
 #### [[Centre of Mass|Centre of mass]] (*masno središče*)
 
-The position of the centre of mass is the mass-weighted average of the position vectors ([[Physics 2 notes.pdf#page=10|sketch]]); differentiating gives its velocity and acceleration:
+The position of the centre of mass is the mass-weighted average of the position vectors ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=10|sketch]]); differentiating gives its velocity and acceleration:
 
 $$
 \vec{r}_* = \frac{m_1\vec{r}_1 + m_2\vec{r}_2 + m_3\vec{r}_3}{m_s}
@@ -245,7 +245,7 @@ $$\vec{F}_z = \sum_{i=1}^{N} \vec{F}_{gi} = \sum_{i=1}^{N} m_i\vec{g} = m_s\vec{
 
 $$\vec{F}_z = m_s\vec{a}_* \implies \cancel{m_s}\,\vec{g} = \cancel{m_s}\,\vec{a}_* \implies \vec{a}_* = \vec{g}$$
 
-The total force of gravity is placed in the centre of mass (*damo v masno središče*) ([[Physics 2 notes.pdf#page=11|sketch]]).
+The total force of gravity is placed in the centre of mass (*damo v masno središče*) ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=11|sketch]]).
 
 **Two kinds of mass:**
 

@@ -9,7 +9,7 @@ week: "1"
 
 ## Main Idea
 
-Physical quantities consist of a number and a unit, and the [[SI System|SI system]] defines the units objectively. [[Kinematics]] (*kinematika*) describes motion through position, velocity and acceleration, which are linked by [[Derivative|differentiation]] and [[Integral|integration]]. The lecture covers 1D motion (uniform and uniformly accelerated), oscillation, projectile motion and uniform circular motion.
+Physical quantities consist of a number and a unit, and the [[SI System|SI system]] defines the units objectively. [[Kinematics]] (*kinematika*) describes motion through position, velocity and acceleration, which are linked by [[Derivative|differentiation]] and [[Integral|integration]]. The lecture covers 1D motion (uniform and uniformly accelerated), oscillation, projectile motion and uniform [[Circular Motion|circular motion]].
 
 ## Notes
 

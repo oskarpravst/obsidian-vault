@@ -266,6 +266,7 @@ $$\underbrace{\int_{t_z}^{t_k} \vec{F}_z\,dt}_{\text{impulse of the external for
 ## Connections
 
 - Course: [[Physics]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 3.pdf|vaje 3]] — circular motion (task 2.2), Newton's laws, friction on a horizontal surface and an incline (tasks 3.1, 3.2)
 - Previous lecture: [[2026-10-13 - Circular Motion and Newton's Laws - 2]] — circular motion ($a_r = \omega^2 r$), Newton's laws, force of gravity, friction
 - [[Derivative]] — chain rule, $\frac{d}{dt}(v^2) = 2\,\vec{v} \cdot \vec{a}$
 - [[Integral]] — work and impulse as integrals
