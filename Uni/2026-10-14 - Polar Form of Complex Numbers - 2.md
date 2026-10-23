@@ -213,6 +213,7 @@ Each $Q_j$ is a quadratic factor that cannot be split over $\mathbb{R}$ (*kvadra
 
 - Course: [[Calculus]]
 - Previous lecture: [[2026-10-11 - Numbers - 1]] — Cartesian form, conjugate, absolute value
+- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 2.pdf|vaje 2]]
 - [[Circular Motion]] — the same $r$, $\varphi$ description of a point on a circle (Physics)
 
 ## Sources

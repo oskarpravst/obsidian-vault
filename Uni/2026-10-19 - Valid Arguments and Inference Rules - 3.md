@@ -373,6 +373,7 @@ Typically (*tipično*): existential statements go with conjunctions, universal s
 - Course: [[Discrete structures]]
 - Previous lecture: [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — valid arguments and counterexamples were introduced there
 - Laws used in the proofs: [[De Morgan's Laws]], [[Contraposition]]
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 3.pdf|vaje 3]]
 
 ## Sources
 
