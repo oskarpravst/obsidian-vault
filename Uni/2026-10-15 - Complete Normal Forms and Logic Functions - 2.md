@@ -320,6 +320,9 @@ An integrated circuit contains the logic circuits (*logična vezja*) and the pow
 - Previous lecture: [[2026-10-11 - Boolean Algebra - 1]] — switching functions, truth tables, logic symbols
 - Related: [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] (normal forms and NAND/NOR in Discrete structures)
 - PDNO and PKNO correspond to the [[Disjunctive Normal Form]] and [[Conjunctive Normal Form]] of propositional logic
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja2/vaje 2.pdf|vaje 2]], circuit [[Sources/introduction_to_digital_circuits/vaje/vaja2/vaja2.circ|vaja2.circ]]
+
+![[Digital Circuits 2 vaja2 circuit.svg]]
 
 ## Sources
 
