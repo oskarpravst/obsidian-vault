@@ -609,7 +609,7 @@ public class Zaporedje {
 
 - Course: [[Programming 1]]
 - Previous lecture: [[2026-10-08 - Introduction to programming - 1]] – variables, blocks, `Scanner`, compiling
-- Exercises: [[2026-10-19 - Exercises for Control Structures - 2]]
+- Exercises: [[2026-10-19 - Exercises for Control Structures - 2]], [[2026-10-26 - Exercises for Control Structures - 3]]
 - Logical operators and precedence: [[2026-10-05 - Propositional Logic - 1]], [[2026-10-11 - Boolean Algebra - 1]]
 
 ## Sources
