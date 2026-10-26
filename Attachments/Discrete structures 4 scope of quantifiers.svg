@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="538" viewBox="0 0 560 538" font-family="Helvetica, Arial, sans-serif">
+<text x="37.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">∀</text>
+<text x="51.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="60.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="71.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="83.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="93.0" y="52" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="103.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="110.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="122.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">∧</text>
+<text x="133.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="144.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">Q</text>
+<text x="156.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="166.0" y="52" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="175.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="182.5" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="192.0" y="52" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="202.0" y="52" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<polyline points="31,59 31,64 106,64 106,59" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<line x1="93.0" y1="57" x2="93.0" y2="64" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="166.0" y1="18" x2="166.0" y2="24.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="166.0,32 170.0,24.0 162.0,24.0" fill="#f59e0b"/>
+<line x1="192.0" y1="18" x2="192.0" y2="24.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="192.0,32 196.0,24.0 188.0,24.0" fill="#f59e0b"/>
+<text x="30" y="92" text-anchor="start" fill="#8c8c8c" font-size="13">reaches only to the end of the nearest formula (doseg)</text>
+<text x="37.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">∃</text>
+<text x="50.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="59.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="70.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="82.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="92.0" y="144" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="102.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="109.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="125.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">⇒</text>
+<text x="140.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="151.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">∀</text>
+<text x="165.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="174.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="185.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">Q</text>
+<text x="197.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="207.0" y="144" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="217.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="224.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="236.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">∨</text>
+<text x="247.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="258.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="270.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="280.0" y="144" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="290.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="297.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="309.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">∧</text>
+<text x="320.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="331.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">R</text>
+<text x="343.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="353.0" y="144" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="363.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="370.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="382.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">∨</text>
+<text x="393.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="404.5" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">S</text>
+<text x="416.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="426.0" y="144" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="436.0" y="144" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<polyline points="31,151 31,156 105,156 105,151" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<polyline points="145,151 145,156 220,156 220,151" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<line x1="92.0" y1="149" x2="92.0" y2="156" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="207.0" y1="149" x2="207.0" y2="156" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="280.0" y1="110" x2="280.0" y2="116.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="280.0,124 284.0,116.0 276.0,116.0" fill="#f59e0b"/>
+<line x1="353.0" y1="110" x2="353.0" y2="116.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="353.0,124 357.0,116.0 349.0,116.0" fill="#f59e0b"/>
+<line x1="426.0" y1="110" x2="426.0" y2="116.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="426.0,124 430.0,116.0 422.0,116.0" fill="#f59e0b"/>
+<text x="37.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">∃</text>
+<text x="50.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="59.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="70.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">¬</text>
+<text x="84.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="96.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="106.0" y="236" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="115.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="122.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="132.0" y="236" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="142.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="149.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="165.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">⇒</text>
+<text x="180.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="191.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">Q</text>
+<text x="203.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="213.0" y="236" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="223.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="230.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="242.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">∧</text>
+<text x="253.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="264.5" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">R</text>
+<text x="276.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="286.0" y="236" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="296.0" y="236" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<polyline points="31,243 31,248 145,248 145,243" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<line x1="106.0" y1="241" x2="106.0" y2="248" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="132.0" y1="202" x2="132.0" y2="208.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="132.0,216 136.0,208.0 128.0,208.0" fill="#f59e0b"/>
+<line x1="213.0" y1="202" x2="213.0" y2="208.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="213.0,216 217.0,208.0 209.0,208.0" fill="#f59e0b"/>
+<line x1="286.0" y1="202" x2="286.0" y2="208.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="286.0,216 290.0,208.0 282.0,208.0" fill="#f59e0b"/>
+<text x="30" y="276" text-anchor="start" fill="#8c8c8c" font-size="13">only x is bound by ∃x (samo x)</text>
+<text x="37.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">∀</text>
+<text x="51.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="60.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="71.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">¬</text>
+<text x="85.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">∃</text>
+<text x="98.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="107.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="118.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">∀</text>
+<text x="132.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">z</text>
+<text x="141.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="152.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="164.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="174.0" y="328" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="183.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="190.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="200.0" y="328" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="209.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="216.5" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="226.0" y="328" text-anchor="middle" fill="#3b82f6" font-size="21">z</text>
+<text x="236.0" y="328" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<polyline points="112,335 112,340 239,340 239,335" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<polyline points="79,344 79,349 239,349 239,344" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<polyline points="31,353 31,358 239,358 239,353" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<line x1="174.0" y1="333" x2="174.0" y2="349" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="226.0" y1="333" x2="226.0" y2="340" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="200.0" y1="294" x2="200.0" y2="300.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200.0,308 204.0,300.0 196.0,300.0" fill="#f59e0b"/>
+<text x="30" y="382" text-anchor="start" fill="#8c8c8c" font-size="13">outer ∀x: no free x left to bind (ni prostih x) — read from right to left</text>
+<text x="37.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">P</text>
+<text x="49.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="59.0" y="432" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="69.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="76.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="88.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">∨</text>
+<text x="99.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="110.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">∃</text>
+<text x="123.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">x</text>
+<text x="132.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="143.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">Q</text>
+<text x="155.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="165.0" y="432" text-anchor="middle" fill="#3b82f6" font-size="21">x</text>
+<text x="174.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="181.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="191.0" y="432" text-anchor="middle" fill="#f59e0b" font-size="21">y</text>
+<text x="201.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<text x="208.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="220.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">∧</text>
+<text x="231.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="242.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">R</text>
+<text x="254.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">(</text>
+<text x="264.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">b</text>
+<text x="273.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">,</text>
+<text x="280.5" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21"> </text>
+<text x="290.0" y="432" text-anchor="middle" fill="#f59e0b" font-size="21">x</text>
+<text x="300.0" y="432" text-anchor="middle" fill="#8c8c8c" font-size="21">)</text>
+<polyline points="104,439 104,444 204,444 204,439" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<line x1="165.0" y1="437" x2="165.0" y2="444" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="59.0" y1="398" x2="59.0" y2="404.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="59.0,412 63.0,404.0 55.0,404.0" fill="#f59e0b"/>
+<line x1="191.0" y1="398" x2="191.0" y2="404.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="191.0,412 195.0,404.0 187.0,404.0" fill="#f59e0b"/>
+<line x1="290.0" y1="398" x2="290.0" y2="404.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="290.0,412 294.0,404.0 286.0,404.0" fill="#f59e0b"/>
+<text x="30" y="472" text-anchor="start" fill="#8c8c8c" font-size="13">W from the meaning of quantifiers</text>
+<text x="30" y="506" text-anchor="start" fill="#8c8c8c" font-size="13">blue = bound occurrence (vezana), orange ↓ = free occurrence (prosta);</text>
+<text x="30" y="524" text-anchor="start" fill="#8c8c8c" font-size="13">bracket = scope of the quantifier (doseg kvantifikatorja)</text>
+</svg>

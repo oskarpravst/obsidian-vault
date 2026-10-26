@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="190" viewBox="0 0 490 190" font-family="Helvetica, Arial, sans-serif">
+<circle cx="40" cy="75" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="130" cy="35" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="200" cy="90" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="75" cy="150" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="170" cy="165" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M51.0,75.6 Q95.2,77.8 118.0,49.7" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="123.1,43.5 114.9,47.2 121.1,52.3" fill="#8c8c8c"/>
+<path d="M134.7,44.9 Q151.4,79.8 181.4,86.1" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="189.2,87.7 182.2,82.2 180.6,90.0" fill="#8c8c8c"/>
+<path d="M195.3,80.1 Q178.6,45.2 148.6,38.9" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="140.8,37.3 147.8,42.8 149.4,35.0" fill="#8c8c8c"/>
+<text x="250" y="70" text-anchor="start" fill="#8c8c8c" font-size="14">people (dots)</text>
+<text x="250" y="92" text-anchor="start" fill="#8c8c8c" font-size="14">x → y … x knows y</text>
+<text x="250" y="114" text-anchor="start" fill="#8c8c8c" font-size="14">(arrows represent the relation</text>
+<text x="250" y="132" text-anchor="start" fill="#8c8c8c" font-size="14">of knowing — relacija poznavanja)</text>
+</svg>
