@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="110" viewBox="0 0 460 110" font-family="Helvetica, Arial, sans-serif">
+<circle cx="30" cy="60" r="5" fill="#3b82f6"/>
+<line x1="30" y1="60" x2="82.0" y2="60.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="90,60 82.0,56.0 82.0,64.0" fill="#3b82f6"/>
+<text x="45.0" y="48" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1z</tspan></text>
+<line x1="45.6" y1="33.8" x2="50.4" y2="33.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="52.4,33.8 48.4,31.4 48.4,36.1" fill="#3b82f6"/>
+<circle cx="150" cy="60" r="32" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="150" y="66" text-anchor="middle" fill="#3b82f6" font-size="15">M</text>
+<text x="215" y="66" text-anchor="start" fill="#8c8c8c" font-size="22">⇒</text>
+<circle cx="320" cy="60" r="5" fill="#f59e0b"/>
+<line x1="320" y1="60" x2="273.0" y2="60.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="265,60 273.0,64.0 273.0,56.0" fill="#f59e0b"/>
+<text x="270.0" y="48" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1k</tspan></text>
+<line x1="270.6" y1="33.8" x2="275.4" y2="33.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="277.4,33.8 273.4,31.4 273.4,36.1" fill="#f59e0b"/>
+<circle cx="380" cy="60" r="32" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="380" y="66" text-anchor="middle" fill="#f59e0b" font-size="15">M</text>
+<line x1="412" y1="60" x2="424.0" y2="60.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="432,60 424.0,56.0 424.0,64.0" fill="#f59e0b"/>
+<text x="415.0" y="30" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">2k</tspan></text>
+<line x1="415.6" y1="15.8" x2="420.4" y2="15.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="422.4,15.8 418.4,13.3 418.4,18.1" fill="#f59e0b"/>
+</svg>

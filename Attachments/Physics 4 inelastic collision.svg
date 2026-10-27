@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="160" viewBox="0 0 495 160" font-family="Helvetica, Arial, sans-serif">
+<text x="10" y="22" text-anchor="start" fill="#8c8c8c" font-size="14">before (z)</text>
+<rect x="20" y="70" width="70" height="34" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="45.8" y="93" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<rect x="150" y="70" width="80" height="34" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="180.8" y="93" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="10" y1="110" x2="250" y2="110" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="35" y1="60" x2="77.0" y2="60.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="85,60 77.0,56.0 77.0,64.0" fill="#3b82f6"/>
+<text x="45.0" y="50" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1z</tspan></text>
+<line x1="45.6" y1="35.8" x2="50.4" y2="35.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="52.4,35.8 48.4,33.4 48.4,38.1" fill="#3b82f6"/>
+<line x1="200" y1="60" x2="168.0" y2="60.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="160,60 168.0,64.0 168.0,56.0" fill="#3b82f6"/>
+<text x="165.0" y="50" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">2z</tspan></text>
+<line x1="165.6" y1="35.8" x2="170.3" y2="35.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="172.3,35.8 168.3,33.4 168.3,38.1" fill="#3b82f6"/>
+<text x="300" y="22" text-anchor="start" fill="#8c8c8c" font-size="14">after (k)</text>
+<rect x="300" y="70" width="70" height="34" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="325.8" y="93" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<rect x="370" y="70" width="80" height="34" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="400.8" y="93" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="290" y1="110" x2="470" y2="110" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="370" y1="50" x2="432.0" y2="50.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="440,50 432.0,46.0 432.0,54.0" fill="#f59e0b"/>
+<text x="330.0" y="40" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">k</tspan><tspan font-size="15" dy="-4"> = </tspan><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1k</tspan><tspan font-size="15" dy="-4"> = </tspan><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">2k</tspan></text>
+<line x1="330.6" y1="25.8" x2="335.4" y2="25.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="337.4,25.8 333.4,23.4 333.4,28.1" fill="#f59e0b"/>
+<line x1="360.6" y1="25.8" x2="365.4" y2="25.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="367.4,25.8 363.4,23.4 363.4,28.1" fill="#f59e0b"/>
+<line x1="396.6" y1="25.8" x2="401.4" y2="25.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="403.4,25.8 399.4,23.4 399.4,28.1" fill="#f59e0b"/>
+<line x1="10" y1="140" x2="462.0" y2="140.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="470,140 462.0,136.0 462.0,144.0" fill="#8c8c8c"/>
+<text x="476" y="145" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+</svg>

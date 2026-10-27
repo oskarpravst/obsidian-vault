@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="140" viewBox="0 0 510 140" font-family="Helvetica, Arial, sans-serif">
+<text x="10" y="22" text-anchor="start" fill="#8c8c8c" font-size="14">before (z)</text>
+<rect x="20" y="70" width="70" height="34" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="45.8" y="93" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<rect x="150" y="70" width="70" height="34" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="175.8" y="93" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="30" y1="55" x2="82.0" y2="55.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="90,55 82.0,51.0 82.0,59.0" fill="#3b82f6"/>
+<text x="45.0" y="45" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1z</tspan></text>
+<line x1="45.6" y1="30.8" x2="50.4" y2="30.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="52.4,30.8 48.4,28.4 48.4,33.1" fill="#3b82f6"/>
+<line x1="195" y1="55" x2="163.0" y2="55.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="155,55 163.0,59.0 163.0,51.0" fill="#3b82f6"/>
+<text x="160.0" y="45" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">2z</tspan></text>
+<line x1="160.6" y1="30.8" x2="165.3" y2="30.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="167.3,30.8 163.3,28.4 163.3,33.1" fill="#3b82f6"/>
+<line x1="20" y1="125" x2="222.0" y2="125.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="230,125 222.0,121.0 222.0,129.0" fill="#8c8c8c"/>
+<text x="236" y="130" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+<text x="290" y="22" text-anchor="start" fill="#8c8c8c" font-size="14">after (k)</text>
+<rect x="300" y="70" width="70" height="34" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="325.8" y="93" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<rect x="420" y="70" width="70" height="34" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<text x="445.8" y="93" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">m</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="345" y1="55" x2="308.0" y2="55.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="300,55 308.0,59.0 308.0,51.0" fill="#f59e0b"/>
+<text x="310.0" y="45" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">1k</tspan></text>
+<line x1="310.6" y1="30.8" x2="315.4" y2="30.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="317.4,30.8 313.4,28.4 313.4,33.1" fill="#f59e0b"/>
+<line x1="430" y1="55" x2="482.0" y2="55.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="490,55 482.0,51.0 482.0,59.0" fill="#f59e0b"/>
+<text x="445.0" y="45" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">2k</tspan></text>
+<line x1="445.6" y1="30.8" x2="450.4" y2="30.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="452.4,30.8 448.4,28.4 448.4,33.1" fill="#f59e0b"/>
+</svg>

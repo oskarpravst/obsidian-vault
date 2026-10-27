@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="190" viewBox="0 0 390 190" font-family="Helvetica, Arial, sans-serif">
+<circle cx="110" cy="100" r="45" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M 44.2,76.1 A 70,70 0 0 1 133.9,34.2" stroke="#3b82f6" stroke-width="1.6" fill="none"/>
+<line x1="124.55381835724316" y1="31.529667948633616" x2="126.25131646529027" y2="32.01641769845043" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="133.94141003279682,34.221516544986414 127.4,28.2 125.1,35.9" fill="#3b82f6"/>
+<path d="M 77.1,81.0 A 38,38 0 0 1 119.8,63.3" stroke="#3b82f6" stroke-width="1.6" fill="none"/>
+<line x1="114.6310350493956" y1="62.28324623762976" x2="111.98210624631446" y2="61.76834663800304" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="119.83512371389577,63.2948186010154 112.7,57.8 111.2,65.7" fill="#3b82f6"/>
+<circle cx="140" cy="85" r="4" fill="#f59e0b"/>
+<line x1="30" y1="175" x2="130.82122567792203" y2="92.08160878825103" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="137,87 128.3,89.0 133.4,95.2" fill="#f59e0b"/>
+<text x="45.0" y="140" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">r</tspan><tspan font-size="15">*</tspan></text>
+<line x1="45.4" y1="125.8" x2="47.9" y2="125.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="49.9,125.8 45.9,123.3 45.9,128.2" fill="#f59e0b"/>
+<text x="200" y="90" text-anchor="start" fill="#8c8c8c" font-size="14">circular motion / rotation</text>
+<text x="200" y="110" text-anchor="start" fill="#8c8c8c" font-size="13">(kroženje / vrtenje)</text>
+</svg>
