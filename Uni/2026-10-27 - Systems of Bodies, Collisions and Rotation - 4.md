@@ -218,7 +218,7 @@ $$\vec{M} = \vec{r} \times \vec{F}_z = m r^2\,\vec{\alpha}$$
 The same problem as for linear motion (*isti problem kot pri premem gibanju*) — for a **point body** (*točkasto telo*).
 
 ### System of N bodies — moment of inertia (*sistem N teles — vztrajnostni moment*)
-
+	
 A rigid body (*togo telo*) is made of atoms (*atomi*). For each atom:
 
 $$\vec{M}_{iz} = m_i r_i^2\,\vec{\alpha}$$
