@@ -285,6 +285,7 @@ $$2\pi r = v\,t_0$$
 - [[Cross Product]] — torque $\vec{M} = \vec{r} \times \vec{F}$
 - [[Integral]] — moment of inertia $J = \int r^2\,dm$, mass of the rocket
 - [[Momentum]], [[Impulse]], [[Work]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 4.pdf|vaje 4]] — minimum force on an incline with friction (task 3.2), maximum speed in a curve (3.3), work, power and energy, loop-the-loop with a braking force and a rolling ball (4.1), rotational kinetic energy, conservation of momentum
 
 ## Sources
 

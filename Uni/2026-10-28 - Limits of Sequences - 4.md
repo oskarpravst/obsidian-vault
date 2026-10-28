@@ -16,7 +16,7 @@ Continuing with [[Sequence|sequences]]:
 3. **Rules for computing limits** (*pravila za računanje limit*), arithmetic with $\infty$ and the indeterminate forms; the number $e$ and continuous compounding.
 4. **Convergence theorems**: comparison of limits and the **monotone convergence theorem**, used on a recursive sequence (with [[Mathematical Induction|induction]]).
 5. How $2^\pi$ is defined with limits.
-6. **Bachmann–Landau notation** ([[Big O Notation|$O$-notation]]) and the classes P and NP.
+6. **Bachmann–Landau notation** ($O$-notation, [[Big O Notation|big O notation]]) and the classes P and NP.
 
 ## Notes
 
@@ -220,7 +220,7 @@ In $\mathbb{C}$ (*v ℂ*): $\sqrt[4]{7} = 7^{\frac{1}{4}}$ has 4 solutions (*re�
 
 ### Bachmann–Landau notation (*Bachmann-Landauova notacija*)
 
-This is the [[Big O Notation|$O$-notation]]. Let $f, g: \mathbb{N} \to \mathbb{N}$.
+This is the $O$-notation, [[Big O Notation|big O notation]]. Let $f, g: \mathbb{N} \to \mathbb{N}$.
 
 - **Big O:** $f(n) = O(g(n))$ if $\dfrac{f(n)}{g(n)}$ is bounded (*omejeno*).
   $f$ is **asymptotically bounded** by $g$ (*f je asimptotično omejena z g*).
@@ -234,7 +234,7 @@ This is the [[Big O Notation|$O$-notation]]. Let $f, g: \mathbb{N} \to \mathbb{N
 | --- | --- |
 | find the largest element in a list of length $n$ (*poišči največji člen v seznamu dolžine n*) | $O(n)$ |
 | find a given element (*določeni*) in a sorted list of length $n$ | $O(\ln n)$ |
-| sort a list (*uredi seznam*), brute force: $0 + 1 + 2 + \dots + (n-1) = \frac{(n-1)(n-2)}{2}$ | $O(n^2)$ |
+| sort a list (*uredi seznam*), brute force: $0 + 1 + 2 + \dots + (n-1) = \frac{n(n-1)}{2}$ | $O(n^2)$ |
 | sort a list, [[Merge Sort\|merge sort]] | $O(n \log n)$ |
 
 ### P and NP
@@ -243,7 +243,7 @@ This is the [[Big O Notation|$O$-notation]]. Let $f, g: \mathbb{N} \to \mathbb{N
   $$\mathrm{P} = \bigcup_{q \in \mathbb{N}} O(n^q)$$
 - **NP** — problems whose solution can be verified in polynomial time (*problemi, katerih rešitev se lahko verificira v polinomskem času*) (guesses — *poiskusi*).
 
-The biggest open question (*največje odprto vprašanje*): does [[P versus NP|$\mathrm{P} = \mathrm{NP}$]] hold?
+The biggest open question (*največje odprto vprašanje*): does $\mathrm{P} = \mathrm{NP}$ hold? ([[P versus NP]])
 
 ## Questions
 
