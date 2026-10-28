@@ -349,6 +349,7 @@ $ echo 2 | java Krog
 - Previous exercises: [[2026-10-19 - Exercises for Control Structures - 2]]
 - Exercises: [[Sources/programming_1/vaje/prog1/p1_vaje03/naFaksu/vaje03.pdf|vaje03]]
 - Related: [[Time Complexity]] (nested loops), [[Recursion]] (Piramida v.3)
+- [[While Loop]], [[Do-while Loop]]
 
 ## Sources
 

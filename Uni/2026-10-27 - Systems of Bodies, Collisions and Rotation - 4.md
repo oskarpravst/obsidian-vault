@@ -259,7 +259,7 @@ $$W_k = \underbrace{\frac{1}{2}\,m\,v^{*2}}_{\text{motion of the centre of mass}
 
 $\omega$ … angular velocity (*kotna hitrost*).
 
-Work:
+[[Work]]:
 
 $$A = \int_{\vec{r}_z}^{\vec{r}_k} \vec{F}_z \cdot d\vec{s} + \int \vec{M}_z \cdot d\vec{\varphi}$$
 
@@ -284,6 +284,7 @@ $$2\pi r = v\,t_0$$
 - [[2026-10-13 - Circular Motion and Newton's Laws - 2]] — circular motion ($\omega$, $\alpha$, $a_t$)
 - [[Cross Product]] — torque $\vec{M} = \vec{r} \times \vec{F}$
 - [[Integral]] — moment of inertia $J = \int r^2\,dm$, mass of the rocket
+- [[Momentum]], [[Impulse]], [[Work]]
 
 ## Sources
 

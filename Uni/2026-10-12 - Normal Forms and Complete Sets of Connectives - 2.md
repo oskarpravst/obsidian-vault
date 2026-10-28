@@ -171,7 +171,7 @@ $$
 - Every propositional formula has a DNO.
 - Every propositional formula has a KNO.
 
-DNO of a contradiction and KNO of a tautology:
+DNO of a [[Contradiction|contradiction]] and KNO of a [[Tautology|tautology]]:
 
 - $0 \sim (p \land \neg p) \lor (q \land \neg q)$ — the second part is not necessary (*to ni nujno*): $0 \sim p \land \neg p$
 - $1 \sim (p \lor \neg p) \lor (q \lor \neg q)$ — you don't need the second part (*ne rabiš*): $1 \sim p \lor \neg p$
@@ -422,6 +422,9 @@ Here $p \Rightarrow q \sim 0$ and $r \Rightarrow s \sim 0$, so the first premise
 - Previous lecture: [[2026-10-05 - Propositional Logic - 1]]
 - Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 2.pdf|vaja 2]]
 - NAND/NOR and normal forms also appear in [[Introduction to Digital Circuits]]
+- [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — PDNO/PKNO and NAND/NOR gates (Introduction to Digital Circuits)
+- [[Mathematical Induction]] — principle and procedure in [[2026-10-11 - Numbers - 1]] (Calculus)
+- [[Logical Equivalence]], [[Tautology]], [[Contradiction]]
 
 ## Sources
 

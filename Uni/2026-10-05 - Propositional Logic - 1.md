@@ -222,6 +222,9 @@ $A \sim B$
 
 - Course: [[Discrete structures]]
 - Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaja1.pdf|vaja1]]
+- [[2026-10-11 - Boolean Algebra - 1]] — the same laws in Boolean algebra (Introduction to Digital Circuits)
+- [[2026-10-15 - Control Structures - 2]] — logical operators `&&`, `||`, `!` in Java (Programming 1)
+- [[Tautology]], [[Contradiction]], [[Logical Equivalence]]
 
 ## Sources
 

@@ -122,7 +122,7 @@ These are exactly the two terms of $\vec{a}(t)$ from ②: the first ($r\ddot{\va
 
 ### F 2.2 — Vector form of circular motion
 
-> [!info] Vector product (*vektorski produkt*) — simplified
+> [!info] [[Cross Product|Vector product]] (*vektorski produkt*) — simplified
 > $$\vec{c} = \vec{a} \times \vec{b} = -(\vec{b} \times \vec{a}), \qquad |\vec{c}| = |\vec{a}|\,|\vec{b}|\sin\theta$$
 > - The result is a **vector**, perpendicular to both $\vec{a}$ and $\vec{b}$. Its direction is defined by the positive rule (*smer definirana s pozitivnim pravilom*) — see the [[Sources/physics/photoNotes/lectures/notes 2.pdf#page=6|sketch]].
 > - $\theta = 0 \implies |\vec{c}| = 0$: parallel vectors have no vector product (they don't define a plane — *ni ravnine*).
@@ -284,6 +284,8 @@ Friction comes from the roughness of the surfaces (*nazobčenost površine*).
 - Exercises: [[Sources/physics/photoNotes/vaje/vaje 2.pdf|vaje 2]]
 - Previous lecture: [[2026-10-11 - Physical Quantities and Kinematics - 1]] — uniform circular motion, $\vec{a} = -\omega^2\vec{r}$
 - [[Derivative]] — product rule
+- [[Cross Product]] — $\vec{v} = \vec{\omega} \times \vec{r}$, $\vec{a}_t = \vec{\alpha} \times \vec{r}$
+- [[2026-10-14 - Polar Form of Complex Numbers - 2]] — the same $r$, $\varphi$ description of a point on a circle (Calculus)
 
 ## Sources
 

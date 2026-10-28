@@ -210,6 +210,7 @@ A sequence is **convergent** (*konvergentno*) if it has a limit, and **divergent
 - Previous lecture: [[2026-10-14 - Polar Form of Complex Numbers - 2]] — Euler's formula, $n$-th roots of unity (the entries of $C_k$ lie on a regular $N$-gon)
 - [[2026-10-11 - Numbers - 1]] — bounds, supremum and infimum of sets
 - [[Complex Number]]
+- [[Discrete Fourier Transform]], [[Dot Product]] — the same scalar product defines work in Physics ([[2026-10-20 - Forces, Work, Energy and Momentum - 3]])
 
 ## Sources
 

@@ -255,6 +255,7 @@ potenca = 100000
 - Previous exercises: [[2026-10-14 - Exercises for Introduction to programming - 1]] — testing with `tj.exe`
 - Exercises: [[Sources/programming_1/vaje/prog1/p1_vaje02/vaje02.pdf|vaje02]]
 - Related: [[Integer Overflow]] (why Števke needs `long`)
+- [[While Loop]], [[For Loop]]
 
 ## Sources
 

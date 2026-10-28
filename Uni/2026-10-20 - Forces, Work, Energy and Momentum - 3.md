@@ -270,6 +270,7 @@ $$\underbrace{\int_{t_z}^{t_k} \vec{F}_z\,dt}_{\text{impulse of the external for
 - Previous lecture: [[2026-10-13 - Circular Motion and Newton's Laws - 2]] — circular motion ($a_r = \omega^2 r$), Newton's laws, force of gravity, friction
 - [[Derivative]] — chain rule, $\frac{d}{dt}(v^2) = 2\,\vec{v} \cdot \vec{a}$
 - [[Integral]] — work and impulse as integrals
+- [[Dot Product]] — also used for complex vectors in [[2026-10-21 - Spectral Decomposition and Sequences - 3]] (Calculus)
 
 ## Sources
 

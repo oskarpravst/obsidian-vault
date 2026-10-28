@@ -62,7 +62,7 @@ On the $v(t)$ graph, $\Delta v / \Delta t$ is the slope of a triangle with legs 
 
 $$a(t) = \lim_{\Delta t \to 0} \frac{v(t + \Delta t) - v(t)}{\Delta t}$$
 
-This is the **derivative of velocity with respect to time** (*odvod hitrosti po času*):
+This is the **[[Derivative|derivative]] of velocity with respect to time** (*odvod hitrosti po času*):
 
 $$a(t) = \frac{dv}{dt} \ \text{(Leibniz)} = \dot{v} \ \text{(Newton)}$$
 
@@ -78,7 +78,7 @@ e.g. $y = k \cdot t \implies \dot{y} = k \cdot 1 \cdot t^0 = k$
 
 #### Integration
 
-The inverse operation (*obratna transformacija*) of differentiation is **integration**:
+The inverse operation (*obratna transformacija*) of differentiation is **[[Integral|integration]]**:
 
 $$a(t) = \dot{v}(t) = \frac{dv}{dt}$$
 
@@ -186,6 +186,7 @@ Differentiate with respect to time … *(unfinished in notes)*
 
 - Course: [[Physics]]
 - Exercises: [[Sources/physics/photoNotes/vaje/vaje 1.pdf|vaje 1]]
+- [[Derivative]], [[Integral]] — velocity and acceleration as derivatives, position and velocity as integrals
 
 ## Sources
 
