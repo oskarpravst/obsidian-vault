@@ -122,6 +122,25 @@ return; //to bi delalo
 break; // to dela samo v loopu 
 ```
 
+# recursion
+
+metode lahko klicejo samo sebe - rekurzivni klic
+
+nekatere probleme z rekurzijo lazje resimo
+
+primer: fibonacijevo zaporedje
+
+```
+0 1 2 3 5 8 13 21 ...
+```
+
+rekurencna enacba se lahko v programu prevede v rekurzijo
+
+```
+Fn = 0 ; n = 0
+	 1 ; n = 1
+	 Fn-2 + Fn-1 drugace
+```
 
 ## Code
 
@@ -333,10 +352,49 @@ Prijateljska stevila
 ```
 220: 1 2 4 5 10 11 20 22 54 55 110 = 284
 
-284: 1 2 3 7 1
-
+284: 1 2 3 7 11 142 = 220
 ```
 
+vsota deljiteljev iz kombinatorike :
+
+```java
+import java.util.Scanner;
+
+
+public class PrijateljskaStevila {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int stevilo = sc.nextInt();
+
+        // System.out.println(imaPrijatelja(stevilo));
+
+        if (imaPrijatelja(stevilo)) {
+            // System.out.println(kandidat); ne gre
+            System.out.println(vsotaDeljitevljev(stevilo));
+        } else {
+            System.out.println("Nima");
+        }
+
+    }
+
+    public static boolean imaPrijatelja(int stevilo) {
+        int kandidat = vsotaDeljitevljev(stevilo);
+
+        return kandidat != stevilo && vsotaDeljitevljev(kandidat) == stevilo;
+    }
+
+    public static int vsotaDeljitevljev(int n) {
+        int vsota = 0;
+        for (int d = 1; d < n; d++) {
+            if (n % d == 0) {
+                vsota += d;
+            }
+        }
+        return vsota;
+    }
+}
+```
 '''
 
 '''
