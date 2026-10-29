@@ -103,8 +103,24 @@ narisi(b) // to bi bila napaka, ker long ne mores skopirati v int
 ```
 
 
-# Metode z vec parametri
+# return
 
+klicatelj dobi rezultat iz racuna.
+metode lahko vracajo vrednosti
+
+```java
+return 14 // pejdi ven iz metode (zakljuci izvajanje metoda), klic metode se zamenja z vrnjeno vrednostjo.
+```
+
+more biti nujno type cesa hocemo da se returna (more biti isto kot variable kateremu hocemo vrednost dati)
+
+ce imamo void lahko gremo ven z :
+
+```java
+return; //to bi delalo
+
+break; // to dela samo v loopu 
+```
 
 
 ## Code
@@ -240,6 +256,85 @@ public class Plus1 {
         }
     }
 }
+```
+
+primer return
+
+```java
+public class Obseg {
+    public static void main(String[] args) {
+        // obseg(3, 4);
+
+        int o = obseg(3, 4);
+        System.out.println(o);
+    }
+
+    // public static void obseg(int a, int b) {
+    //     System.out.println(2 * (a + b)); // tega obsega ne moremo uporabiti
+    // }
+    public static int obseg(int a, int b) {
+        return 2 * (a + b);
+    }
+}
+```
+
+prastevila z metodami
+
+preverjanje ce je kandidat prastevilo je podproblem, zato mu naredimo svojo metodo
+
+```java
+import java.util.Scanner;
+
+public class Prastevila5{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+
+        System.out.println(2);
+        
+
+        for (int kandidat = 3; kandidat <= n; kandidat+= 2){
+
+            if (jePrastevilo(kandidat)) {
+                System.out.println(kandidat);
+            }
+        }
+    }
+
+    public static boolean jePrastevilo(int stevilo){
+        
+        int koren = (int) Math.round(Math.sqrt(stevilo)); // round vrne long
+
+        for (int d = 3; d < koren; d+= 2){
+            if (stevilo % d == 0){
+                return false;
+            }
+            // napaka da bi dali
+            // else {
+            //     return true; 
+            // }
+        }
+
+        // if (prastevilo){
+        //     return true;
+        // } else {
+        //     return false;
+        // }
+        return true;
+    }
+
+} 
+
+
+```
+
+Prijateljska stevila
+```
+220: 1 2 4 5 10 11 20 22 54 55 110 = 284
+
+284: 1 2 3 7 1
+
 ```
 
 '''
