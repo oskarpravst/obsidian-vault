@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="125" viewBox="0 0 400 125" font-family="Helvetica, Arial, sans-serif">
+<path d="M 90,15 Q 149.4,15 189.0,60.0 Q 149.4,105 90,105 Q 112.5,60.0 90,15 Z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<circle cx="194.0" cy="60.0" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="50" y1="30" x2="96.25" y2="30" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="41" y="35" text-anchor="end" fill="#8c8c8c" font-size="15">x₁</text>
+<line x1="50" y1="50" x2="100.69444444444444" y2="50" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="41" y="55" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₂</text>
+<line x1="50" y1="70" x2="100.69444444444444" y2="70" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="41" y="75" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₃</text>
+<line x1="50" y1="90" x2="96.25" y2="90" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="41" y="95" text-anchor="end" fill="#8c8c8c" font-size="15">x̄₄</text>
+<line x1="199.0" y1="60.0" x2="339.0" y2="60.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="211.0" y="52.0" text-anchor="start" fill="#f59e0b" font-size="15">f(x₁, x₂, x₃, x₄)</text>
+</svg>
