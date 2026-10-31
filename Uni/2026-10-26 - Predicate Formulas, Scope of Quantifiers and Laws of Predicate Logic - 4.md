@@ -265,6 +265,7 @@ $$
 
 - Course: [[Discrete structures]]
 - Previous lecture: [[2026-10-19 - Valid Arguments and Inference Rules - 3]] — domain of discourse, predicates, quantifiers and formalisation were introduced there
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 4.pdf|vaje 4]]
 - [[De Morgan's Laws]]: the same laws in propositional logic and for quantifiers
 - [[Propositional Logic]]: $p \Rightarrow (q \Rightarrow p)$ is a [[Tautology|tautology]] there
 - [[Logical Equivalence]], [[Contradiction]] — equivalent, valid and unsatisfiable predicate formulas
