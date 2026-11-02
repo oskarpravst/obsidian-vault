@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="370" viewBox="0 0 470 370" font-family="Helvetica, Arial, sans-serif">
+<defs><clipPath id="ca1"><circle cx="70" cy="85" r="50"/></clipPath><clipPath id="cb1"><circle cx="135" cy="85" r="50"/></clipPath><mask id="mca1"><rect x="10" y="10" width="200" height="160" fill="white"/><circle cx="70" cy="85" r="50" fill="black"/></mask><mask id="mcb1"><rect x="10" y="10" width="200" height="160" fill="white"/><circle cx="135" cy="85" r="50" fill="black"/></mask></defs>
+<circle cx="70" cy="85" r="50" fill="#f59e0b" fill-opacity="0.35" clip-path="url(#cb1)"/>
+<circle cx="70" cy="85" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="135" cy="85" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="25" y="40" text-anchor="start" fill="#3b82f6" font-size="16">A</text>
+<text x="173" y="40" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="102" y="165" text-anchor="middle" fill="#f59e0b" font-size="15">A ∩ B  (intersection)</text>
+<defs><clipPath id="ca2"><circle cx="300" cy="85" r="50"/></clipPath><clipPath id="cb2"><circle cx="365" cy="85" r="50"/></clipPath><mask id="mca2"><rect x="240" y="10" width="200" height="160" fill="white"/><circle cx="300" cy="85" r="50" fill="black"/></mask><mask id="mcb2"><rect x="240" y="10" width="200" height="160" fill="white"/><circle cx="365" cy="85" r="50" fill="black"/></mask></defs>
+<circle cx="300" cy="85" r="50" fill="#f59e0b" fill-opacity="0.35"/>
+<circle cx="365" cy="85" r="50" fill="#f59e0b" fill-opacity="0.35" mask="url(#mca2)"/>
+<circle cx="300" cy="85" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="365" cy="85" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="255" y="40" text-anchor="start" fill="#3b82f6" font-size="16">A</text>
+<text x="403" y="40" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="332" y="165" text-anchor="middle" fill="#f59e0b" font-size="15">A ∪ B  (union)</text>
+<defs><clipPath id="ca3"><circle cx="70" cy="265" r="50"/></clipPath><clipPath id="cb3"><circle cx="135" cy="265" r="50"/></clipPath><mask id="mca3"><rect x="10" y="190" width="200" height="160" fill="white"/><circle cx="70" cy="265" r="50" fill="black"/></mask><mask id="mcb3"><rect x="10" y="190" width="200" height="160" fill="white"/><circle cx="135" cy="265" r="50" fill="black"/></mask></defs>
+<circle cx="70" cy="265" r="50" fill="#f59e0b" fill-opacity="0.35" mask="url(#mcb3)"/>
+<circle cx="70" cy="265" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="135" cy="265" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="25" y="220" text-anchor="start" fill="#3b82f6" font-size="16">A</text>
+<text x="173" y="220" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="102" y="345" text-anchor="middle" fill="#f59e0b" font-size="15">A \ B  (difference)</text>
+<defs><clipPath id="ca4"><circle cx="300" cy="265" r="50"/></clipPath><clipPath id="cb4"><circle cx="365" cy="265" r="50"/></clipPath><mask id="mca4"><rect x="240" y="190" width="200" height="160" fill="white"/><circle cx="300" cy="265" r="50" fill="black"/></mask><mask id="mcb4"><rect x="240" y="190" width="200" height="160" fill="white"/><circle cx="365" cy="265" r="50" fill="black"/></mask></defs>
+<circle cx="300" cy="265" r="50" fill="#f59e0b" fill-opacity="0.35" mask="url(#mcb4)"/>
+<circle cx="365" cy="265" r="50" fill="#f59e0b" fill-opacity="0.35" mask="url(#mca4)"/>
+<circle cx="300" cy="265" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="365" cy="265" r="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="255" y="220" text-anchor="start" fill="#3b82f6" font-size="16">A</text>
+<text x="403" y="220" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="332" y="345" text-anchor="middle" fill="#f59e0b" font-size="15">A + B  (symmetric difference)</text>
+</svg>

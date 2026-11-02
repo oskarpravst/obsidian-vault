@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" font-family="Helvetica, Arial, sans-serif">
+<defs><mask id="mn"><rect x="0" y="0" width="400" height="300" fill="white"/><circle cx="150" cy="140" r="75" fill="black"/></mask></defs>
+<circle cx="150" cy="140" r="120" fill="#f59e0b" fill-opacity="0.35" mask="url(#mn)"/>
+<circle cx="150" cy="140" r="30" fill="#f59e0b" fill-opacity="0.35"/>
+<circle cx="150" cy="140" r="120" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="150" cy="140" r="75" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="150" cy="140" r="30" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="250" y="40" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="150" y="88" text-anchor="middle" fill="#3b82f6" font-size="16">A</text>
+<text x="150" y="145" text-anchor="middle" fill="#3b82f6" font-size="16">C</text>
+<text x="150" y="290" text-anchor="middle" fill="#f59e0b" font-size="15">X = C ∪ (B \ A)</text>
+</svg>

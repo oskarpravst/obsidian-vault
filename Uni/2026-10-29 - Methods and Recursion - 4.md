@@ -513,6 +513,7 @@ This program is very inefficient (but there are tricks that make it much faster)
 
 - Course: [[Programming 1]]
 - Previous lecture: [[2026-10-22 - Loop Examples, break and switch - 3]]: prime numbers versions 1–4, `break`, scope
+- Exercises: [[2026-11-02 - Exercises for Methods and Recursion - 4]]
 - [[Method]], [[Parameter]], [[Return Statement]], [[Recursion]], [[Fibonacci Sequence]], [[Operator Precedence]], [[Associativity]], [[Variable Scope]], [[Prime Number]]
 - [[Mathematical Induction]]: the recurrence relation $F_n = F_{n-2} + F_{n-1}$ (Discrete structures)
 

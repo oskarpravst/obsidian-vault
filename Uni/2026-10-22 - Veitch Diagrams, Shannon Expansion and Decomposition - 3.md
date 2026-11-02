@@ -298,6 +298,7 @@ $$
 - [[Minterm]], [[Maxterm]], [[Switching Function]], [[Exclusive Or]], [[Truth Table]]
 - [[Duality]]: the dual form of separation swaps $\lor \leftrightarrow \land$ and $x_1 \leftrightarrow \bar{x}_1$
 - [[Propositional Logic]]: the same normal forms (Discrete structures)
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja3/vaje 3.pdf|vaje 3]]
 
 ## Sources
 
