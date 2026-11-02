@@ -20,12 +20,12 @@ views:
       - birthday
       - formula.Age
     sort:
+      - property: formula.Age
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: tags
         direction: ASC
-      - property: formula.Age
-        direction: DESC
       - property: birthday
         direction: DESC
     columnSize:
