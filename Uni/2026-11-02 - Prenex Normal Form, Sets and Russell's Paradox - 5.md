@@ -187,7 +187,7 @@ $$(A \cap B)^c = A^c \cup B^c \qquad (A \cup B)^c = A^c \cap B^c$$
 $$
 \begin{aligned}
 &A \setminus B = A \cap B^c \\
-&A \subseteq B = B^c \subseteq A^c \\
+&A \subseteq B \sim B^c \subseteq A^c \\
 &A \cap B = \emptyset \Leftrightarrow A \subseteq B^c \Leftrightarrow B \subseteq A^c
 \end{aligned}
 $$
@@ -225,7 +225,7 @@ $$(A + B) \cap C = (A \cap C) + (B \cap C)$$
 >
 > If $A \subseteq B$: $A \setminus B = A \cap B^c \subseteq B \cap B^c = \emptyset$.
 >
-> If $A \setminus B = 0$:
+> If $A \setminus B = \emptyset$:
 > $$
 > \begin{aligned}
 > A = A \cap S &= A \cap (B \cup B^c) \\
@@ -283,7 +283,7 @@ Notation (*oznaka*): $M(x)$ … $x$ is a set (*x je množica*).
 
 Classes are described with a formula like this (*razredi so opisani s formulo takole*):
 
-$$A = \{x;\, \varphi(x) \land M(s)\}$$
+$$A = \{x;\, \varphi(x) \land M(x)\}$$
 
 Then (*velja*):
 
