@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="210" viewBox="0 0 270 210" font-family="Helvetica, Arial, sans-serif">
+<circle cx="160" cy="110" r="80" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="160" cy="110" r="6" stroke="#f59e0b" stroke-width="0" fill="#f59e0b"/>
+<text x="166" y="128" text-anchor="start" fill="#f59e0b" font-size="13">M (Sun)</text>
+<circle cx="80" cy="110" r="6" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="72" y="140" text-anchor="end" fill="#8c8c8c" font-size="13">m (planet)</text>
+<line x1="80" y1="110" x2="132.0" y2="110.0" stroke="#ef4444" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="140,110 132.0,106.0 132.0,114.0" fill="#ef4444"/>
+<text x="100.0" y="100" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">g</tspan></text>
+<line x1="100.7" y1="85.8" x2="107.0" y2="85.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="109.0,85.8 105.0,83.3 105.0,88.2" fill="#ef4444"/>
+<line x1="80" y1="110" x2="33.0" y2="110.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="25,110 33.0,114.0 33.0,106.0" fill="#8c8c8c"/>
+<text x="20.0" y="100" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">c</tspan></text>
+<line x1="20.7" y1="85.8" x2="27.0" y2="85.8" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="29.0,85.8 25.0,83.3 25.0,88.2" fill="#8c8c8c"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="215" viewBox="0 0 360 215" font-family="Helvetica, Arial, sans-serif">
+<line x1="120" y1="200" x2="70" y2="50" stroke="#3b82f6" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="120" y1="200" x2="170" y2="50" stroke="#3b82f6" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="120" y1="200" x2="120" y2="30" stroke="#8c8c8c" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="6 4"/>
+<ellipse cx="120" cy="50" rx="50" ry="12" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-dasharray="5 4"/>
+<line x1="120" y1="200" x2="163.56563491234152" y2="63.62062114397439" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="166,56 159.8,62.4 167.4,64.8" fill="#f59e0b"/>
+<line x1="130" y1="62" x2="152.01771873714713" y2="60.532152084190194" stroke="#8c8c8c" stroke-width="1.2" stroke-linecap="round"/>
+<polygon points="160,60 151.8,56.5 152.3,64.5" fill="#8c8c8c"/>
+<text x="200" y="100" text-anchor="start" fill="#8c8c8c" font-size="14">precession period</text>
+<text x="200.0" y="124" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">t</tspan><tspan font-size="11" dy="4">0</tspan><tspan font-size="15" dy="-4">   = 26 000 years</tspan></text>
+
+<text x="209" y="112" text-anchor="start" fill="#f59e0b" font-size="11">p</text>
+</svg>

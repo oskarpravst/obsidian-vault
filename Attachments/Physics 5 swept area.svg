@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="205" viewBox="0 0 320 205" font-family="Helvetica, Arial, sans-serif">
+<circle cx="40" cy="160" r="6" stroke="#f59e0b" stroke-width="0" fill="#f59e0b"/>
+<text x="30" y="185" text-anchor="start" fill="#f59e0b" font-size="15">S</text>
+<circle cx="250" cy="110" r="5" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="258" y="112" text-anchor="start" fill="#8c8c8c" font-size="15">P</text>
+<line x1="40" y1="160" x2="250" y2="110" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="40" y1="160" x2="190" y2="40" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M 190,40 Q 235,65 250,110" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round"/>
+<path d="M 70,150 L 200,60 M 100,140 L 215,75 M 130,132 L 228,90 M 160,124 L 240,102 M 60,148 L 192,48" stroke="#f59e0b" stroke-width="1" fill="none" stroke-linecap="round"/>
+<text x="165" y="192" text-anchor="middle" fill="#8c8c8c" font-size="13">line Sun–planet (zveznica)</text>
+<text x="232.0" y="60" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">dt, d</tspan><tspan font-size="14">s</tspan></text>
+<line x1="259.8" y1="46.7" x2="264.1" y2="46.7" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="266.1,46.7 262.1,44.3 262.1,49.1" fill="#f59e0b"/>
+<text x="120" y="35" text-anchor="middle" fill="#f59e0b" font-size="13">area dS (ploščina)</text>
+</svg>

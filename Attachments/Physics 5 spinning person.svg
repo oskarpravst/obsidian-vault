@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180" font-family="Helvetica, Arial, sans-serif">
+<circle cx="90" cy="40" r="8" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="90" y1="48" x2="90" y2="80" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="90" y1="80" x2="76" y2="102" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="90" y1="80" x2="104" y2="102" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="90" y1="58" x2="48" y2="58" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="90" y1="58" x2="132" y2="58" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="43" cy="58" r="5" stroke="#3b82f6" stroke-width="2" fill="#3b82f6"/>
+<circle cx="137" cy="58" r="5" stroke="#3b82f6" stroke-width="2" fill="#3b82f6"/>
+<path d="M 68,114 A 22,6 0 1 0 105.4,109.8" stroke="#f59e0b" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<polygon points="111.4,108.8 103.4,104.8 104.4,113.8" fill="#f59e0b"/>
+<circle cx="320" cy="40" r="8" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="320" y1="48" x2="320" y2="80" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="80" x2="306" y2="102" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="80" x2="334" y2="102" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="58" x2="312" y2="70" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="58" x2="328" y2="70" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="314" cy="71" r="5" stroke="#3b82f6" stroke-width="2" fill="#3b82f6"/>
+<circle cx="326" cy="71" r="5" stroke="#3b82f6" stroke-width="2" fill="#3b82f6"/>
+<path d="M 298,114 A 22,6 0 1 0 335.4,109.8" stroke="#f59e0b" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<polygon points="341.4,108.8 333.4,104.8 334.4,113.8" fill="#f59e0b"/>
+<line x1="170" y1="80" x2="232.0" y2="80.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,80 232.0,76.0 232.0,84.0" fill="#8c8c8c"/>
+<text x="90" y="25" text-anchor="middle" fill="#8c8c8c" font-size="14">arms spread (razširjen)</text>
+<text x="320" y="25" text-anchor="middle" fill="#8c8c8c" font-size="14">together (skupaj)</text>
+<text x="90" y="150" text-anchor="middle" fill="#f59e0b" font-size="14">rotates slower</text>
+<text x="90" y="168" text-anchor="middle" fill="#8c8c8c" font-size="13">(počasneje vrtel)</text>
+<text x="320" y="150" text-anchor="middle" fill="#f59e0b" font-size="14">rotates faster</text>
+<text x="320" y="168" text-anchor="middle" fill="#8c8c8c" font-size="13">(hitreje vrtel)</text>
+</svg>

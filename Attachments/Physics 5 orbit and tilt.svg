@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="235" viewBox="0 0 400 235" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="200" cy="120" rx="150" ry="75" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="160" cy="120" r="6" stroke="#f59e0b" stroke-width="0" fill="#f59e0b"/>
+<text x="154" y="142" text-anchor="start" fill="#f59e0b" font-size="15">S</text>
+<circle cx="220" cy="120" r="2.5" stroke="#8c8c8c" stroke-width="0" fill="#8c8c8c"/>
+<circle cx="50" cy="120" r="16" stroke="#3b82f6" stroke-width="1.8" fill="none"/>
+<line x1="39.84099065927888" y1="143.93312618976344" x2="58.59608482676402" y2="99.74889322404631" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="61.72193385467821,92.38485439642679 54.9,98.2 62.3,101.3" fill="#3b82f6"/>
+<circle cx="200" cy="45" r="16" stroke="#3b82f6" stroke-width="1.8" fill="none"/>
+<line x1="189.84099065927887" y1="68.93312618976344" x2="208.596084826764" y2="24.748893224046313" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="211.7219338546782,17.38485439642679 204.9,23.2 212.3,26.3" fill="#3b82f6"/>
+<circle cx="200" cy="195" r="16" stroke="#3b82f6" stroke-width="1.8" fill="none"/>
+<line x1="189.84099065927887" y1="218.93312618976344" x2="208.596084826764" y2="174.7488932240463" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="211.7219338546782,167.3848543964268 204.9,173.2 212.3,176.3" fill="#3b82f6"/>
+<circle cx="310" cy="69.00980486407215" r="5" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="318" y="74.00980486407215" text-anchor="start" fill="#8c8c8c" font-size="15">P</text>
+<line x1="310" y1="69.00980486407215" x2="267.32252025938215" y2="50.23171377820029" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="260,47.00980486407215 265.7,53.9 268.9,46.6" fill="#f59e0b"/>
+<text x="260.0" y="39.00980486407215" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">p</tspan></text>
+<line x1="260.6" y1="24.8" x2="265.4" y2="24.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="267.4,24.8 263.4,22.4 263.4,27.2" fill="#f59e0b"/>
+<line x1="50" y1="120" x2="160" y2="120" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<text x="110" y="138" text-anchor="start" fill="#8c8c8c" font-size="15">r</text>
+<line x1="66" y1="120" x2="107.0" y2="120.0" stroke="#ef4444" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="115,120 107.0,116.0 107.0,124.0" fill="#ef4444"/>
+<text x="72.0" y="112" fill="#ef4444" font-size="14" xml:space="preserve"><tspan font-size="14">F</tspan><tspan font-size="10" dy="4">g</tspan></text>
+<line x1="72.7" y1="98.7" x2="78.4" y2="98.7" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="80.4,98.7 76.4,96.3 76.4,101.1" fill="#ef4444"/>
+<text x="200" y="225" text-anchor="middle" fill="#8c8c8c" font-size="13">the axis is always tilted at the same angle</text>
+</svg>

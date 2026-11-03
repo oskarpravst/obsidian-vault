@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="275" viewBox="0 0 400 275" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="200" cy="60" rx="55" ry="14" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="145" y1="60" x2="145" y2="200" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="255" y1="60" x2="255" y2="200" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 145,200 A 55,14 0 0 0 255,200" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round"/>
+<line x1="200" y1="20" x2="200" y2="240" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="6 4"/>
+<path d="M 184,95 A 16,6 0 1 0 211.2,90.8" stroke="#f59e0b" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<polygon points="217.2,89.8 209.2,85.8 210.2,94.8" fill="#f59e0b"/>
+<line x1="200" y1="120" x2="60" y2="120" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="60" cy="120" r="7" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<line x1="200" y1="120" x2="340" y2="120" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="340" cy="120" r="7" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="50" y="105" text-anchor="middle" fill="#8c8c8c" font-size="14">5 kg</text>
+<text x="350" y="105" text-anchor="middle" fill="#8c8c8c" font-size="14">5 kg</text>
+<line x1="60" y1="140" x2="200" y2="140" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="60" y1="134" x2="60" y2="146" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="200" y1="134" x2="200" y2="146" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/>
+<text x="100" y="158" text-anchor="middle" fill="#f59e0b" font-size="14">0.8 m</text>
+<text x="200" y="262" text-anchor="middle" fill="#8c8c8c" font-size="14">person on a rotating chair: J = ½ m R²</text>
+</svg>

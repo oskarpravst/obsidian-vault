@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="220" viewBox="0 0 470 220" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="230" cy="110" rx="160" ry="75" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="88.66705974897431" cy="110" r="6" stroke="#f59e0b" stroke-width="0" fill="#f59e0b"/>
+<text x="92.66705974897431" y="132" text-anchor="start" fill="#f59e0b" font-size="15">S</text>
+<circle cx="70" cy="110" r="5" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="58" y="115" text-anchor="end" fill="#8c8c8c" font-size="15">P</text>
+<circle cx="390" cy="110" r="5" stroke="#3b82f6" stroke-width="0" fill="#3b82f6"/>
+<text x="400" y="115" text-anchor="start" fill="#8c8c8c" font-size="15">A</text>
+<line x1="70" y1="110" x2="70.0" y2="152.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="70,160 74.0,152.0 66.0,152.0" fill="#f59e0b"/>
+<text x="78.0" y="155" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">P</tspan></text>
+<line x1="78.6" y1="140.8" x2="83.3" y2="140.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="85.3,140.8 81.3,138.3 81.3,143.2" fill="#f59e0b"/>
+<line x1="390" y1="110" x2="390.0" y2="88.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="390,80 386.0,88.0 394.0,88.0" fill="#f59e0b"/>
+<text x="398.0" y="85" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="11" dy="4">A</tspan></text>
+<line x1="398.6" y1="70.8" x2="403.4" y2="70.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="405.4,70.8 401.4,68.3 401.4,73.2" fill="#f59e0b"/>
+<path d="M 88.66705974897431,110 L 70,110 A 160,75 0 0 1 100,66.27791068864617 Z" stroke="#f59e0b" stroke-width="1.2" fill="#f59e0b33" stroke-linecap="round"/>
+<text x="70" y="195" text-anchor="middle" fill="#8c8c8c" font-size="13">perihelion</text>
+<text x="70" y="211" text-anchor="middle" fill="#8c8c8c" font-size="12">(closest to the Sun)</text>
+<text x="390" y="185" text-anchor="middle" fill="#8c8c8c" font-size="13">aphelion</text>
+<text x="390" y="201" text-anchor="middle" fill="#8c8c8c" font-size="12">(farthest from the Sun)</text>
+</svg>
