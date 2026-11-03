@@ -216,11 +216,11 @@ The angle moves, so the seasons shift too (*kot se premika → letni časi se pr
 
 #### Gyroscope (*giroskop*)
 
-Precession is used for navigation (*precesija se uporablja za navigacijo*).
+Gyroscopes are used for navigation.
 
 ![[Physics 5 gyroscope.svg]]
 
-With a gyroscope you can tell where north is, because it keeps its direction all the time (*ker ves čas ohranja smer*). The ISS uses gyroscopes.
+A gyroscope keeps the direction of its axis in space all the time (*ker ves čas ohranja smer*), because its angular momentum is conserved. This gives a fixed reference direction for navigation. (Pointing towards north is the job of a gyrocompass, which also uses the Earth's rotation.) The ISS uses gyroscopes.
 
 ### Oscillation (*nihanje*)
 
