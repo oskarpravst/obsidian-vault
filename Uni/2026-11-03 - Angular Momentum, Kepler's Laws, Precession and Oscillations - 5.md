@@ -309,6 +309,7 @@ the solution is always harmonic oscillation, no matter what we are talking about
 - [[Dot Product]]: $d|\vec{\Gamma}|^2 = 2\,\vec{\Gamma} \cdot d\vec{\Gamma}$
 - [[Momentum]], [[Torque]], [[Moment of Inertia]]
 - [[2026-10-14 - Polar Form of Complex Numbers - 2]] (Calculus): the same $r\cos\varphi$, $r\sin\varphi$ description of a point on a circle
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 5.pdf|vaje 5]] — conservation of energy and momentum, elastic and perfectly inelastic collisions, bullet hitting a hanging target (task 5.1), impulse, work and an elastic collision of two balls (5.2), torque and rotation analogies, ladder leaning on a wall with friction (5.3), moment of inertia
 
 ## Sources
 
