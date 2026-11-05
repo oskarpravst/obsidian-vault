@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="470" viewBox="0 0 600 470" font-family="Helvetica, Arial, sans-serif">
+<rect x="90" y="80" width="304" height="304" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<line x1="128" y1="80" x2="128" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="166" y1="80" x2="166" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="204" y1="80" x2="204" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="242" y1="80" x2="242" y2="384" stroke="#8c8c8c" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="280" y1="80" x2="280" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="318" y1="80" x2="318" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="356" y1="80" x2="356" y2="384" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="118" x2="394" y2="118" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="156" x2="394" y2="156" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="194" x2="394" y2="194" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="232" x2="394" y2="232" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="270" x2="394" y2="270" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="308" x2="394" y2="308" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="346" x2="394" y2="346" stroke="#8c8c8c" stroke-width="1.1" stroke-linecap="round"/>
+<line x1="90" y1="232" x2="394" y2="232" stroke="#8c8c8c" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="93" y1="40" x2="239" y2="40" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="159.2" y="32" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">5</tspan></text>
+
+<line x1="93" y1="70" x2="163" y2="70" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="121.2" y="62" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<line x1="245" y1="70" x2="315" y2="70" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="273.2" y="62" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<line x1="131" y1="394" x2="201" y2="394" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="159.2" y="413" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">3</tspan></text>
+
+<line x1="283" y1="394" x2="353" y2="394" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="311.2" y="413" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">3</tspan></text>
+
+<line x1="45" y1="83" x2="45" y2="229" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="23.5" y="161.0" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">6</tspan></text>
+
+<line x1="80" y1="83" x2="80" y2="153" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="58.5" y="123.0" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="80" y1="235" x2="80" y2="305" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="58.5" y="275.0" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">2</tspan></text>
+
+<line x1="404" y1="121" x2="404" y2="191" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="412.0" y="161.0" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">4</tspan></text>
+
+<line x1="404" y1="273" x2="404" y2="343" stroke="#8c8c8c" stroke-width="2.2" stroke-linecap="round"/>
+<text x="412.0" y="313.0" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">x</tspan><tspan font-size="11" dy="4">4</tspan></text>
+
+<rect x="322" y="84" width="68" height="68" rx="9" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<rect x="248" y="86" width="64" height="64" rx="9" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<rect x="324" y="162" width="64" height="64" rx="9" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<rect x="172" y="86" width="64" height="64" rx="9" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<rect x="324" y="238" width="64" height="64" rx="9" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<rect x="135" y="87" width="24" height="24" rx="9" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<rect x="135" y="125" width="24" height="24" rx="9" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<rect x="287" y="277" width="24" height="24" rx="9" stroke="#8c8c8c" stroke-width="2" fill="none"/>
+<text x="142.6" y="256.0" fill="#ef4444" font-size="16" xml:space="preserve"><tspan font-size="16">•</tspan></text>
+
+<line x1="147.0" y1="245.0" x2="147.0" y2="230.5" stroke="#ef4444" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="147.0,222.5 143.0,230.5 151.0,230.5" fill="#ef4444"/>
+<line x1="147.0" y1="257.0" x2="147.0" y2="271.5" stroke="#ef4444" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="147.0,279.5 151.0,271.5 143.0,271.5" fill="#ef4444"/>
+<line x1="141.0" y1="251.0" x2="126.5" y2="251.0" stroke="#ef4444" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="118.5,251.0 126.5,255.0 126.5,247.0" fill="#ef4444"/>
+<line x1="153.0" y1="251.0" x2="167.5" y2="251.0" stroke="#ef4444" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="175.5,251.0 167.5,247.0 167.5,255.0" fill="#ef4444"/>
+<path d="M 94,251.0 Q 20,376.4 131.0,377.9" stroke="#ef4444" stroke-width="1.4" fill="none"/>
+<polygon points="139.0,378 131.1,373.9 130.9,381.9" fill="#ef4444"/>
+<text x="464.0" y="100" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">x̄</tspan><tspan font-size="11" dy="4">1</tspan><tspan font-size="15" dy="-4"> x</tspan><tspan font-size="11" dy="4">2</tspan><tspan font-size="15" dy="-4"> x̄</tspan><tspan font-size="11" dy="4">5</tspan><tspan font-size="15" dy="-4"> x</tspan><tspan font-size="11" dy="4">6</tspan></text>
+
+<text x="464.0" y="124" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">x</tspan><tspan font-size="10" dy="4">1</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">2</tspan><tspan font-size="14" dy="-4"> x̄</tspan><tspan font-size="10" dy="4">5</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<text x="464.0" y="146" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">x̄</tspan><tspan font-size="10" dy="4">1</tspan><tspan font-size="14" dy="-4"> x̄</tspan><tspan font-size="10" dy="4">2</tspan><tspan font-size="14" dy="-4"> x̄</tspan><tspan font-size="10" dy="4">5</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<text x="464.0" y="168" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">x̄</tspan><tspan font-size="10" dy="4">1</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">2</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">5</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<text x="464.0" y="190" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">x̄</tspan><tspan font-size="10" dy="4">1</tspan><tspan font-size="14" dy="-4"> x</tspan><tspan font-size="10" dy="4">2</tspan><tspan font-size="14" dy="-4"> x̄</tspan><tspan font-size="10" dy="4">5</tspan><tspan font-size="14" dy="-4"> x̄</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+</svg>
