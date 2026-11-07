@@ -40,9 +40,13 @@ Science uses the **SI system** as an objective system of units.
 
 One axis is enough. A block moves along the $x$ axis with velocity $\vec{v}$:
 
+![[Physics 1 block on x axis.svg]]
+
 $$\vec{v} = (v_x, v_y, v_z) = (v, 0, 0)$$
 
 so the motion is fully described by the scalar function $v(t)$. On a $v(t)$ graph, $v > 0$ means motion in the positive direction and $v < 0$ in the negative direction.
+
+![[Physics 1 v(t) sign.svg]]
 
 From $v(t)$ we get:
 
@@ -59,6 +63,8 @@ $$\Delta v = a \cdot \Delta t \iff a = \frac{\Delta v}{\Delta t}$$
 $$a = \frac{v(t + \Delta t) - v(t)}{\Delta t}$$
 
 On the $v(t)$ graph, $\Delta v / \Delta t$ is the slope of a triangle with legs $\Delta t$ and $\Delta v$. As $\Delta t \to 0$, this becomes the slope of the tangent at $t$:
+
+![[Physics 1 acceleration as slope.svg]]
 
 $$a(t) = \lim_{\Delta t \to 0} \frac{v(t + \Delta t) - v(t)}{\Delta t}$$
 
@@ -104,6 +110,8 @@ $$x(t) = x_0 + \int_{t_0}^{t} v_0\,dt' = x_0 + v_0 t \quad (t_0 = 0)$$
 
 The $x(t)$ graph is a straight line through $x_0$: rising for $v_0 > 0$, falling for $v_0 < 0$.
 
+![[Physics 1 uniform motion.svg]]
+
 #### II. Uniformly accelerated motion (*enakomerno pospešeno gibanje*)
 
 $$a(t) = a_0 \implies v(t) = v_0 + \int_{t_0}^{t} a_0\,dt' = v_0 + a_0 t$$
@@ -111,6 +119,8 @@ $$a(t) = a_0 \implies v(t) = v_0 + \int_{t_0}^{t} a_0\,dt' = v_0 + a_0 t$$
 $$x(t) = x_0 + \int_{t_0}^{t} (v_0 + a_0 t')\,dt' = x_0 + v_0 t + \frac{a_0 t^2}{2} \quad (t_0 = 0)$$
 
 The $x(t)$ graph is a parabola starting at $x_0$: curving upward for $a_0 > 0$, downward for $a_0 < 0$.
+
+![[Physics 1 uniformly accelerated motion.svg]]
 
 #### Just for fun: oscillation (*za foro: nihanje*)
 
@@ -122,6 +132,8 @@ $$a(t) = \dot{v}(t) = \ddot{x}(t) = (-A\omega)\cos(\omega t) \cdot \omega = -A\o
 
 $x(t)$ oscillates between $A$ and $-A$; $v(t)$ oscillates between $A\omega$ and $-A\omega$.
 
+![[Physics 1 oscillation.svg]]
+
 ### Motion in space (*gibanje v prostoru*)
 
 Compute $x$, $y$ and $z$ separately.
@@ -129,6 +141,8 @@ Compute $x$, $y$ and $z$ separately.
 #### Example: projectile motion (*poševni met*)
 
 At $t = 0$ the body is launched with velocity $\vec{v}_0$ at angle $\varphi$ to the horizontal. Its velocity components are:
+
+![[Physics 1 projectile motion.svg]]
 
 **$x$ direction:**
 
@@ -149,6 +163,8 @@ $$y(t) = y_0 + \int_{0}^{t} (v_0^y - g t')\,dt' = y_0 + v_0^y t - \frac{g t^2}{2
 $$\vec{r}(t) = (x(t), y(t), 0)$$
 
 Two directions of rotation: (+) and (−).
+
+![[Physics 1 circular motion.svg]]
 
 - $T$ … period (*obhodni čas*)
 - $\omega = \dfrac{2\pi}{T} = 2\pi\nu$

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="265" viewBox="0 0 370 265" font-family="Helvetica, Arial, sans-serif">
+<line x1="30" y1="150" x2="332.0" y2="150.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="340,150 332.0,146.0 332.0,154.0" fill="#8c8c8c"/>
+<text x="346" y="155" text-anchor="start" fill="#8c8c8c" font-size="15">t</text>
+<line x1="60" y1="250" x2="60.0" y2="33.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="60,25 56.0,33.0 64.0,33.0" fill="#8c8c8c"/>
+<text x="54" y="21" text-anchor="end" fill="#8c8c8c" font-size="14">x(t)</text>
+<text x="54" y="168" text-anchor="end" fill="#8c8c8c" font-size="15">t₀</text>
+<text x="54" y="115" text-anchor="end" fill="#8c8c8c" font-size="15">x₀</text>
+<line x1="60" y1="110" x2="320" y2="30" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="60" y1="110" x2="320" y2="240" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="6 4"/>
+<text x="250" y="40" text-anchor="start" fill="#f59e0b" font-size="15">v₀ > 0</text>
+<text x="250" y="250" text-anchor="start" fill="#f59e0b" font-size="15">v₀ &lt; 0</text>
+</svg>
