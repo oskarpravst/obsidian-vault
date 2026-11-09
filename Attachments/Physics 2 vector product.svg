@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="770" height="230" viewBox="0 0 770 230" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="160" x2="152.0" y2="160.0" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="160,160 152.0,156.0 152.0,164.0" fill="#3b82f6"/>
+<text x="95.8" y="182" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">a</tspan></text>
+<line x1="96.5" y1="167.8" x2="102.0" y2="167.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="104.0,167.8 100.0,165.3 100.0,170.2" fill="#3b82f6"/>
+<line x1="40" y1="160" x2="123.17374533078433" y2="109.1716000756318" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="130,105 121.1,105.8 125.3,112.6" fill="#f59e0b"/>
+<text x="136.0" y="104" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">b</tspan></text>
+<line x1="136.7" y1="89.8" x2="142.2" y2="89.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="144.2,89.8 140.2,87.3 140.2,92.2" fill="#f59e0b"/>
+<line x1="40" y1="160" x2="40.0" y2="58.0" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<polygon points="40,50 36.0,58.0 44.0,58.0" fill="#ef4444"/>
+<text x="18.5" y="58" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">c</tspan></text>
+<line x1="19.1" y1="43.8" x2="23.9" y2="43.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="25.9,43.8 21.9,41.4 21.9,46.1" fill="#ef4444"/>
+<path d="M 85.0,160.0 A 45,45 0 0 0 78.6,136.8" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<polygon points="78.6,136.8 85.2,141.0 79.2,144.6" fill="#8c8c8c"/>
+<text x="92" y="150" text-anchor="start" fill="#8c8c8c" font-size="15">θ</text>
+<text x="100" y="215" text-anchor="middle" fill="#8c8c8c" font-size="14">|c| = |a||b| sin θ</text>
+<line x1="230" y1="120" x2="332.0" y2="120.0" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="340,120 332.0,116.0 332.0,124.0" fill="#3b82f6"/>
+<text x="280.8" y="112" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">a</tspan></text>
+<line x1="281.5" y1="97.8" x2="287.0" y2="97.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="289.0,97.8 285.0,95.3 285.0,100.2" fill="#3b82f6"/>
+<line x1="230" y1="140" x2="312.0" y2="140.0" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="320,140 312.0,136.0 312.0,144.0" fill="#f59e0b"/>
+<text x="270.8" y="162" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">b</tspan></text>
+<line x1="271.5" y1="147.8" x2="277.0" y2="147.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="279.0,147.8 275.0,145.3 275.0,150.2" fill="#f59e0b"/>
+<text x="285" y="190" text-anchor="middle" fill="#8c8c8c" font-size="13">θ = 0: no vector product</text>
+<text x="285" y="207" text-anchor="middle" fill="#8c8c8c" font-size="13">(no plane — ni ravnine)</text>
+<line x1="440" y1="150" x2="517.3250759874298" y2="172.7426694080676" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="525,175 518.5,168.9 516.2,176.6" fill="#3b82f6"/>
+<text x="530.0" y="185" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">a</tspan></text>
+<line x1="530.7" y1="170.8" x2="536.2" y2="170.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="538.2,170.8 534.2,168.3 534.2,173.2" fill="#3b82f6"/>
+<line x1="440" y1="150" x2="522.2918567229605" y2="127.14115091028876" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="530,125 521.2,123.3 523.4,131.0" fill="#f59e0b"/>
+<text x="536.0" y="128" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">b</tspan></text>
+<line x1="536.7" y1="113.8" x2="542.2" y2="113.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="544.2,113.8 540.2,111.3 540.2,116.2" fill="#f59e0b"/>
+<line x1="440" y1="150" x2="440.0" y2="68.0" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<polygon points="440,60 436.0,68.0 444.0,68.0" fill="#ef4444"/>
+<text x="420.5" y="68" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">c</tspan></text>
+<line x1="421.1" y1="53.8" x2="425.9" y2="53.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="427.9,53.8 423.9,51.4 423.9,56.1" fill="#ef4444"/>
+<path d="M 486.1,163.2 A 48,48 0 0 0 486.4,137.6" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<polygon points="486.4,137.6 491.6,143.4 484.8,145.2" fill="#8c8c8c"/>
+<text x="418" y="160" text-anchor="middle" fill="#8c8c8c" font-size="16">+</text>
+<line x1="640" y1="90" x2="712.5093665794476" y2="62.808987532707135" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="720,60 711.1,59.1 713.9,66.6" fill="#3b82f6"/>
+<text x="724.0" y="58" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">a</tspan></text>
+<line x1="724.7" y1="43.8" x2="730.2" y2="43.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="732.2,43.8 728.2,41.4 728.2,46.1" fill="#3b82f6"/>
+<line x1="640" y1="90" x2="717.4560773313369" y2="117.3374390581189" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="725,120 718.8,113.6 716.1,121.1" fill="#f59e0b"/>
+<text x="730.0" y="128" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">b</tspan></text>
+<line x1="730.7" y1="113.8" x2="736.2" y2="113.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="738.2,113.8 734.2,111.3 734.2,116.2" fill="#f59e0b"/>
+<line x1="640" y1="90" x2="640.0" y2="177.0" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<polygon points="640,185 644.0,177.0 636.0,177.0" fill="#ef4444"/>
+<text x="620.5" y="182" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">c</tspan></text>
+<line x1="621.1" y1="167.8" x2="625.9" y2="167.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="627.9,167.8 623.9,165.3 623.9,170.2" fill="#ef4444"/>
+<path d="M 685.1,73.6 A 48,48 0 0 1 685.4,105.6" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<polygon points="685.4,105.6 684.4,97.9 691.0,100.1" fill="#8c8c8c"/>
+<text x="696" y="95" text-anchor="middle" fill="#8c8c8c" font-size="16">−</text>
+</svg>

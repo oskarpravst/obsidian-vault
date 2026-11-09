@@ -373,6 +373,7 @@ If we leave out the brackets, $f(x_1, x_2, x_3, x_4) = \bar{x}_3 \downarrow x_1 
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]]: PDNO and PKNO, which the PSNO and PPNO rewrite
 - [[Functional Completeness]]: the same idea in Discrete structures, [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]]
 - [[Sheffer Stroke]], [[Peirce Arrow]], [[Duality]], [[Exclusive Or]], [[Minterm]], [[Maxterm]], [[De Morgan's Laws]]
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja4/vaje 4.pdf|vaje 4]]
 
 ## Sources
 

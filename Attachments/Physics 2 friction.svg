@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="270" viewBox="0 0 640 270" font-family="Helvetica, Arial, sans-serif">
+<line x1="20" y1="80" x2="200" y2="80" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="60" y="30" width="80" height="50" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="215" y1="55" x2="242.0" y2="55.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="250,55 242.0,51.0 242.0,59.0" fill="#8c8c8c"/>
+<polyline points="265,60 277,52 289,60 301,52 313,60 325,52 337,60 349,52 361,60 373,52 385,60 397,52 409,60 421,52 433,60" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<polyline points="271,60 283,68 295,60 307,68 319,60 331,68 343,60 355,68 367,60 379,68 391,60 403,68 415,60 427,68 439,60" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<text x="440" y="50" text-anchor="start" fill="#8c8c8c" font-size="13">roughness of the surface</text>
+<text x="440" y="66" text-anchor="start" fill="#8c8c8c" font-size="13">(nazobčenost površine)</text>
+<line x1="20" y1="230" x2="260" y2="230" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="90" y="160" width="100" height="70" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="140" y="200" text-anchor="middle" fill="#3b82f6" font-size="13">v = 0</text>
+<line x1="90" y1="180" x2="43.0" y2="180.0" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<polygon points="35,180 43.0,184.0 43.0,176.0" fill="#ef4444"/>
+<text x="40.0" y="170" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">z</tspan></text>
+<line x1="40.7" y1="155.8" x2="47.0" y2="155.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="49.0,155.8 45.0,153.3 45.0,158.2" fill="#ef4444"/>
+<line x1="150" y1="230" x2="150.0" y2="143.0" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="150,135 146.0,143.0 154.0,143.0" fill="#f59e0b"/>
+<text x="156.0" y="150" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">p</tspan></text>
+<line x1="156.7" y1="135.8" x2="163.0" y2="135.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="165.0,135.8 161.0,133.3 161.0,138.2" fill="#f59e0b"/>
+<line x1="140" y1="236" x2="212.0" y2="236.0" stroke="#a855f7" stroke-width="2" stroke-linecap="round"/>
+<polygon points="220,236 212.0,232.0 212.0,240.0" fill="#a855f7"/>
+<text x="173.9" y="256" fill="#a855f7" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">l</tspan></text>
+<line x1="174.6" y1="241.8" x2="180.9" y2="241.8" stroke="#a855f7" stroke-width="1.1"/>
+<polygon points="182.9,241.8 178.9,239.3 178.9,244.2" fill="#a855f7"/>
+<text x="300.0" y="180" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">F</tspan><tspan font-size="10" dy="4">l</tspan><tspan font-size="14" dy="-4"> = static friction (sila lepenja)</tspan></text>
+<line x1="300.7" y1="166.7" x2="306.4" y2="166.7" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="308.4,166.7 304.4,164.3 304.4,169.1" fill="#8c8c8c"/>
+<text x="300.0" y="200" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">direction −</tspan><tspan font-size="14">F</tspan><tspan font-size="10" dy="4">z</tspan></text>
+<line x1="367.2" y1="186.7" x2="372.9" y2="186.7" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="374.9,186.7 370.9,184.3 370.9,189.1" fill="#8c8c8c"/>
+<text x="300.0" y="225" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">F</tspan><tspan font-size="10" dy="4">l,max</tspan><tspan font-size="14" dy="-4"> = k</tspan><tspan font-size="10" dy="4">l</tspan><tspan font-size="14" dy="-4"> · F</tspan><tspan font-size="10" dy="4">p</tspan></text>
+
+</svg>

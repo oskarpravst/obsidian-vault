@@ -318,6 +318,7 @@ $R$ is not an element of itself and not a set, but a proper class (*ni element s
 - [[Set]], [[Russell's Paradox]], [[Venn Diagram]]
 - [[De Morgan's Laws]], [[Contraposition]], [[Exclusive Or]]: the same laws for sets as in propositional logic
 - [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — Venn diagrams also appear in Digital circuits
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 5.pdf|vaje 5]]
 
 ## Sources
 

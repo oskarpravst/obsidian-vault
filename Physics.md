@@ -67,7 +67,7 @@ Mock exams are kept unseen until the end: **2021/22** and **2023/24**.
 
 Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete structures (current lectures and exercises, alternating). **Core** is the daily minimum (notes, vaje, 3–4 colloquium problems); **Extra** only when there is time left.
 
-- [ ] Sat 11-07 — Kinematics 1D
+- [x] Sat 11-07 — Kinematics 1D
 	- Core: notes L1, redo vaje 1–2; 2019/20 #1 ($v(t)$ graph); 1. izpit 2023/24 #1; 1. izpit 2019/20 #1
 	- Extra: zbirka *Premo gibanje*; 3. izpit 2023/24 #1
 - [ ] Sun 11-08 — 2D kinematics, circular motion

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="250" viewBox="0 0 330 250" font-family="Helvetica, Arial, sans-serif">
+<path d="M 106.9,50.6 A 150,150 0 0 1 264.9,238.8" stroke="#8c8c8c" stroke-width="1.8" fill="none"/>
+<circle cx="120" cy="200" r="3.5" fill="#8c8c8c"/>
+<text x="114" y="218" text-anchor="start" fill="#8c8c8c" font-size="13">axis (os)</text>
+<line x1="234.90666646784672" y1="103.58185854701911" x2="188.6259585704159" y2="48.42665864245269" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="183.48365769292357,42.29830309750087 185.6,51.0 191.7,45.9" fill="#f59e0b"/>
+<text x="153.8" y="36.29830309750087" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">v</tspan><tspan font-size="15">(t)</tspan></text>
+<line x1="154.4" y1="22.0" x2="159.2" y2="22.0" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="161.2,22.0 157.2,19.6 157.2,24.4" fill="#f59e0b"/>
+<line x1="234.90666646784672" y1="103.58185854701911" x2="192.77422209630294" y2="138.93517707977875" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<polygon points="186.6458665513511,144.07747795727107 195.3,142.0 190.2,135.9" fill="#ef4444"/>
+<text x="198.6" y="150.07747795727107" fill="#ef4444" font-size="15" xml:space="preserve"><tspan font-size="15">a</tspan><tspan font-size="15"> = </tspan><tspan font-size="15">a</tspan><tspan font-size="11" dy="4">r</tspan></text>
+<line x1="199.3" y1="135.8" x2="204.8" y2="135.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="206.8,135.8 202.8,133.4 202.8,138.2" fill="#ef4444"/>
+<line x1="224.8" y1="135.8" x2="230.3" y2="135.8" stroke="#ef4444" stroke-width="1.1"/>
+<polygon points="232.3,135.8 228.3,133.4 228.3,138.2" fill="#ef4444"/>
+</svg>

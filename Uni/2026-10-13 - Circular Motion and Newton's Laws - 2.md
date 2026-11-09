@@ -21,7 +21,10 @@ $$|\vec{r}(t)| = r = \text{const.}$$
 
 In 2D: $x^2 + y^2 = r^2$, i.e. $x(t)^2 + y(t)^2 = r^2$.
 
-The position is described by the angle $\varphi(t)$ from the $x$ axis ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=1|sketch]]):
+The position is described by the angle $\varphi(t)$ from the $x$ axis:
+
+![[Physics 2 position on circle.svg]]
+
 
 $$
 \vec{r}(t):\quad
@@ -73,13 +76,18 @@ Here $\ddot{\varphi}(t) = \alpha(t)$ and $\dot{\varphi}(t)^2 = \omega(t)^2$ (see
 
 #### Speed of circular motion
 
-From ① with $\dot{\varphi} = \omega$ ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=3|sketch]]: $\vec{v}$ is tangent to the circle):
+From ① with $\dot{\varphi} = \omega$ ($\vec{v}$ is tangent to the circle):
+
+![[Physics 2 velocity on circle.svg]]
+
 
 $$\vec{v}(t) = r\omega\,\big(-\sin\varphi(t),\; \cos\varphi(t),\; 0\big)$$
 
 > [!info] Scalar product (*skalarni produkt*)
 > $$s = \vec{a} \cdot \vec{b} = |\vec{a}|\,|\vec{b}|\cos\vartheta = a_x b_x + a_y b_y + a_z b_z = \sum_{i=1}^{3} a_i b_i \qquad (a_1 = a_x, \dots)$$
 > where $\vartheta$ is the angle between $\vec{a}$ and $\vec{b}$. The result is a **number** (scalar).
+>
+> ![[Physics 2 scalar product.svg]]
 >
 > - A vector with itself ($\vartheta = 0$, $\cos 0 = 1$): $|\vec{a}|^2 = \vec{a} \cdot \vec{a} = |\vec{a}|\,|\vec{a}|\cos 0$
 > - Perpendicular vectors ($\vartheta = \frac{\pi}{2}$): $s = |\vec{a}|\,|\vec{b}|\underbrace{\cos\tfrac{\pi}{2}}_{0} = 0$
@@ -117,18 +125,25 @@ These are exactly the two terms of $\vec{a}(t)$ from ②: the first ($r\ddot{\va
 - $v = |\vec{v}(t)| = \omega r = \text{const.}$, but $\vec{v}$ changes direction
 
 > [!tip] Fun lesson (*hecna lekcija*)
-> Uniform circular motion is **still accelerated motion** — $\vec{a}_r$ points towards the centre ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=5|sketch]]).
+> Uniform circular motion is **still accelerated motion** — $\vec{a}_r$ points towards the centre.
+>
+> ![[Physics 2 uniform circular motion acceleration.svg]]
+>
 > As soon as you move in a circle, the direction of the velocity changes → it is accelerated motion. (That is why on Earth we are in an accelerated frame — *zato smo na Zemlji v pospešenem sistemu*.)
 
 ### F 2.2 — Vector form of circular motion
 
 > [!info] [[Cross Product|Vector product]] (*vektorski produkt*) — simplified
 > $$\vec{c} = \vec{a} \times \vec{b} = -(\vec{b} \times \vec{a}), \qquad |\vec{c}| = |\vec{a}|\,|\vec{b}|\sin\theta$$
-> - The result is a **vector**, perpendicular to both $\vec{a}$ and $\vec{b}$. Its direction is defined by the positive rule (*smer definirana s pozitivnim pravilom*) — see the [[Sources/physics/photoNotes/lectures/notes 2.pdf#page=6|sketch]].
+> - The result is a **vector**, perpendicular to both $\vec{a}$ and $\vec{b}$. Its direction is defined by the positive rule (*smer definirana s pozitivnim pravilom*) — see the sketch below.
 > - $\theta = 0 \implies |\vec{c}| = 0$: parallel vectors have no vector product (they don't define a plane — *ni ravnine*).
 > - $\theta = \frac{\pi}{2} \implies |\vec{c}|_{\max} = |\vec{a}|\,|\vec{b}|$
+>
+> ![[Physics 2 vector product.svg]]
 
 **Clever trick** (*zvit trik*): treat $\vec{\omega}$ as a vector perpendicular to the plane of rotation — **up** for the positive direction of rotation, **down** for the negative.
+
+![[Physics 2 omega vector.svg]]
 
 $$\vec{v} = \vec{\omega} \times \vec{r}$$
 
@@ -155,6 +170,8 @@ A force is an external influence (*zunanji vpliv*) that causes a change of motio
 3. **Third law — action and reaction** (*akcija – reakcija*):
    $$\vec{F}_{2\to1} = -\vec{F}_{1\to2}$$
 
+   ![[Physics 2 action reaction.svg]]
+
 **Tricks** (*triki*): in Newton's picture the influence is **instantaneous** (*vpliv je takojšen*) — but what about between the Earth and the Sun? In reality there is a response time of the system (*obstaja odzivni čas sistema*).
 
 ### F 2.4 — Types of bodies (*tipi teles*)
@@ -166,7 +183,9 @@ The basic building block of matter is the **atom** — approximately a point bod
 
 #### Newton's laws for $N = 2$ atoms (both with mass $m_1$)
 
-Each atom feels an **external force** (*zunanja sila*) $\vec{F}_{z1}$, $\vec{F}_{z2}$ and an **internal force** (*notranja sila* — inside the system) from the other atom, $\vec{F}_{2\to1}$, $\vec{F}_{1\to2}$ ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=8|sketch]]).
+Each atom feels an **external force** (*zunanja sila*) $\vec{F}_{z1}$, $\vec{F}_{z2}$ and an **internal force** (*notranja sila* — inside the system) from the other atom, $\vec{F}_{2\to1}$, $\vec{F}_{1\to2}$.
+
+![[Physics 2 two atoms forces.svg]]
 
 - **2nd law** for each body:
   $$
@@ -191,9 +210,13 @@ $$\vec{F}_z = m_{\text{system}} \cdot \vec{a}_{\text{system}}$$
 
 **Example** (*npr.*): $\vec{a}_1 = \vec{a}_2$ — two atoms at a fixed distance $R$ (*R = fiksna*), moving without rotation $\implies \vec{a}_2 = \vec{a}_1$. The system $S$ has $m_{\text{system}} = 2m_1$, and its acceleration is determined by $\vec{F}_z = \vec{F}_{z1} + \vec{F}_{z2}$.
 
+![[Physics 2 two atoms system.svg]]
+
 #### $N = 3$
 
-Each body feels its external force and the internal forces of the other two ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=9|sketch]]).
+Each body feels its external force and the internal forces of the other two.
+
+![[Physics 2 three bodies forces.svg]]
 
 **Punchline:** the sum of internal forces is always 0 (because of Newton's 3rd law) (*vsota notranjih sil je vedno 0, zaradi 3. N. z.*).
 
@@ -207,7 +230,9 @@ For a rigid body (*togo telo*) that moves without rotating (translation): $\vec{
 
 #### [[Centre of Mass|Centre of mass]] (*masno središče*)
 
-The position of the centre of mass is the mass-weighted average of the position vectors ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=10|sketch]]); differentiating gives its velocity and acceleration:
+![[Physics 2 centre of mass.svg]]
+
+The position of the centre of mass is the mass-weighted average of the position vectors; differentiating gives its velocity and acceleration:
 
 $$
 \vec{r}_* = \frac{m_1\vec{r}_1 + m_2\vec{r}_2 + m_3\vec{r}_3}{m_s}
@@ -237,6 +262,8 @@ $$\boxed{\vec{F}_z = m_s\,\vec{a}_*}$$
 
 $$\vec{F}_g = m\vec{g}, \qquad g \approx 9{,}8\ \text{m/s}^2, \qquad [\text{N} = \text{kg}\,\text{m/s}^2] \text{ — newton}$$
 
+![[Physics 2 force of gravity.svg]]
+
 **System of bodies:**
 
 $$\vec{F}_z = \sum_{i=1}^{N} \vec{F}_{gi} = \sum_{i=1}^{N} m_i\vec{g} = m_s\vec{g}$$
@@ -245,7 +272,9 @@ $$\vec{F}_z = \sum_{i=1}^{N} \vec{F}_{gi} = \sum_{i=1}^{N} m_i\vec{g} = m_s\vec{
 
 $$\vec{F}_z = m_s\vec{a}_* \implies \cancel{m_s}\,\vec{g} = \cancel{m_s}\,\vec{a}_* \implies \vec{a}_* = \vec{g}$$
 
-The total force of gravity is placed in the centre of mass (*damo v masno središče*) ([[Sources/physics/photoNotes/lectures/notes 2.pdf#page=11|sketch]]).
+The total force of gravity is placed in the centre of mass (*damo v masno središče*).
+
+![[Physics 2 gravity in centre of mass.svg]]
 
 **Two kinds of mass:**
 
@@ -256,6 +285,8 @@ The total force of gravity is placed in the centre of mass (*damo v masno sredi�
 ### F 2.6 — [[Friction]] (*trenje*)
 
 Friction comes from the roughness of the surfaces (*nazobčenost površine*).
+
+![[Physics 2 friction.svg]]
 
 **Static friction → kinetic friction** (*lepenje → trenje*):
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="205" viewBox="0 0 430 205" font-family="Helvetica, Arial, sans-serif">
+<line x1="20" y1="175" x2="302.0" y2="175.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="310,175 302.0,171.0 302.0,179.0" fill="#8c8c8c"/>
+<line x1="40" y1="170" x2="40" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="40" y="197" text-anchor="middle" fill="#8c8c8c" font-size="15">−2</text>
+<line x1="100" y1="170" x2="100" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="100" y="197" text-anchor="middle" fill="#8c8c8c" font-size="15">−1</text>
+<line x1="160" y1="170" x2="160" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="160" y="197" text-anchor="middle" fill="#8c8c8c" font-size="15">0</text>
+<line x1="220" y1="170" x2="220" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="220" y="197" text-anchor="middle" fill="#8c8c8c" font-size="15">1</text>
+<line x1="280" y1="170" x2="280" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="280" y="197" text-anchor="middle" fill="#8c8c8c" font-size="15">2</text>
+<path d="M 70,45 Q 70,25 110,28 Q 190,22 270,28 Q 300,30 295,45 Q 290,58 250,56 Q 170,60 100,58 Q 68,58 70,45 Z" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<line x1="95" y1="66" x2="93" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="133" y1="66" x2="131" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="171" y1="66" x2="169" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="209" y1="66" x2="207" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="247" y1="66" x2="245" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="285" y1="66" x2="283" y2="76" stroke="#8c8c8c" stroke-width="1.4" stroke-linecap="round"/>
+<text x="300" y="22" text-anchor="start" fill="#8c8c8c" font-size="13">(nimbus tratus)</text>
+<circle cx="100" cy="125" r="3.5" stroke="#3b82f6" stroke-width="1.6" fill="#3b82f6"/>
+<line x1="104" y1="125" x2="149.0" y2="125.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="157,125 149.0,121.0 149.0,129.0" fill="#3b82f6"/>
+<text x="114.7" y="117" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">A′</tspan><tspan font-size="11" dy="4">−1</tspan></text>
+
+<circle cx="160" cy="148" r="3.5" stroke="#3b82f6" stroke-width="1.6" fill="#3b82f6"/>
+<line x1="164" y1="148" x2="209.0" y2="148.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="217,148 209.0,144.0 209.0,152.0" fill="#3b82f6"/>
+<text x="177.8" y="140" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">A′</tspan><tspan font-size="11" dy="4">0</tspan></text>
+
+<circle cx="220" cy="125" r="3.5" stroke="#3b82f6" stroke-width="1.6" fill="#3b82f6"/>
+<line x1="224" y1="125" x2="269.0" y2="125.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="277,125 269.0,121.0 269.0,129.0" fill="#3b82f6"/>
+<text x="237.8" y="117" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">A′</tspan><tspan font-size="11" dy="4">1</tspan></text>
+
+<line x1="330" y1="108" x2="299.37308300110453" y2="120.89554399953494" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="292,124 300.9,124.6 297.8,117.2" fill="#f59e0b"/>
+<text x="334" y="106" text-anchor="start" fill="#f59e0b" font-size="14">partition</text>
+<text x="334" y="122" text-anchor="start" fill="#f59e0b" font-size="13">(razbitje)</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="305" viewBox="0 0 380 305" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="195" cy="110" rx="150" ry="85" stroke="#f59e0b" stroke-width="2" fill="none" stroke-dasharray="7 6"/>
+<circle cx="155" cy="110" r="48" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="225" cy="110" r="52" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="70" cy="235" r="38" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="140" y="50" text-anchor="start" fill="#3b82f6" font-size="16">B</text>
+<text x="250" y="48" text-anchor="start" fill="#3b82f6" font-size="16">C</text>
+<text x="70" y="186" text-anchor="middle" fill="#3b82f6" font-size="16">A</text>
+<text x="340" y="190" text-anchor="start" fill="#f59e0b" font-size="16">X</text>
+<text x="150" y="290" text-anchor="start" fill="#f59e0b" font-size="15">B ∪ C ⊆ X ⊆ Aᶜ</text>
+</svg>

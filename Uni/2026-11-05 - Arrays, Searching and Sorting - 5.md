@@ -526,6 +526,7 @@ $ echo 40 | java FibonacciMemo
 ## Connections
 
 - Course: [[Programming 1]]
+- Exercises: [[2026-11-09 - Exercises for Arrays, Searching and Sorting - 5]]
 - Previous lecture: [[2026-10-29 - Methods and Recursion - 4]]: methods, recursive Fibonacci (now with memoization), prime numbers with methods
 - [[2026-10-22 - Loop Examples, break and switch - 3]]: earlier versions of the prime numbers program
 - [[Array]], [[Enhanced For Loop]], [[Linear Search]], [[Binary Search]], [[Insertion Sort]], [[Sieve of Eratosthenes]], [[Memoization]], [[Fibonacci Sequence]], [[Recursion]], [[Method]], [[JShell]]
