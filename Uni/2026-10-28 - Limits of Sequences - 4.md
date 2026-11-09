@@ -258,6 +258,7 @@ The biggest open question (*največje odprto vprašanje*): does $\mathrm{P} = \m
 - [[2026-10-11 - Numbers - 1]] — [[Supremum and Infimum|supremum]] (limit of an increasing bounded sequence)
 - [[Mathematical Induction]] — proving the bound $a_n \leq 6$ (also used in Discrete structures)
 - [[Big O Notation]], [[P versus NP]] — time complexity, also relevant for Programming 1
+- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 4.pdf|vaje 4]]
 
 ## Sources
 
