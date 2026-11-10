@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="215" viewBox="0 0 340 215" font-family="Helvetica, Arial, sans-serif">
+<line x1="80" y1="20" x2="80" y2="200" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="80" cy="20" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="55" y1="160" x2="120" y2="60" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="88" cy="110" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="96" y="114" text-anchor="start" fill="#8c8c8c" font-size="15">axis (os)</text>
+<text x="40" y="20" text-anchor="start" fill="#f59e0b" font-size="15">e</text>
+<line x1="48" y1="25" x2="66.4597453744823" y2="44.22890143175239" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="72,50 69.3,41.5 63.6,47.0" fill="#f59e0b"/>
+<line x1="72" y1="145" x2="57.282931819700835" y2="151.68957644559052" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="50,155 58.9,155.3 55.6,148.0" fill="#f59e0b"/>
+<text x="30.0" y="180" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">e</tspan></text>
+<line x1="30.7" y1="165.8" x2="37.0" y2="165.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="39.0,165.8 35.0,163.3 35.0,168.2" fill="#f59e0b"/>
+<text x="150" y="60" text-anchor="start" fill="#8c8c8c" font-size="13">electroscope (elektroskop)</text>
+<text x="150" y="80" text-anchor="start" fill="#8c8c8c" font-size="13">[As] — ampere-second</text>
+</svg>

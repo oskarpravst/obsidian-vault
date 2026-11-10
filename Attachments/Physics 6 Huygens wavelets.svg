@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="220" viewBox="0 0 300 220" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="20" x2="40" y2="200" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="40" cy="35" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,20 A15,15 0 0 1 40,50" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="40" cy="65" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,50 A15,15 0 0 1 40,80" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="40" cy="95" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,80 A15,15 0 0 1 40,110" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="40" cy="125" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,110 A15,15 0 0 1 40,140" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="40" cy="155" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,140 A15,15 0 0 1 40,170" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<circle cx="40" cy="185" r="2.5" stroke="#ef4444" stroke-width="1" fill="#ef4444"/>
+<path d="M40,170 A15,15 0 0 1 40,200" stroke="#3b82f6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<line x1="55" y1="20" x2="55" y2="200" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="5 4"/>
+<text x="75" y="100" text-anchor="start" fill="#8c8c8c" font-size="13">superposition of circular waves</text>
+<text x="75" y="117" text-anchor="start" fill="#8c8c8c" font-size="13">from all points of space</text>
+</svg>

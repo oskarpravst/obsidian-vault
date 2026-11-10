@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" font-family="Helvetica, Arial, sans-serif">
+<path d="M70,40 c40,-30 90,-10 85,30 c-4,30 -30,30 -30,60 c0,30 -20,45 -45,40 c-25,-5 -30,-30 -25,-55 c5,-25 -25,-30 -20,-50 c4,-15 20,-20 35,-25 z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="110" cy="85" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="118" y="75" text-anchor="start" fill="#8c8c8c" font-size="15">axis (os)</text>
+<path d="M60,100 Q110,140 200,125" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<line x1="196" y1="126" x2="197.19050351852837" y2="125.73544366254924" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="205,124 196.3,121.8 198.1,129.6" fill="#8c8c8c"/>
+<path d="M305,40 c40,-30 90,-10 85,30 c-4,30 -30,30 -30,60 c0,30 -20,45 -45,40 c-25,-5 -30,-30 -25,-55 c5,-25 -25,-30 -20,-50 c4,-15 20,-20 35,-25 z" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round"/>
+<circle cx="330" cy="70" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="326" y="60" text-anchor="end" fill="#8c8c8c" font-size="15">axis (os)</text>
+<line x1="330" y1="70" x2="330" y2="160" stroke="#8c8c8c" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 4"/>
+<line x1="330" y1="70" x2="355.8840339565798" y2="113.14005659429965" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="360,120 359.3,111.1 352.5,115.2" fill="#f59e0b"/>
+<text x="342.0" y="102" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">r</tspan><tspan font-size="11" dy="4">*</tspan></text>
+<line x1="342.4" y1="87.8" x2="344.9" y2="87.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="346.9,87.8 342.9,85.3 342.9,90.2" fill="#f59e0b"/>
+<circle cx="360" cy="120" r="3" stroke="#ef4444" stroke-width="1.5" fill="#ef4444"/>
+<text x="368" y="116" text-anchor="start" fill="#ef4444" font-size="13">CM (M.S.)</text>
+<line x1="360" y1="120" x2="360.0" y2="182.0" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="360,190 364.0,182.0 356.0,182.0" fill="#3b82f6"/>
+<text x="366.0" y="186" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">g</tspan></text>
+<line x1="366.7" y1="171.8" x2="373.0" y2="171.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="375.0,171.8 371.0,169.3 371.0,174.2" fill="#3b82f6"/>
+<path d="M330,100 A30,30 0 0 0 346,95.6" stroke="#f59e0b" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<text x="332" y="116" text-anchor="start" fill="#f59e0b" font-size="14">φ</text>
+<path d="M410,210 Q330,250 260,205" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+<line x1="263" y1="208" x2="261.2680368629481" y2="206.02061355765503" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="256,200 258.3,208.7 264.3,203.4" fill="#8c8c8c"/>
+<text x="335" y="250" text-anchor="middle" fill="#8c8c8c" font-size="12">torque in the negative direction</text>
+<text x="335" y="265" text-anchor="middle" fill="#8c8c8c" font-size="12">(vrti navor v neg. smeri)</text>
+<circle cx="250" cy="70" r="7" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<circle cx="250" cy="70" r="1.8" stroke="#8c8c8c" stroke-width="1" fill="#8c8c8c"/>
+<text x="262" y="75" text-anchor="start" fill="#8c8c8c" font-size="15">z</text>
+<circle cx="220" cy="70" r="7" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<line x1="215" y1="65" x2="225" y2="75" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="215" y1="75" x2="225" y2="65" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="208.0" y="52" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">M</tspan><tspan font-size="11" dy="4">g</tspan></text>
+<line x1="208.7" y1="37.8" x2="214.2" y2="37.8" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="216.2,37.8 212.2,35.4 212.2,40.1" fill="#8c8c8c"/>
+<text x="180" y="210" text-anchor="end" fill="#8c8c8c" font-size="12">positive angle: counterclockwise</text>
+<text x="180" y="225" text-anchor="end" fill="#8c8c8c" font-size="12">(nasprotni smeri urinega kazalca)</text>
+</svg>
