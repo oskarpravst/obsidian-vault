@@ -34,6 +34,8 @@ avoid Kobayashi Maru.
 If you are unaware of all possible actions you could take, you may be unable to solve the problem.
 Restating the problem in a more precise and formal way is a great way of dealing with the problem itself.
 Thinking about the problem brings more value than thinking about the solution.
+It is better to make a plan than to solve a problem with trial and error.
+We can often 
 
 
 ## Key concepts

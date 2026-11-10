@@ -70,7 +70,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Sat 11-07 — Kinematics 1D
 	- Core: notes L1, redo vaje 1–2; 2019/20 #1 ($v(t)$ graph); 1. izpit 2023/24 #1; 1. izpit 2019/20 #1
 	- Extra: zbirka *Premo gibanje*; 3. izpit 2023/24 #1
-- [ ] Sun 11-08 — 2D kinematics, circular motion
+- [x] Sun 11-08 — 2D kinematics, circular motion
 	- Core: notes L2 (circular motion); 2022/23 #1 (raft); 2017/18 #2 (car and train); 3. izpit 2019/20 #2 (archer)
 	- Extra: zbirka canoe, *Kroženje*, *Vodoravni in poševni met*; 2022/23 #5 (snow); 2017/18 #1; 2013/14 #1
 - [ ] Mon 11-09 — Forces, friction
