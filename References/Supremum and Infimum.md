@@ -41,6 +41,7 @@ Let $A \subseteq \mathbb{R}$, $A \ne \emptyset$.
 - [[2026-10-11 - Numbers - 1]] — definitions, table of examples, infimum and minimum (Calculus)
 - [[2026-10-21 - Spectral Decomposition and Sequences - 3]] — bounded sequences, $\sup(a_n)$ and $\inf(a_n)$ (Calculus)
 - [[2026-10-28 - Limits of Sequences - 4]] — monotone convergence, $\lim a_n = \sup a_n$ (Calculus)
+- [[2026-11-11 - Limits of Functions, Continuity and Zeros of Continuous Functions - 6]] — a continuous function on [a, b] reaches its inf and sup, inf = min, sup = max (Calculus)
 - [[Sequence]], [[Limit of a Sequence]]
 
 ## Sources

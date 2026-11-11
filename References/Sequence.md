@@ -50,6 +50,7 @@ The partial sums of a sequence form a new sequence, whose limit is the sum of a 
 
 - [[2026-10-21 - Spectral Decomposition and Sequences - 3]] — definition, explicit and recursive sequences, properties (Calculus)
 - [[2026-10-28 - Limits of Sequences - 4]] — limits, accumulation points, monotone convergence (Calculus)
+- [[2026-11-11 - Limits of Functions, Continuity and Zeros of Continuous Functions - 6]] — bisection and regula falsi construct sequences that converge to a zero (Calculus)
 - [[Limit of a Sequence]], [[Supremum and Infimum]], [[Fibonacci Sequence]], [[Collatz Conjecture]], [[Series]], [[Mathematical Induction]], [[Array]]
 
 ## Sources

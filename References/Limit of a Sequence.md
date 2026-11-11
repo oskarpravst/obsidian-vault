@@ -46,6 +46,7 @@ A sequence with a limit is **convergent** (*konvergentno*), otherwise it is **di
 - [[2026-10-21 - Spectral Decomposition and Sequences - 3]] — constructing the limit, $\varepsilon$–$N$ definition (Calculus)
 - [[2026-10-28 - Limits of Sequences - 4]] — examples, accumulation points, rules, convergence theorems (Calculus)
 - [[2026-11-04 - Series and Convergence Tests - 5]] — the sum of a series as a limit (Calculus)
+- [[2026-11-11 - Limits of Functions, Continuity and Zeros of Continuous Functions - 6]] — limits of functions are computed with sequences, the same rules (Calculus)
 - [[Sequence]], [[Supremum and Infimum]], [[Series]], [[Mathematical Induction]], [[Big O Notation]]
 
 ## Sources

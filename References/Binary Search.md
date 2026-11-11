@@ -54,6 +54,7 @@ public static int dvojiskoIskanje(int[] t, int x) {
 
 - [[2026-10-22 - Loop Examples, break and switch - 3]] — guessing a number, at most 7 guesses (Programming 1)
 - [[2026-11-05 - Arrays, Searching and Sorting - 5]] — binary search in a sorted array (Programming 1)
+- [[2026-11-11 - Limits of Functions, Continuity and Zeros of Continuous Functions - 6]] — bisection: the same halving idea for zeros of continuous functions (Calculus)
 - [[Array]], [[Linear Search]], [[Big O Notation]], [[Logarithm]]
 
 ## Sources
