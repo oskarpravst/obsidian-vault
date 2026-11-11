@@ -50,7 +50,7 @@ With a plan, the first step of the plan can be "formally restate the problem".
 3. You should always divide your problems into sub-problems. This usually leads into easier progress.
 4. Start with what you know and work outward from there.
 This also implies in cases where you haven't divided the problem. Always try to solve the problem with the knowledge you have and only if you really can't try to seek other concepts or help.
-5. 
+5. If you don't know how to solve a problem, try to reduce it with removing constraints or even adding them.(so that you come to the problem you already know how to solve).
 
 
 
