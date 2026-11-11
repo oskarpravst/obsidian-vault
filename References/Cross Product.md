@@ -49,6 +49,8 @@ $$\vec{M}_1 = (-\vec{r}) \times (-\vec{F}) = \vec{r} \times \vec{F}, \qquad \vec
 
 - [[2026-10-13 - Circular Motion and Newton's Laws - 2]] — definition, $\vec{v} = \vec{\omega} \times \vec{r}$, $\vec{a}_t$ and $\vec{a}_r$ (Physics)
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]] — torque, force couple, $\vec{M} = mr^2\vec{\alpha}$ (Physics)
+- [[2026-11-03 - Angular Momentum, Kepler's Laws, Precession and Oscillations - 5]] — angular momentum $\vec{\Gamma} = \vec{r} \times \vec{G}$ and torque $\vec{M} = \vec{r} \times \vec{F}$ (Physics)
+- [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]] — torque of gravity on a physical pendulum, $\vec{M}_g = \vec{r}_* \times \vec{F}_g$ (Physics)
 - [[Dot Product]] — the other product of vectors; it gives a number
 - [[Circular Motion]], [[Torque]], [[Moment of Inertia]]
 

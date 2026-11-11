@@ -56,6 +56,12 @@ In everyday language: "not (rain and cold)" means "not rain **or** not cold".
 - [[2026-10-05 - Propositional Logic - 1]] — law 7 of propositional logic (Discrete structures)
 - [[2026-10-11 - Boolean Algebra - 1]] — rule 4 of Boolean algebra (Digital circuits)
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — used in the proof of law 11b and in showing $\{\neg, \lor\}$ and $\{\neg, \land\}$ are complete (Discrete structures)
+- [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — complete normal forms (Digital circuits)
+- [[2026-10-19 - Valid Arguments and Inference Rules - 3]] — used in proofs of valid arguments (Discrete structures)
+- [[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]] — negating quantifiers in predicate logic (Discrete structures)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — swapping conjunction and disjunction in $\{\lor, \land, \neg\}$ (Digital circuits)
+- [[2026-11-02 - Prenex Normal Form, Sets and Russell's Paradox - 5]] — the two De Morgan laws for sets (Discrete structures)
+- [[2026-11-09 - Set Equations, Cartesian Product and Relations - 6]] — simplifying set equations (Discrete structures)
 - [[Functional Completeness]]
 - [[Duality]]
 - [[Truth Table]]

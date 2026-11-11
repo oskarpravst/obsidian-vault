@@ -48,6 +48,7 @@ $$m_1 v_1^z + m_2 v_2^z = (m_1 + m_2)\,v_k$$
 
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]] — definition, theorem of momentum (Physics)
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]] — system of bodies, Newton's cradle, collisions, rocket (Physics)
+- [[2026-11-03 - Angular Momentum, Kepler's Laws, Precession and Oscillations - 5]] — the momentum theorem multiplied by $\vec{r}$ gives the angular momentum theorem (Physics)
 - [[Impulse]], [[Newton's Laws]], [[Centre of Mass]], [[Elastic Collision]], [[Inelastic Collision]], [[Rocket Equation]]
 
 ## Sources

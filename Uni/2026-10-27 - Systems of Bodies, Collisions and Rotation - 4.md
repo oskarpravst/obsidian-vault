@@ -245,7 +245,7 @@ $$J = \sum_{i=1}^{N} m_i r_i^2 \qquad\longrightarrow\qquad J = \int_{V} r^2\,dm,
 
 | body | $J$ |
 |---|---|
-| sphere (*sfera*) | $J = \frac{2}{5}\,mR^2$ |
+| solid sphere (*krogla*; notebook: *sfera*) | $J = \frac{2}{5}\,mR^2$ |
 | cylinder (*valj*) | $J = \frac{1}{2}\,mR^2$ |
 | cylindrical shell / ring (*plašč valja / obroč*) | $J = mR^2$ (as if it were a point mass — *kot bi bilo točkasto*) |
 

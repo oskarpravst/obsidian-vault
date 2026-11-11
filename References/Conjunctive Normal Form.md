@@ -60,6 +60,7 @@ $$
 ## Connections
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — KNO from a truth table and its simplification (Discrete structures)
+- [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — PKNO corresponds to the CNF of propositional logic (Digital circuits)
 - [[Disjunctive Normal Form]]
 - [[Functional Completeness]]
 - [[Truth Table]]

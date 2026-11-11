@@ -59,6 +59,9 @@ $$
 ## Connections
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — DNO from a truth table (Discrete structures)
+- [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — PDNO corresponds to the DNF of propositional logic (Digital circuits)
+- [[2026-11-05 - Minimisation of Switching Functions - 5]] — minimising a DNF (Digital circuits)
+- [[2026-11-09 - Set Equations, Cartesian Product and Relations - 6]] — DNF of a set equation, multiplying out each with each (Discrete structures)
 - [[Conjunctive Normal Form]]
 - [[Functional Completeness]]
 - [[Truth Table]]

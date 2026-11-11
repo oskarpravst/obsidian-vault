@@ -71,7 +71,13 @@ for (char crka = 'A'; crka <= 'Z'; crka++) {
 
 ## Connections
 
+- [[2026-09-22 - Introduction to Academic Studies - 0]] — for loops in the first problem-solving example (Programming 1)
 - [[2026-10-15 - Control Structures - 2]] — `for` loop, sequence example (Programming 1)
+- [[2026-10-19 - Exercises for Control Structures - 2]] — a `for` loop over an interval (Programming 1)
+- [[2026-10-22 - Loop Examples, break and switch - 3]] — a `for` loop over characters (Programming 1)
+- [[2026-10-26 - Exercises for Control Structures - 3]] — nested `for` loops in Piramida (Programming 1)
+- [[2026-11-02 - Exercises for Methods and Recursion - 4]] — lab exercises (Programming 1)
+- [[2026-11-09 - Exercises for Arrays, Searching and Sorting - 5]] — loops over arrays (Programming 1)
 - [[While Loop]], [[Do-while Loop]], [[Infinite Loop]]
 
 ## Sources

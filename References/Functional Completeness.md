@@ -54,6 +54,7 @@ Post's criterion: a set is complete **iff** it is not contained in any of five c
 ## Connections
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — complete sets, reduction, $\{\land, \lor\}$ not complete, $\{\uparrow\}$ complete (Discrete structures)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — Post's theorem and the five closed classes (Digital circuits)
 - [[Disjunctive Normal Form]]
 - [[Conjunctive Normal Form]]
 - [[De Morgan's Laws]] — used in the reductions

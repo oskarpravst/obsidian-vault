@@ -52,6 +52,8 @@ $$1 + 2 + \dots + m = \frac{m(m+1)}{2}$$
 - [[2026-10-11 - Numbers - 1]] — principle, procedure, sum $1 + \dots + m$ (Calculus)
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — strong induction for $\veebar$, induction on depth (Discrete structures)
 - [[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]] — predicate formulas are defined inductively (Discrete structures)
+- [[2026-10-28 - Limits of Sequences - 4]] — proving a recursive sequence is monotone and bounded (Calculus)
+- [[2026-10-29 - Methods and Recursion - 4]] — recurrence relation of the Fibonacci numbers (Programming 1)
 - [[Exclusive Or]], [[Functional Completeness]]
 - [[Recursion]] — the programming counterpart: a base case and a step that reduces to a smaller case
 

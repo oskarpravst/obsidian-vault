@@ -9,7 +9,7 @@ week: "3"
 
 ## Main Idea
 
-Continuation of reasoning in [[Propositional Logic|propositional logic]] (*sklepanje v izjavnem računu*): an argument is valid exactly when the implication "conjunction of premises ⇒ conclusion" is a tautology. Instead of truth tables we prove validity with a sequence of formulas built from [[Inference Rule|inference rules]] (*pravila sklepanja*) — modus ponens, modus tollens, disjunctive and hypothetical syllogism, conjunction, simplification, addition — and three auxiliary arguments (*pomožni sklepi*): [[Conditional Proof|conditional proof]] (PS), [[Proof by Contradiction|proof by contradiction]] (RA) and [[Proof by Cases|proof by cases]] (AP). At the end: why propositional logic is not enough and the start of [[Predicate Logic|predicate logic]] (*predikatni račun*) — domain of discourse, predicates, [[Quantifier|quantifiers]] and formalising sentences.
+Continuation of reasoning in [[Propositional Logic|propositional logic]] (*sklepanje v izjavnem računu*): an argument is valid exactly when the implication "conjunction of premises ⇒ conclusion" is a tautology. Instead of truth tables we prove validity with a sequence of formulas built from [[Inference Rule|inference rules]] (*pravila sklepanja*) — modus ponens, modus tollens, disjunctive and hypothetical syllogism, conjunction, simplification, addition — and three auxiliary arguments (*pomožni sklepi*): [[Conditional Proof|conditional proof]] (PS), [[Contradiction|proof by contradiction]] (RA) and [[Proof by Cases|proof by cases]] (AP). At the end: why propositional logic is not enough and the start of [[Predicate Logic|predicate logic]] (*predikatni račun*) — domain of discourse, predicates, [[Quantifier|quantifiers]] and formalising sentences.
 
 ## Notes
 

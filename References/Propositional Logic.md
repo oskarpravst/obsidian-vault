@@ -32,7 +32,7 @@ Implications associate to the left: $A \Rightarrow B \Rightarrow C$ means $(A \R
 
 **Normal forms and completeness:** every truth table can be written as a [[Disjunctive Normal Form|DNF]] or [[Conjunctive Normal Form|CNF]]. Sets such as $\{\neg, \lor\}$, $\{\neg, \land\}$, $\{\uparrow\}$ are [[Functional Completeness|complete]].
 
-**Reasoning** (*sklepanje*): $A_1, \dots, A_n \models B$ (a valid argument) holds exactly when $(A_1 \land \dots \land A_n) \Rightarrow B$ is a tautology. Validity is proved with [[Inference Rule|inference rules]] (MP, MT, DS, HS, …) and auxiliary arguments ([[Conditional Proof|conditional proof]], [[Proof by Contradiction|proof by contradiction]], [[Proof by Cases|proof by cases]]).
+**Reasoning** (*sklepanje*): $A_1, \dots, A_n \models B$ (a valid argument) holds exactly when $(A_1 \land \dots \land A_n) \Rightarrow B$ is a tautology. Validity is proved with [[Inference Rule|inference rules]] (MP, MT, DS, HS, …) and auxiliary arguments ([[Conditional Proof|conditional proof]], [[Contradiction|proof by contradiction]], [[Proof by Cases|proof by cases]]).
 
 **Limits:** propositional logic treats every sentence as a single variable and cannot see its internal structure. For "all students …" we need [[Predicate Logic|predicate logic]].
 
@@ -56,9 +56,12 @@ Implications associate to the left: $A \Rightarrow B \Rightarrow C$ means $(A \R
 ## Connections
 
 - [[2026-10-05 - Propositional Logic - 1]]: propositions, connectives, construction tree, truth tables, laws 1–7 (Discrete structures)
+- [[2026-10-11 - Boolean Algebra - 1]]: the same laws in Boolean algebra (Digital circuits)
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]]: laws 8–12, normal forms, complete sets, start of reasoning (Discrete structures)
 - [[2026-10-19 - Valid Arguments and Inference Rules - 3]]: valid arguments, inference rules, auxiliary arguments, start of predicate logic (Discrete structures)
-- [[2026-10-11 - Boolean Algebra - 1]]: the same laws in Boolean algebra (Digital circuits)
+- [[2026-10-22 - Loop Examples, break and switch - 3]] — conjunction `&&` in a loop condition (Programming 1)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — the same normal forms (Digital circuits)
+- [[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]] — tautologies carry over to predicate logic (Discrete structures)
 - [[Truth Table]], [[Boolean Algebra]], [[De Morgan's Laws]], [[Contraposition]], [[Functional Completeness]], [[Predicate Logic]]
 
 ## Sources

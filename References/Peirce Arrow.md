@@ -47,6 +47,7 @@ Expressing the basic operators with NOR only:
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — Peirce–Łukasiewicz connective, $\{\downarrow\}$ is complete (Discrete structures)
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — $f_1$, logic symbol (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — Peirce normal form (PPNO) with NOR only (Digital circuits)
 - [[Sheffer Stroke]], [[Exclusive Or]], [[Functional Completeness]], [[De Morgan's Laws]]
 
 ## Sources

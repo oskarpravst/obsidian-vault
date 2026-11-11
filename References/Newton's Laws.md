@@ -47,6 +47,7 @@ Newton's laws (*Newtonovi zakoni*, 1687) for a point body:
 
 - [[2026-10-13 - Circular Motion and Newton's Laws - 2]]: the three laws, systems of bodies, centre of mass, force of gravity (Physics)
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]]: spring (3rd law), centripetal force, work and momentum from the 2nd law, beyond Newton (Physics)
+- [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]] — Newton's 2nd law for rotation of the physical pendulum (Physics)
 - Exercises: [[Sources/physics/photoNotes/vaje/vaje 3.pdf|vaje 3]]: Newton's laws, statics and dynamics, tasks 3.1 and 3.2
 - [[Newton's Law of Universal Gravitation]], [[Friction]], [[Circular Motion]], [[Centre of Mass]], [[Momentum]], [[Work]]
 

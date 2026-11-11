@@ -59,6 +59,7 @@ $$
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]]: law 8, proof with a truth table (Discrete structures)
 - [[2026-10-19 - Valid Arguments and Inference Rules - 3]]: modus tollens via contraposition (Discrete structures)
+- [[2026-11-02 - Prenex Normal Form, Sets and Russell's Paradox - 5]] — the same law holds for sets (Discrete structures)
 - [[Propositional Logic]], [[Inference Rule]], [[Logical Equivalence]], [[De Morgan's Laws]]
 
 ## Sources

@@ -49,6 +49,7 @@ The integrated circuit 74LS00 shown on slide 3-44 contains four 2-input NAND gat
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — Sheffer connective, $\{\uparrow\}$ is complete (Discrete structures)
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — $f_7$, logic symbol (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — Sheffer normal form (PSNO) with NAND only (Digital circuits)
 - [[Peirce Arrow]], [[Exclusive Or]], [[Functional Completeness]], [[De Morgan's Laws]]
 
 ## Sources

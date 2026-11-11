@@ -70,6 +70,8 @@ Guessing a random number (Programming 3): the loop repeats `while (izbranoStevil
 
 - [[2026-10-15 - Control Structures - 2]] — `do` loop, the universe example (Programming 1)
 - [[2026-10-22 - Loop Examples, break and switch - 3]] — guessing a number, scope of variables in the body (Programming 1)
+- [[2026-10-26 - Exercises for Control Structures - 3]] — lab exercises (Programming 1)
+- [[2026-11-09 - Exercises for Arrays, Searching and Sorting - 5]] — lab exercises (Programming 1)
 - [[While Loop]], [[For Loop]], [[Variable Scope]], [[Block]]
 
 ## Sources

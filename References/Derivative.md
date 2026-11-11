@@ -50,6 +50,7 @@ which turns $m\int \vec{a} \cdot \vec{v}\,dt$ into $\frac{1}{2}mv_k^2 - \frac{1}
 - [[2026-10-11 - Physical Quantities and Kinematics - 1]] — velocity and acceleration as derivatives, power rule (Physics)
 - [[2026-10-13 - Circular Motion and Newton's Laws - 2]] — product rule, $\omega = \dot{\varphi}$, $\alpha = \ddot{\varphi}$ (Physics)
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]] — $\frac{d}{dt}(v^2) = 2\,\vec{v} \cdot \vec{a}$ (Physics)
+- [[2026-11-04 - Series and Convergence Tests - 5]] — a power series can be differentiated term by term (Calculus)
 - [[Integral]], [[Circular Motion]], [[Kinetic Energy]]
 
 ## Sources

@@ -44,9 +44,11 @@ The same pairs appear in propositional logic, e.g. the two [[De Morgan's Laws]] 
 
 ## Connections
 
-- [[2026-10-11 - Boolean Algebra - 1]] — postulates and their duals (Digital circuits)
 - [[2026-10-05 - Propositional Logic - 1]] — laws of propositional logic come in dual pairs (Discrete structures)
+- [[2026-10-11 - Boolean Algebra - 1]] — postulates and their duals (Digital circuits)
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — the KNO is built by the dual recipe of the DNO (Discrete structures)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — the dual form of Shannon expansion (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — self-dual functions as a closed class (Digital circuits)
 - [[Disjunctive Normal Form]], [[Conjunctive Normal Form]]
 - [[De Morgan's Laws]]
 

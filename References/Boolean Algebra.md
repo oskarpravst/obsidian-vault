@@ -62,9 +62,10 @@ $$
 
 ## Connections
 
+- [[2026-10-05 - Propositional Logic - 1]] — the same laws in propositional logic (Discrete structures)
 - [[2026-10-11 - Boolean Algebra - 1]] — postulates, rules, proofs (Digital circuits)
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — De Morgan used for minterms ↔ maxterms (Digital circuits)
-- [[2026-10-05 - Propositional Logic - 1]] — the same laws in propositional logic (Discrete structures)
+- [[2026-11-05 - Minimisation of Switching Functions - 5]] — merging terms with distributivity and $c \lor \bar{c} = 1$ (Digital circuits)
 - [[Duality]], [[De Morgan's Laws]], [[Switching Function]], [[Truth Table]]
 
 ## Sources

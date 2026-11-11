@@ -46,6 +46,9 @@ $1 \nabla 1 \nabla 1 = 1$ (three ones — odd), $1 \nabla 1 \nabla 0 = 0$ (two o
 
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — exclusive disjunction, laws, odd-number claim (Discrete structures)
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — $f_6$, sum modulo 2, logic symbol (Digital circuits)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — sum modulo 2 in the Boolean difference (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — linear functions are written with the sum modulo 2 (Digital circuits)
+- [[2026-11-02 - Prenex Normal Form, Sets and Russell's Paradox - 5]] — symmetric difference of sets (Discrete structures)
 - [[Sheffer Stroke]], [[Peirce Arrow]], [[Mathematical Induction]]
 
 ## Sources

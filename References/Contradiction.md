@@ -42,7 +42,8 @@ so $\neg p$ follows.
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — $A \land \neg A \sim 0$, DNO of a contradiction (Discrete structures)
 - [[2026-10-19 - Valid Arguments and Inference Rules - 3]] — proof by contradiction, RA (Discrete structures)
 - [[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]] — unsatisfiable predicate formulas (Discrete structures)
-- [[Tautology]], [[Logical Equivalence]], [[Disjunctive Normal Form]], [[Proof by Contradiction]]
+- [[2026-11-02 - Prenex Normal Form, Sets and Russell's Paradox - 5]] — RA in a predicate-logic proof (Discrete structures)
+- [[Tautology]], [[Logical Equivalence]], [[Disjunctive Normal Form]]
 
 ## Sources
 

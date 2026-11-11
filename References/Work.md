@@ -44,6 +44,7 @@ where $A_{zun}$ is the work of all external forces except gravity and the spring
 
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]] — definition, sign, work of gravity and of the spring force, the theorem (Physics)
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]] — elastic collision, work of a torque (Physics)
+- [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]] — work of the electric force and electric potential energy (Physics)
 - [[Dot Product]], [[Integral]], [[Kinetic Energy]], [[Potential Energy]], [[Conservative Force]], [[Friction]], [[Newton's Laws]]
 
 ## Sources

@@ -61,9 +61,11 @@ System.out.println(vsota);
 ## Connections
 
 - [[2026-10-15 - Control Structures - 2]] — `while` loop, running sums, `sc.hasNextInt()` (Programming 1)
-- [[2026-10-22 - Loop Examples, break and switch - 3]] — `for` vs. `while`/`do` (Programming 1)
 - [[2026-10-19 - Exercises for Control Structures - 2]] — digits, walking; `while` instead of `for` (Programming 1)
+- [[2026-10-22 - Loop Examples, break and switch - 3]] — `for` vs. `while`/`do` (Programming 1)
 - [[2026-10-26 - Exercises for Control Structures - 3]] — reading until the input runs out (Programming 1)
+- [[2026-11-02 - Exercises for Methods and Recursion - 4]] — lab exercises (Programming 1)
+- [[2026-11-09 - Exercises for Arrays, Searching and Sorting - 5]] — lab exercises (Programming 1)
 - [[For Loop]], [[Do-while Loop]], [[Infinite Loop]], [[Break Statement]]
 - [[Propositional Logic]] — conditions with `&&`, `||`, `!` (Discrete structures)
 

@@ -55,6 +55,7 @@ $3000000000 - 2^{32} = 3000000000 - 4294967296 = -1294967296$ — one full turn 
 ## Connections
 
 - [[2026-10-08 - Introduction to programming - 1]] — numeric types, overflow example, `long` as the solution
+- [[2026-10-19 - Exercises for Control Structures - 2]] — `int` overflow of `potenca` for an 18-digit number (Programming 1)
 - [[JShell]]
 
 ## Sources

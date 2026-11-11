@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="250" viewBox="0 0 540 250" font-family="Helvetica, Arial, sans-serif">
+<line x1="40" y1="220" x2="260" y2="220" stroke="#8c8c8c" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="40" y1="220" x2="260" y2="92.98294077828237" stroke="#8c8c8c" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="260" y1="220" x2="260" y2="92.98294077828237" stroke="#f59e0b" stroke-width="1.8" stroke-linecap="round"/>
+<line x1="230.52558883257652" y1="110.00000000000001" x2="230.52558883257652" y2="220" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 260,220 A 220,220 0 0 0 230.5,110.0" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M 85,220 A 45,45 0 0 0 79.0,197.5" stroke="#f59e0b" stroke-width="1.6" fill="none"/>
+<text x="92" y="212" text-anchor="start" fill="#f59e0b" font-size="15">x</text>
+<text x="222.52558883257652" y="170.0" text-anchor="end" fill="#3b82f6" font-size="15">sin x</text>
+<text x="268" y="161.49147038914117" text-anchor="start" fill="#f59e0b" font-size="15">tg x</text>
+<text x="150.0" y="242" text-anchor="middle" fill="#8c8c8c" font-size="15">1</text>
+<polyline points="330,90 370,90 370,68 330,90" stroke="#3b82f6" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+<text x="382" y="85" text-anchor="start" fill="#8c8c8c" font-size="15"><</text>
+<path d="M 400,90 L 450,90 A 50,50 0 0 0 443.3,65.0 Z" stroke="#3b82f6" stroke-width="1.8" fill="none"/>
+<text x="462" y="85" text-anchor="start" fill="#8c8c8c" font-size="15"><</text>
+<polyline points="480,90 530,90 530,61.13248654051872 480,90" stroke="#f59e0b" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+</svg>

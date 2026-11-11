@@ -42,6 +42,8 @@ $$f = \overline{m_0}\,\overline{m_2}\,\overline{m_3} = M_7 M_5 M_4 = \&(7, 5, 4)
 ## Connections
 
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — definition, properties, PKNO, conversions (Digital circuits)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — Veitch diagrams and Shannon expansion (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — PKNO and the Peirce normal form (Digital circuits)
 - [[Minterm]], [[Switching Function]], [[Truth Table]], [[De Morgan's Laws]]
 - [[Conjunctive Normal Form]] — the same idea for propositional formulas (Discrete structures)
 

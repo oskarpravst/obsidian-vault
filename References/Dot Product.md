@@ -53,6 +53,8 @@ The frequency vectors $C_k$ of the [[Discrete Fourier Transform|discrete Fourier
 - [[2026-10-13 - Circular Motion and Newton's Laws - 2]]: definition, $|\vec{v}| = r\omega$, $\vec{v} \perp \vec{r}$ (Physics)
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]]: work $\vec{F} \cdot d\vec{s}$ and its sign (Physics)
 - [[2026-10-21 - Spectral Decomposition and Sequences - 3]]: scalar product of complex vectors, DFT (Calculus)
+- [[2026-11-03 - Angular Momentum, Kepler's Laws, Precession and Oscillations - 5]] — precession: the torque is perpendicular to $\vec{\Gamma}$, so the dot product is $0$ (Physics)
+- [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]] — electric work $\vec{F}_e \cdot d\vec{r}$ (Physics)
 - [[Cross Product]]: the other product of vectors; it gives a vector
 - [[Work]], [[Circular Motion]], [[Discrete Fourier Transform]]
 

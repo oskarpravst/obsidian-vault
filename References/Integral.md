@@ -49,6 +49,8 @@ $$A = \int_{\vec{r}_z}^{\vec{r}_k} \vec{F} \cdot d\vec{s}, \qquad A_{vz} = -k\in
 - [[2026-10-11 - Physical Quantities and Kinematics - 1]] — velocity and position as integrals (Physics)
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]] — work and impulse (Physics)
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]] — moment of inertia, rocket mass, work of a torque (Physics)
+- [[2026-11-04 - Series and Convergence Tests - 5]] — a power series can be integrated term by term (Calculus)
+- [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]] — electric potential energy as an integral of the force (Physics)
 - [[Derivative]], [[Work]], [[Impulse]], [[Moment of Inertia]]
 
 ## Sources

@@ -38,6 +38,9 @@ $$f = m_1 \lor m_2 \lor m_4 \lor m_7 = \lor(1, 2, 4, 7)$$
 ## Connections
 
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — definition, properties, PDNO (Digital circuits)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — the cells of a Veitch diagram are minterms (Digital circuits)
+- [[2026-10-29 - Functionally Complete Systems and Closed Classes - 4]] — PDNO and the Sheffer normal form (Digital circuits)
+- [[2026-11-05 - Minimisation of Switching Functions - 5]] — merging adjacent minterms in Quine's method (Digital circuits)
 - [[Maxterm]], [[Switching Function]], [[Truth Table]], [[De Morgan's Laws]]
 - [[Disjunctive Normal Form]] — the same idea for propositional formulas (Discrete structures)
 

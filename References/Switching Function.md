@@ -47,6 +47,8 @@ The 16 functions of two variables include the constants 0 and 1, $x_1$, $x_2$, t
 
 - [[2026-10-11 - Boolean Algebra - 1]] — switching functions, truth tables, logic symbols
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — PDNO, PKNO, number of functions
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — drawing a switching function as a Veitch diagram (Digital circuits)
+- [[2026-11-05 - Minimisation of Switching Functions - 5]] — minimisation of switching functions (Digital circuits)
 - [[Boolean Algebra]], [[Truth Table]], [[Minterm]], [[Maxterm]]
 - [[Disjunctive Normal Form]], [[Conjunctive Normal Form]] — the same idea for propositional formulas
 

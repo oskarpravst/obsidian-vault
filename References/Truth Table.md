@@ -50,6 +50,9 @@ $\neg p \lor q$ and $p \Rightarrow q$ have the same column, so $\neg p \lor q \s
 - [[2026-10-05 - Propositional Logic - 1]] — truth tables, tautology, equivalence (Discrete structures)
 - [[2026-10-11 - Boolean Algebra - 1]] — truth tables of switching functions (Digital circuits)
 - [[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]] — DNO/KNO from a truth table, counterexample for non-equivalence, checking whether an argument is valid (Discrete structures)
+- [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]] — PDNO and PKNO are read from the truth table (Digital circuits)
+- [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — a Veitch diagram as a rearranged truth table (Digital circuits)
+- [[2026-11-09 - Set Equations, Cartesian Product and Relations - 6]] — the 0/1 table of subsets has $2^n$ rows (Discrete structures)
 - [[Disjunctive Normal Form]], [[Conjunctive Normal Form]]
 - [[De Morgan's Laws]]
 

@@ -338,6 +338,7 @@ $V$ is the **potential** (*potencial*): the potential energy of the test charge 
 ## Connections
 
 - Course: [[Physics]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 6.pdf|vaje 6]] — torque, table of moments of inertia, Steiner's theorem, rotational energy and angular momentum, weight on a pulley (task 6.1), spring oscillator and mathematical pendulum, mass between two springs with $x(t)$, $v(t)$, $a(t)$ and energy (task 7.1), rod as a physical pendulum ($J = \frac{1}{3}ml^2$ about its end)
 - Previous lecture: [[2026-11-03 - Angular Momentum, Kepler's Laws, Precession and Oscillations - 5]]: harmonic oscillation, $\ddot{x} = -\omega^2 x$, mass on a spring
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]]: torque, moment of inertia, $\vec{M} = J\vec{\alpha}$, centre of mass
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]]: conservative forces, potential energy, spring work $\frac{1}{2}kx^2$, gravitation

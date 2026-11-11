@@ -70,7 +70,7 @@ The order of the quantifiers is not uniquely determined (*vrstni red kvantifikat
 | 1.4. | $0$ | $\sim$ (1.3) |
 | 1. | $\neg \exists y\, \forall x\, (P(x, y) \Leftrightarrow \neg P(x, x))$ | RA(1.1, 1.4) |
 
-The formula is true in every interpretation (*resnična v vsaki interpretaciji*). (ES = existential specification, US = universal specification, RA = [[Proof by Contradiction|proof by contradiction]].)
+The formula is true in every interpretation (*resnična v vsaki interpretaciji*). (ES = existential specification, US = universal specification, RA = [[Contradiction|proof by contradiction]].)
 
 ### Sets (*operacije z množicami — teorija množic*)
 
@@ -314,7 +314,7 @@ $R$ is not an element of itself and not a set, but a proper class (*ni element s
 
 - Course: [[Discrete structures]]
 - Previous lecture: [[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]] — renaming variables and moving quantifiers, used here for the PNO
-- [[Prenex Normal Form]], [[Predicate Logic]], [[Proof by Contradiction]] (RA, from [[2026-10-19 - Valid Arguments and Inference Rules - 3|lecture 3]])
+- [[Prenex Normal Form]], [[Predicate Logic]], [[Contradiction|Proof by contradiction]] (RA, from [[2026-10-19 - Valid Arguments and Inference Rules - 3|lecture 3]])
 - [[Set]], [[Russell's Paradox]], [[Venn Diagram]]
 - [[De Morgan's Laws]], [[Contraposition]], [[Exclusive Or]]: the same laws for sets as in propositional logic
 - [[2026-10-22 - Veitch Diagrams, Shannon Expansion and Decomposition - 3]] — Venn diagrams also appear in Digital circuits
