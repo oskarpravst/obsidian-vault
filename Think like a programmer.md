@@ -51,6 +51,12 @@ With a plan, the first step of the plan can be "formally restate the problem".
 4. Start with what you know and work outward from there.
 This also implies in cases where you haven't divided the problem. Always try to solve the problem with the knowledge you have and only if you really can't try to seek other concepts or help.
 5. If you don't know how to solve a problem, try to reduce it with removing constraints or even adding them.(so that you come to the problem you already know how to solve).
+6. Try reducing the problem. (have a deliberate, but temporary Kobayashi Maru). 
+7. Always look for analogies(similar problems).
+8. If you can't seem to make progress experiment(not guess).
+9. Don't get frustrated. The source of frustration is in the destination, your mind. You should have more than one problem ready, so that if you get frustrated you can switch to a different problem and come back later, when you feel like you calmed down. If you don't have another problem to tackle, go for a walk. Don't think about the problem until the brake is over.
+
+Do as many problems as you can. A great problem make was Sam Loyd. Once you give up, think about how you could make an easier version of the puzzle.
 
 
 
