@@ -354,6 +354,7 @@ $x$ *oče* $y$ … $x$ is the father of $y$.
 - [[De Morgan's Laws]], [[Disjunctive Normal Form]]: the same steps as in propositional logic ([[2026-10-12 - Normal Forms and Complete Sets of Connectives - 2]])
 - [[Truth Table]]: the 0/1 table of subsets is the table of all assignments for $n$ variables, hence $2^n$
 - [[Predicate Logic]]: a binary relation is the set view of a two-place predicate
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 6(asistentka zbolela).pdf|vaje 6]] (cancelled, self-study), assistant's solutions: [[Sources/discrete_structures/photoNotes/vaje/vaje 6 asistentove resitve.pdf|vaje 6 asistentove rešitve]], my solutions: [DS Vaje 6 · Množice](https://claude.ai/artifact/2pgySyQz7ckV1qHhNzkSKG)
 
 ## Sources
 

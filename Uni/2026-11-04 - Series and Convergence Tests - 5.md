@@ -254,6 +254,7 @@ $$\sum_{n=1}^{\infty}(-1)^n a_n \quad \text{converges.}$$
 - Previous lecture: [[2026-10-28 - Limits of Sequences - 4]] — limits of sequences, $\lim(1 + \frac{1}{n})^n = e$, comparison of limits; the sum of a series is the limit of its partial sums
 - [[2026-10-21 - Spectral Decomposition and Sequences - 3]] — sequences
 - [[Derivative]], [[Integral]] — term-by-term differentiation and integration of power series
+- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 5.pdf|vaje 5]]
 
 ## Sources
 
