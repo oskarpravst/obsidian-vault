@@ -76,7 +76,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Mon 11-09 — Forces, friction
 	- Core: notes L2–L3, redo vaje 3; zbirka *Sile*: log on a slope, box on an incline, two carts
 	- Extra: rest of zbirka *Sile*; 2013/14 #5
-- [ ] Tue 11-10 — Lecture 6 (go through it the same evening); work, power, energy
+- [x] Tue 11-10 — Lecture 6 (go through it the same evening); work, power, energy
 	- Core: redo vaje 4; zbirka *Delo in energija*: loop-the-loop, ice puck over the bump, wagon and spring
 	- Extra: rest of zbirka *Delo in energija*; 2013/14 #2; zbirka sailboat/car $v(t)$ problems
 - [ ] Wed 11-11 — Momentum, collisions
