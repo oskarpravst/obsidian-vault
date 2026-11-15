@@ -79,7 +79,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Tue 11-10 — Lecture 6 (go through it the same evening); work, power, energy
 	- Core: redo vaje 4; zbirka *Delo in energija*: loop-the-loop, ice puck over the bump, wagon and spring
 	- Extra: rest of zbirka *Delo in energija*; 2013/14 #2; zbirka sailboat/car $v(t)$ problems
-- [ ] Wed 11-11 — Momentum, collisions
+- [x] Wed 11-11 — Momentum, collisions
 	- Core: redo vaje 5.1, 5.2; 2019/20 #2 (train and cannonball); 1. izpit 2021/22 #3 (2D collision); 2013/14 #3
 	- Extra: zbirka *Sunek sile, gibalna količina*, *Sistem več teles*; 2014 #5 (rocket); 2. izpit 2023/24 #2; 3. izpit 2023/24 #2
 - [ ] Thu 11-12 — Rigid body I (torque, statics, moment of inertia)
