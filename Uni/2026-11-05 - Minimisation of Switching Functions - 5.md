@@ -297,6 +297,7 @@ Both results are the same as with Quine's method.
 - [[2026-10-15 - Complete Normal Forms and Logic Functions - 2]]: the PDNO, the starting point of minimisation
 - [[Boolean Algebra]]: $a\bar{b}c \lor a\bar{b}\bar{c} = a\bar{b}$ uses distributivity and $c \lor \bar{c} = 1$
 - [[Prime Implicant]], [[Quine–McCluskey Algorithm]], [[Veitch Diagram]], [[Minterm]], [[Disjunctive Normal Form]], [[Switching Function]]
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja5/vaje 5.pdf|vaje 5]]
 
 ## Sources
 
