@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="515" viewBox="0 0 680 515" font-family="Helvetica, Arial, sans-serif">
+<text x="20" y="25" text-anchor="start" fill="#f59e0b" font-size="15">① reflexive: every loop present</text>
+<circle cx="150" cy="90" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M146,85 C128,52 172,52 155,81" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="154.5,82.0 160.9,75.8 153.4,73.1" fill="#8c8c8c"/>
+<text x="180" y="70" text-anchor="start" fill="#8c8c8c" font-size="14">← loop (zanka)</text>
+<text x="330" y="25" text-anchor="start" fill="#f59e0b" font-size="15">② symmetric: all arrows go both ways</text>
+<circle cx="360" cy="70" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="348" y="64" text-anchor="middle" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="460" cy="70" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="474" y="64" text-anchor="middle" fill="#8c8c8c" font-size="15">y</text>
+<path d="M368.5,67.0 Q410.0,52.0 444.9,64.6" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="451.5,67.0 445.4,60.5 442.7,68.0" fill="#8c8c8c"/>
+<path d="M451.5,73.0 Q410.0,88.0 375.1,75.4" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="368.5,73.0 374.6,79.5 377.3,72.0" fill="#8c8c8c"/>
+<text x="510" y="75" text-anchor="start" fill="#8c8c8c" font-size="14">or</text>
+<circle cx="550" cy="70" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="538" y="64" text-anchor="middle" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="630" cy="70" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="644" y="64" text-anchor="middle" fill="#8c8c8c" font-size="15">y</text>
+<path d="M559.0,70.0 Q590.0,70.0 621.0,70.0" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<text x="20" y="165" text-anchor="start" fill="#f59e0b" font-size="15">③ antisymmetric</text>
+<circle cx="60" cy="220" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="170" cy="220" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M68.4,216.7 Q115.0,198.0 155.1,214.1" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="161.6,216.7 155.7,210.0 152.7,217.4" fill="#8c8c8c"/>
+<path d="M161.6,223.3 Q115.0,242.0 74.9,225.9" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="68.4,223.3 74.3,230.0 77.3,222.6" fill="#8c8c8c"/>
+<line x1="75" y1="192" x2="155" y2="248" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<line x1="75" y1="248" x2="155" y2="192" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<text x="195" y="212" text-anchor="start" fill="#8c8c8c" font-size="13">forbidden structure</text>
+<text x="195" y="229" text-anchor="start" fill="#8c8c8c" font-size="13">(obstacle — ovira)</text>
+<text x="330" y="165" text-anchor="start" fill="#f59e0b" font-size="15">④ transitive: every shortcut present</text>
+<circle cx="360" cy="225" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="460" cy="225" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="560" cy="225" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M367.7,220.4 Q410.0,195.0 446.3,216.8" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="452.3,220.4 447.5,212.8 443.4,219.7" fill="#8c8c8c"/>
+<path d="M467.7,220.4 Q510.0,195.0 546.3,216.8" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="552.3,220.4 547.5,212.8 543.4,219.7" fill="#8c8c8c"/>
+<path d="M368.6,227.6 Q460.0,255.0 544.7,229.6" stroke="#f59e0b" stroke-width="1.6" fill="none" stroke-dasharray="5 4"/>
+<polygon points="551.4,227.6 542.6,226.1 544.9,233.7" fill="#f59e0b"/>
+<text x="460" y="272" text-anchor="middle" fill="#f59e0b" font-size="13">↑ “shortcut” (bližnjica)</text>
+<text x="20" y="325" text-anchor="start" fill="#f59e0b" font-size="15">⑤ connected: an arrow between</text>
+<text x="43" y="343" text-anchor="start" fill="#f59e0b" font-size="15">every two elements</text>
+<circle cx="40" cy="410" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="28" y="414" text-anchor="middle" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="80" cy="370" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="88" y="362" text-anchor="middle" fill="#8c8c8c" font-size="15">y</text>
+<path d="M46.4,403.6 Q60.0,390.0 68.7,381.3" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="73.6,376.4 65.2,379.2 70.8,384.8" fill="#8c8c8c"/>
+<circle cx="125" cy="410" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="113" y="414" text-anchor="middle" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="165" cy="370" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="173" y="362" text-anchor="middle" fill="#8c8c8c" font-size="15">y</text>
+<path d="M158.6,376.4 Q145.0,390.0 136.3,398.7" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="131.4,403.6 139.8,400.8 134.2,395.2" fill="#8c8c8c"/>
+<circle cx="210" cy="410" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="198" y="414" text-anchor="middle" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="250" cy="370" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="258" y="362" text-anchor="middle" fill="#8c8c8c" font-size="15">y</text>
+<path d="M216.4,403.6 Q230.0,390.0 243.6,376.4" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<ellipse cx="120" cy="470" rx="70" ry="24" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<circle cx="90" cy="470" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="150" cy="470" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="65" y1="444" x2="175" y2="496" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<line x1="65" y1="496" x2="175" y2="444" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<text x="200" y="466" text-anchor="start" fill="#8c8c8c" font-size="13">→ obstacle to</text>
+<text x="215" y="483" text-anchor="start" fill="#8c8c8c" font-size="13">connectedness</text>
+<text x="330" y="325" text-anchor="start" fill="#f59e0b" font-size="15">⑥ functional: at most one arrow</text>
+<text x="353" y="343" text-anchor="start" fill="#f59e0b" font-size="15">leaves every point</text>
+<circle cx="370" cy="420" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="430" cy="385" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="440" cy="440" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M377.8,415.5 Q400.0,402.5 416.2,393.1" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="422.2,389.5 413.3,390.1 417.3,397.0" fill="#8c8c8c"/>
+<path d="M378.7,422.5 Q405.0,430.0 424.6,435.6" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="431.3,437.5 424.8,431.5 422.6,439.2" fill="#8c8c8c"/>
+<line x1="355" y1="435" x2="445" y2="380" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<circle cx="520" cy="420" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="600" cy="420" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M516,415 C498,382 542,382 525,411" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="524.5,412.0 530.9,405.8 523.4,403.1" fill="#8c8c8c"/>
+<path d="M529.0,420.0 Q560.0,420.0 584.0,420.0" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="591.0,420.0 583.0,416.0 583.0,424.0" fill="#8c8c8c"/>
+<line x1="500" y1="440" x2="610" y2="395" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+<text x="490" y="485" text-anchor="middle" fill="#8c8c8c" font-size="13">obstacles to functionality</text>
+<text x="490" y="502" text-anchor="middle" fill="#8c8c8c" font-size="13">(oviri za enoličnost)</text>
+</svg>

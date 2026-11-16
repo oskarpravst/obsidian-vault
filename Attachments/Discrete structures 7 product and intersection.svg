@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="175" viewBox="0 0 560 175" font-family="Helvetica, Arial, sans-serif">
+<circle cx="50" cy="90" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="36" y="95" text-anchor="middle" fill="#8c8c8c" font-size="15">a</text>
+<circle cx="170" cy="35" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="170" y="21" text-anchor="middle" fill="#8c8c8c" font-size="15">b</text>
+<circle cx="170" cy="145" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="170" y="169" text-anchor="middle" fill="#8c8c8c" font-size="15">c</text>
+<circle cx="290" cy="90" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="304" y="95" text-anchor="middle" fill="#8c8c8c" font-size="15">d</text>
+<path d="M58.2,86.3 Q110.0,62.5 155.5,41.7" stroke="#3b82f6" stroke-width="1.6" fill="none"/>
+<polygon points="161.8,38.7 152.9,38.4 156.2,45.7" fill="#3b82f6"/>
+<path d="M58.2,93.7 Q110.0,117.5 155.5,138.3" stroke="#10b981" stroke-width="1.6" fill="none"/>
+<polygon points="161.8,141.3 156.2,134.3 152.9,141.6" fill="#10b981"/>
+<path d="M178.2,38.7 Q230.0,62.5 275.5,83.3" stroke="#f59e0b" stroke-width="1.6" fill="none"/>
+<polygon points="281.8,86.3 276.2,79.3 272.9,86.6" fill="#f59e0b"/>
+<path d="M178.2,141.3 Q230.0,117.5 275.5,96.7" stroke="#f59e0b" stroke-width="1.6" fill="none"/>
+<polygon points="281.8,93.7 272.9,93.4 276.2,100.7" fill="#f59e0b"/>
+<text x="95" y="50" text-anchor="start" fill="#3b82f6" font-size="15">R</text>
+<text x="95" y="142" text-anchor="start" fill="#10b981" font-size="15">S</text>
+<text x="240" y="50" text-anchor="start" fill="#f59e0b" font-size="15">T</text>
+<text x="240" y="142" text-anchor="start" fill="#f59e0b" font-size="15">T</text>
+<text x="340" y="70" text-anchor="start" fill="#8c8c8c" font-size="14">a R∗T d,  a S∗T d</text>
+<text x="340" y="92" text-anchor="start" fill="#8c8c8c" font-size="14">so a (R∗T ∩ S∗T) d</text>
+<text x="340" y="114" text-anchor="start" fill="#8c8c8c" font-size="14">but ¬ a (R∩S)∗T d,  R∩S = ∅</text>
+</svg>

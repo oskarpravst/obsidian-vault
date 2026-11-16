@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="120" viewBox="0 0 440 120" font-family="Helvetica, Arial, sans-serif">
+<circle cx="40" cy="50" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="40" y="36" text-anchor="middle" fill="#8c8c8c" font-size="15">a</text>
+<circle cx="160" cy="50" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="160" y="36" text-anchor="middle" fill="#8c8c8c" font-size="15">b</text>
+<circle cx="280" cy="50" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="280" y="36" text-anchor="middle" fill="#8c8c8c" font-size="15">c</text>
+<circle cx="400" cy="50" r="6" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="400" y="36" text-anchor="middle" fill="#8c8c8c" font-size="15">d</text>
+<path d="M49.0,50.0 Q100.0,50.0 144.0,50.0" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="151.0,50.0 143.0,46.0 143.0,54.0" fill="#8c8c8c"/>
+<path d="M169.0,50.0 Q220.0,50.0 264.0,50.0" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="271.0,50.0 263.0,46.0 263.0,54.0" fill="#8c8c8c"/>
+<path d="M289.0,50.0 Q340.0,50.0 384.0,50.0" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="391.0,50.0 383.0,46.0 383.0,54.0" fill="#8c8c8c"/>
+<path d="M272.0,54.0 Q160.0,110.0 54.3,57.2" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="48.0,54.0 53.4,61.2 57.0,54.0" fill="#8c8c8c"/>
+</svg>
