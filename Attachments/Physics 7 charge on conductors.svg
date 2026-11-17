@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="190" viewBox="0 0 360 190" font-family="Helvetica, Arial, sans-serif">
+<circle cx="90" cy="90" r="65" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="70" y="60" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="100" y="55" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="60" y="95" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="95" y="90" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="120" y="80" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="80" y="120" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="110" y="118" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<path d="M 210 30 L 210 110 A 55 55 0 0 0 320 110 L 320 30 L 305 30 L 305 110 A 40 40 0 0 1 225 110 L 225 30 Z" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="203" y="45" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="200" y="80" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="202" y="115" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="220" y="150" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="250" y="172" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="285" y="170" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="318" y="150" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="330" y="115" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="334" y="80" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+<text x="330" y="45" text-anchor="middle" fill="#ef4444" font-size="16">+</text>
+</svg>

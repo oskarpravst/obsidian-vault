@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="235" viewBox="0 0 460 235" font-family="Helvetica, Arial, sans-serif">
+<circle cx="130" cy="110" r="80" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<line x1="130.0" y1="110.0" x2="228.07852804032305" y2="129.50903220161283" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="184.9239757025809" y1="120.92505803290318" x2="188.8471168241938" y2="121.70541932096769" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="196.69339906741965,123.26614189709672 189.6,117.8 188.1,125.6" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="185.55702330196021" y2="193.14696123025453" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="161.11193304909773" y1="156.56229828894254" x2="163.33421398117616" y2="159.88817673815274" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="167.77877584533297,166.5399336365731 166.7,157.7 160.0,162.1" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="110.49096779838717" y2="208.07852804032305" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="119.07494196709682" y1="164.9239757025809" x2="118.29458067903231" y2="168.8471168241938" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="116.73385810290328,176.69339906741965 122.2,169.6 114.4,168.1" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="46.85303876974547" y2="165.55702330196021" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="83.43770171105746" y1="141.1119330490977" x2="80.11182326184726" y2="143.33421398117613" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="73.4600663634269,147.77877584533294 82.3,146.7 77.9,140.0" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="31.92147195967695" y2="90.49096779838716" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="75.0760242974191" y1="99.0749419670968" x2="71.15288317580618" y2="98.2945806790323" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="63.30660093258034,96.73385810290327 70.4,102.2 71.9,94.4" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="74.44297669803979" y2="26.85303876974548" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="98.88806695090227" y1="63.437701711057464" x2="96.66578601882387" y2="60.11182326184729" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="92.22122415466706,53.460066363426925 93.3,62.3 100.0,57.9" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="149.50903220161283" y2="11.92147195967695" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="140.9250580329032" y1="55.076024297419096" x2="141.7054193209677" y2="51.15288317580618" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="143.26614189709673,43.30660093258034 137.8,50.4 145.6,51.9" fill="#3b82f6"/>
+<line x1="130.0" y1="110.0" x2="213.14696123025453" y2="54.442976698039786" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<line x1="176.56229828894254" y1="78.88806695090227" x2="179.88817673815274" y2="76.66578601882387" stroke="#3b82f6" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="186.5399336365731,72.22122415466706 177.7,73.3 182.1,80.0" fill="#3b82f6"/>
+<circle cx="130" cy="110" r="5" stroke="#ef4444" stroke-width="1.5" fill="#ef4444"/>
+<text x="150" y="124" text-anchor="start" fill="#8c8c8c" font-size="14">e</text>
+<rect x="187" y="55" width="18" height="18" stroke="#f59e0b" stroke-width="1.5" fill="none" transform="rotate(-35 196 64)"/>
+<line x1="195.53216354311934" y1="64.11388509191632" x2="246.31959028903685" y2="28.552146038151463" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+<polygon points="252.87280664334878,23.963534547343095 244.0,25.3 248.6,31.8" fill="#f59e0b"/>
+<text x="250.0" y="40" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">d</tspan><tspan font-size="15">S</tspan><tspan font-size="15"> = dS </tspan><tspan font-size="15">r</tspan><tspan font-size="15">/r</tspan></text>
+<line x1="259.0" y1="25.8" x2="264.5" y2="25.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="266.5,25.8 262.5,23.4 262.5,28.1" fill="#f59e0b"/>
+<line x1="305.0" y1="25.8" x2="307.5" y2="25.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="309.5,25.8 305.5,23.4 305.5,28.1" fill="#f59e0b"/>
+<text x="250" y="62" text-anchor="start" fill="#8c8c8c" font-size="12">outer normal (out of the surface)</text>
+<text x="40" y="220" text-anchor="start" fill="#8c8c8c" font-size="12">S — closed surface (sphere)</text>
+</svg>

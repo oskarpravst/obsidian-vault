@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="225" viewBox="0 0 470 225" font-family="Helvetica, Arial, sans-serif">
+<line x1="30" y1="40" x2="412.0" y2="40.0" stroke="#8c8c8c" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="420,40 412.0,36.0 412.0,44.0" fill="#8c8c8c"/>
+<line x1="30" y1="95" x2="412.0" y2="95.0" stroke="#8c8c8c" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="420,95 412.0,91.0 412.0,99.0" fill="#8c8c8c"/>
+<line x1="30" y1="150" x2="412.0" y2="150.0" stroke="#8c8c8c" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="420,150 412.0,146.0 412.0,154.0" fill="#8c8c8c"/>
+<line x1="30" y1="205" x2="412.0" y2="205.0" stroke="#8c8c8c" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="420,205 412.0,201.0 412.0,209.0" fill="#8c8c8c"/>
+<text x="400.0" y="30" fill="#8c8c8c" font-size="15" xml:space="preserve"><tspan font-size="15">E</tspan></text>
+<line x1="400.7" y1="15.8" x2="406.2" y2="15.8" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="408.2,15.8 404.2,13.3 404.2,18.1" fill="#8c8c8c"/>
+<line x1="150" y1="155" x2="250" y2="95" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<polygon points="250,95 241.1,95.7 245.2,102.5" fill="#3b82f6"/>
+<circle cx="250" cy="95" r="5" stroke="#ef4444" stroke-width="1.5" fill="#ef4444"/>
+<circle cx="150" cy="155" r="5" stroke="#a855f7" stroke-width="1.5" fill="#a855f7"/>
+<circle cx="200" cy="125" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="208" y="147" text-anchor="start" fill="#8c8c8c" font-size="12">C.M. (M.S.)</text>
+<text x="222.0" y="98" fill="#3b82f6" font-size="15" xml:space="preserve"><tspan font-size="15">d</tspan></text>
+<line x1="222.7" y1="83.8" x2="228.2" y2="83.8" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="230.2,83.8 226.2,81.3 226.2,86.2" fill="#3b82f6"/>
+<text x="246" y="85" text-anchor="start" fill="#ef4444" font-size="13">+e</text>
+<text x="124" y="173" text-anchor="start" fill="#a855f7" font-size="13">−e</text>
+<line x1="256" y1="95" x2="322.0" y2="95.0" stroke="#f59e0b" stroke-width="2.4" stroke-linecap="round"/>
+<polygon points="330,95 322.0,91.0 322.0,99.0" fill="#f59e0b"/>
+<text x="335.0" y="88" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">+</tspan><tspan font-size="15" dy="-4"> = e</tspan><tspan font-size="15">E</tspan></text>
+<line x1="335.7" y1="73.8" x2="342.0" y2="73.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="344.0,73.8 340.0,71.3 340.0,76.2" fill="#f59e0b"/>
+<line x1="376.3" y1="73.8" x2="381.8" y2="73.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="383.8,73.8 379.8,71.3 379.8,76.2" fill="#f59e0b"/>
+<line x1="144" y1="155" x2="78.0" y2="155.0" stroke="#f59e0b" stroke-width="2.4" stroke-linecap="round"/>
+<polygon points="70,155 78.0,159.0 78.0,151.0" fill="#f59e0b"/>
+<text x="25.0" y="182" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">−</tspan><tspan font-size="15" dy="-4"> = −e</tspan><tspan font-size="15">E</tspan></text>
+<line x1="25.7" y1="167.8" x2="32.0" y2="167.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="34.0,167.8 30.0,165.3 30.0,170.2" fill="#f59e0b"/>
+<line x1="75.3" y1="167.8" x2="80.8" y2="167.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="82.8,167.8 78.8,165.3 78.8,170.2" fill="#f59e0b"/>
+<path d="M 160 75 A 70 70 0 0 1 235 70" stroke="#10b981" stroke-width="1.6" fill="none" stroke-dasharray="5 4"/>
+<polygon points="235,70 228.3,64.1 226.2,71.8" fill="#10b981"/>
+<text x="120" y="65" text-anchor="start" fill="#10b981" font-size="12">rotation</text>
+</svg>

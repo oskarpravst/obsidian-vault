@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" font-family="Helvetica, Arial, sans-serif">
+<path d="M 30 150 Q 140 20 250 150" stroke="#3b82f6" stroke-width="1.5" fill="none"/>
+<text x="40" y="175" text-anchor="start" fill="#8c8c8c" font-size="13">field line (silnica)</text>
+<line x1="80" y1="74" x2="202.290159824984" y2="40.13503266385059" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="210,38 201.2,36.3 203.4,44.0" fill="#f59e0b"/>
+<circle cx="140" cy="57" r="4" stroke="#10b981" stroke-width="1.5" fill="#10b981"/>
+<text x="185.0" y="28" fill="#f59e0b" font-size="15" xml:space="preserve"><tspan font-size="15">F</tspan><tspan font-size="11" dy="4">e</tspan></text>
+<line x1="185.7" y1="13.8" x2="192.0" y2="13.8" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="194.0,13.8 190.0,11.3 190.0,16.1" fill="#f59e0b"/>
+</svg>
