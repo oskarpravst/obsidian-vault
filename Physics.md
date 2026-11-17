@@ -32,7 +32,7 @@ path:Uni [course:"Physics"] task-todo:/\[ \]\s+\S/
 
 ## Exam
 
-1st colloquium (*1. kolokvij*): **2026-11-25**, 5 problems in 90 min. Covers everything up to then (lectures 1–7 and the matching exercises).
+1st colloquium (*1. kolokvij*): **2026-11-25**, 5 problems in 90 min. Covers the material the exercises (*vaje*) reach in the week before, not the lectures: most likely everything up to oscillations (vaje 1–7). Waves and electrostatics from lecture 6 on are probably not included.
 
 ### Topics
 
@@ -97,12 +97,12 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [ ] Mon 11-16 — Oscillations
 	- Core: notes L5–L6; 2017/18 #4b (period after the collision); 2013/14 #4 (triangle); 1. izpit 2023/24 #4
 	- Extra: 1. izpit 2019/20 #5; 3. izpit 2020/21 #4, #5
-- [ ] Tue 11-17 — Lecture 7 (go through it the same evening); variable forces
-	- Core: notes L7; 2. izpit 2021/22 #4 (constant power)
+- [ ] Tue 11-17 — Variable forces (Lecture 7 notes can wait: probably not on the colloquium)
+	- Core: 2. izpit 2021/22 #4 (constant power)
 	- Extra: 3. izpit 2019/20 #5
 - [ ] Wed 11-18 — Vaje 6–7
 	- Core: redo vaje 6–7
-	- Extra: more problems on the topics of lectures 6–7
+	- Extra: more oscillation problems (physical pendulum, spring + mass)
 - [ ] Thu 11-19 — Weak topics
 	- Core: redo the problems from the list of mistakes
 	- Extra: 3. izpit 2021/22 #3; 3. izpit 2023/24 #3 (harder)
