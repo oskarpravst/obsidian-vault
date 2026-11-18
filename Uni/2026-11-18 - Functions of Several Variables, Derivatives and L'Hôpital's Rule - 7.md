@@ -41,7 +41,7 @@ $$\mathbb{R}^n = \{(x_1, x_2, \dots, x_n);\ x \in \mathbb{R}\}$$
 
 ![[Calculus 7 unit disk.svg]]
 
-- $f_4(x, y) = \ln(x \cdot y)$. $D_{f_4}$ is the open I and III quadrant (*I in III odprt kvadrant*), $(x \cdot y \ge 0)$.
+- $f_4(x, y) = \ln(x \cdot y)$. $D_{f_4}$ is the open I and III quadrant (*I in III odprt kvadrant*), $(x \cdot y > 0)$.
   - **Trick** (*trik*): $\ln(x \cdot y) = \ln x + \ln y$, but the right-hand side has as its domain only the I quadrant (*$D_f$ le I kvadrant*). You have to be careful (*pazit je treba*).
 
 ### Graph of a function (*graf funkcije*)
@@ -92,7 +92,7 @@ Approaching $(0, 0)$ from different directions gives different values (the noteb
 
 For $\frac{x}{y}$:
 
-$$\lim_{r \to 0} \frac{r \sin\varphi}{r \cos\varphi} = \lim_{r \to 0} \frac{\sin\varphi}{\cos\varphi} = \tan\varphi$$
+$$\lim_{r \to 0} \frac{r \cos\varphi}{r \sin\varphi} = \lim_{r \to 0} \frac{\cos\varphi}{\sin\varphi} = \cot\varphi$$
 
 There is no limit, because it depends on $\varphi$ (*ni limite, ker je odvisen od $\varphi$*).
 
@@ -181,7 +181,7 @@ Let $f, g$ be functions and $\alpha \in \mathbb{R}$.
 | chain rule (*verižno pravilo*) | $(f \circ g)'(x) = f'(g(x)) \cdot g'(x)$ |
 | quotient rule (*kvocientno pravilo*) | $\left(\dfrac{f}{g}\right)' = \dfrac{f'g - fg'}{g^2}$ |
 
-The chain rule is used in neural networks (*uporablja v nevronskih mrežah*). The notebook also writes it as "(or $(f \circ g)' = f' \cdot g'$)".
+The chain rule is used in neural networks (*uporablja v nevronskih mrežah*). In short: $(f \circ g)' = (f' \circ g) \cdot g'$. The derivative of $f$ is evaluated at $g(x)$, not at $x$, so it is not simply $f' \cdot g'$.
 
 #### Basic derivatives (*osnovni odvodi*)
 
@@ -223,11 +223,11 @@ For limits of the form $\lim\limits_{x \to a} \frac{f(x)}{g(x)}$ where both $f$ 
 We approximate them with tangents, so the quotient is the same as the quotient of the derivatives (*to aproksimiramo s tangento, kvocient je isti kvocientom odvodov*).
 
 > [!theorem] L'Hôpital's rule
-> Let $f, g$ be differentiable on $(a, b) \subseteq \mathbb{R}$, $g \neq 0$. For $c \in (a, b)$ let one of the conditions (*eden izmed pogojev*) hold:
+> Let $f, g$ be differentiable on $(a, b) \subseteq \mathbb{R}$, $g \neq 0$ and $g' \neq 0$. For $c \in (a, b)$ let one of the conditions (*eden izmed pogojev*) hold:
 > - $\lim\limits_{x \to c} f(x) = \lim\limits_{x \to c} g(x) = 0$, or
 > - $\lim\limits_{x \to c} f(x) = \lim\limits_{x \to c} g(x) = \pm\infty$.
 >
-> Then (*tedaj*):
+> Then (*tedaj*), if the limit on the right exists:
 > $$\lim_{x \to c} \frac{f(x)}{g(x)} = \lim_{x \to c} \frac{f'(x)}{g'(x)}$$
 > This also holds for $b = c = \pm\infty$ (*velja tudi*).
 
@@ -242,7 +242,7 @@ If we process $n$ numbers in order, each one separately (linear search), the tim
 
 Which is faster? Compare with L'Hôpital ([[Big O Notation]]):
 
-$$\lim_{n \to \infty} \frac{n^2}{n \cdot \ln(n)} \overset{\text{L'H}}{\underset{\frac{\infty}{\infty}}{=}} \lim_{n \to \infty} \frac{2n}{\ln(n) + n \cdot \frac{1}{n}} = \lim_{n \to \infty} \frac{2n}{\ln(n)} \overset{\text{L'H}}{\underset{\frac{\infty}{\infty}}{=}} \lim_{n \to \infty} \frac{2}{\frac{1}{n}} = \lim_{n \to \infty} 2n = \infty$$
+$$\lim_{n \to \infty} \frac{n^2}{n \cdot \ln(n)} \overset{\text{L'H}}{\underset{\frac{\infty}{\infty}}{=}} \lim_{n \to \infty} \frac{2n}{\ln(n) + n \cdot \frac{1}{n}} = \lim_{n \to \infty} \frac{2n}{\ln(n) + 1} \overset{\text{L'H}}{\underset{\frac{\infty}{\infty}}{=}} \lim_{n \to \infty} \frac{2}{\frac{1}{n}} = \lim_{n \to \infty} 2n = \infty$$
 
 So $n^2$ grows faster than $n \ln n$: quick sort is faster.
 

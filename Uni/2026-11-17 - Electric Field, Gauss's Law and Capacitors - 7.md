@@ -300,6 +300,7 @@ $C = ?$ Thought: are the two capacitors connected with the surroundings or not (
 ## Connections
 
 - Course: [[Physics]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 7.pdf|vaje 7]]: harmonic oscillation $\ddot{x} + \omega^2 x = 0$, $x = A\sin(\omega t + \delta)$ and a rod hanging on a spring (task 7.2, unfinished). The colloquium covers everything up to and including oscillation (*do sem pišemo kolokvij*). Then waves $y = y_0\sin(\omega t - kx + \delta)$, $k = \frac{2\pi}{\lambda}$, $c = \lambda\nu = \frac{\omega}{k}$, the wave equation, and standing waves from adding the right- and left-moving wave with the boundary conditions. Task 8.1: a pipe with neighbouring resonances at 240 Hz and 280 Hz, giving $l = 4{,}25$ m
 - Previous lecture: [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]]: electric charge, Coulomb's law, electric potential energy, potential and voltage
 - [[2026-10-27 - Systems of Bodies, Collisions and Rotation - 4]]: torque, couple of forces, centre of mass
 - [[2026-10-20 - Forces, Work, Energy and Momentum - 3]]: conservative forces, potential energy, gravitation

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="245" viewBox="0 0 560 245" font-family="Helvetica, Arial, sans-serif">
+<line x1="60" y1="140" x2="512.0" y2="140.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="520,140 512.0,136.0 512.0,144.0" fill="#8c8c8c"/>
+<text x="524" y="145" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+<circle cx="200" cy="140" r="4" stroke="#8c8c8c" stroke-width="1" fill="#8c8c8c"/>
+<text x="194" y="132" text-anchor="end" fill="#8c8c8c" font-size="14">−3</text>
+<circle cx="380" cy="140" r="4" stroke="#8c8c8c" stroke-width="1" fill="#8c8c8c"/>
+<text x="374" y="132" text-anchor="end" fill="#8c8c8c" font-size="14">1</text>
+<polyline points="200,140 200,70 330,70" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="225" y="42" text-anchor="start" fill="#3b82f6" font-size="14">x ≥ −3</text>
+<text x="225" y="60" text-anchor="start" fill="#3b82f6" font-size="14">x + 3</text>
+<polyline points="200,140 200,200 60,200" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="70" y="170" text-anchor="start" fill="#3b82f6" font-size="14">x &lt; −3</text>
+<text x="70" y="190" text-anchor="start" fill="#3b82f6" font-size="14">−(x + 3)</text>
+<polyline points="380,140 380,70 500,70" stroke="#10b981" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="405" y="42" text-anchor="start" fill="#10b981" font-size="14">x ≥ 1</text>
+<text x="405" y="60" text-anchor="start" fill="#10b981" font-size="14">x − 1</text>
+<polyline points="380,140 380,185 240,185" stroke="#10b981" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="380" y="210" text-anchor="middle" fill="#10b981" font-size="14">x &lt; 1</text>
+<text x="380" y="228" text-anchor="middle" fill="#10b981" font-size="14">−(x − 1)</text>
+</svg>
