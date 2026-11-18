@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="305" viewBox="0 0 470 305" font-family="Helvetica, Arial, sans-serif">
+<polyline points="40,290 140,200 440,200 340,290 40,290" stroke="#8c8c8c" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<text x="430" y="192" text-anchor="start" fill="#8c8c8c" font-size="15">R²</text>
+<ellipse cx="230" cy="255" rx="45" ry="14" stroke="#f59e0b" stroke-width="1.8" fill="none"/>
+<ellipse cx="230" cy="255" rx="85" ry="25" stroke="#f59e0b" stroke-width="1.8" fill="none"/>
+<ellipse cx="230" cy="255" rx="125" ry="34" stroke="#f59e0b" stroke-width="1.8" fill="none"/>
+<text x="176" y="253" text-anchor="start" fill="#f59e0b" font-size="13">1</text>
+<text x="136" y="251" text-anchor="start" fill="#f59e0b" font-size="13">2</text>
+<text x="96" y="253" text-anchor="start" fill="#f59e0b" font-size="13">3</text>
+<path d="M 145,30 C 145,170 205,255 230,255 C 255,255 315,170 315,30" stroke="#3b82f6" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<path d="M 182,175 A 48,8.64 0 0 0 278,175" stroke="#3b82f6" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<path d="M 182,175 A 48,8.64 0 0 1 278,175" stroke="#3b82f6" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-dasharray="4 4"/>
+<path d="M 164,120 A 66,11.879999999999999 0 0 0 296,120" stroke="#3b82f6" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<path d="M 164,120 A 66,11.879999999999999 0 0 1 296,120" stroke="#3b82f6" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-dasharray="4 4"/>
+<path d="M 149,55 A 81,14.58 0 0 0 311,55" stroke="#3b82f6" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+<path d="M 149,55 A 81,14.58 0 0 1 311,55" stroke="#3b82f6" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="230" cy="255" r="3.5" stroke="#ef4444" stroke-width="1.4" fill="#ef4444"/>
+<text x="330" y="45" text-anchor="start" fill="#3b82f6" font-size="15">f(x, y) = x² + y²</text>
+</svg>

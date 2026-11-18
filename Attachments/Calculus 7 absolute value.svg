@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="180" viewBox="0 0 330 180" font-family="Helvetica, Arial, sans-serif">
+<line x1="20" y1="150" x2="252.0" y2="150.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="260,150 252.0,146.0 252.0,154.0" fill="#8c8c8c"/>
+<line x1="140" y1="170" x2="140.0" y2="23.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="140,15 136.0,23.0 144.0,23.0" fill="#8c8c8c"/>
+<text x="252" y="168" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+<text x="148" y="26" text-anchor="start" fill="#8c8c8c" font-size="15">y</text>
+<polyline points="40,50 140,150 240,50" stroke="#3b82f6" stroke-width="2.2" fill="none" stroke-linejoin="round"/>
+<text x="250" y="45" text-anchor="start" fill="#3b82f6" font-size="14">f(x) = |x|</text>
+<text x="25" y="110" text-anchor="start" fill="#f59e0b" font-size="13">f′ = −1</text>
+<text x="215" y="110" text-anchor="start" fill="#f59e0b" font-size="13">f′ = 1</text>
+<circle cx="140" cy="150" r="3.5" stroke="#ef4444" stroke-width="1.4" fill="#ef4444"/>
+</svg>

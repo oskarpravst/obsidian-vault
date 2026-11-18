@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="210" viewBox="0 0 320 210" font-family="Helvetica, Arial, sans-serif">
+<defs><pattern id="h" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="7" stroke="#3b82f6" stroke-width="1.4"/></pattern></defs>
+<line x1="20" y1="110" x2="212.0" y2="110.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="220,110 212.0,106.0 212.0,114.0" fill="#8c8c8c"/>
+<line x1="120" y1="200" x2="120.0" y2="23.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="120,15 116.0,23.0 124.0,23.0" fill="#8c8c8c"/>
+<circle cx="120" cy="110" r="60" stroke="#3b82f6" stroke-width="2" fill="url(#h)"/>
+<text x="212" y="128" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+<text x="128" y="26" text-anchor="start" fill="#8c8c8c" font-size="15">y</text>
+<text x="183" y="128" text-anchor="start" fill="#8c8c8c" font-size="15">1</text>
+<text x="106" y="44" text-anchor="start" fill="#8c8c8c" font-size="15">1</text>
+<text x="185" y="70" text-anchor="start" fill="#f59e0b" font-size="15">x² + y² ≤ 1</text>
+<text x="185" y="90" text-anchor="start" fill="#f59e0b" font-size="13">(disk — krog)</text>
+</svg>
