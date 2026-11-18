@@ -85,7 +85,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Thu 11-12 — Rigid body I (torque, statics, moment of inertia)
 	- Core: notes L4, redo vaje 5.3; 2022/23 #2 (rod on the wall); 1. izpit 2019/20 #3 (ladder); 1. izpit 2023/24 #2 (ball onto a step)
 	- Extra: zbirka *Navor* (first 5); 2014 #2; 2. izpit 2021/22 #2
-- [ ] Fri 11-13 — Rigid body II (pulleys with mass, rolling)
+- [ ] Fri 11-13 — Rigid body II (pulleys with mass, rolling) - repeat!!!
 	- Core: 2022/23 #4 (blocks + pulley, solution available); 2019/20 #4 (yo-yo); 2017/18 #3 (rolling cylinder)
 	- Extra: zbirka *Kinetična energija togih teles, kotaljenje*
 - [ ] Sat 11-14 — Angular momentum
