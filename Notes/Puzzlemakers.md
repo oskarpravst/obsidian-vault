@@ -1,0 +1,2 @@
+Samuel Loyd
+Henry Dudeney
