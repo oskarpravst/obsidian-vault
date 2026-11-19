@@ -45,6 +45,23 @@ naredili smo nov tip(z zgradbo, omogoca operacije)
 ko imamo tip cas je vseeno kako je cas interno predstavljen(lahko bi bil samo s stevilom od polnoci naprej)
 primer: razred o razredu ulomkov(nebi vec razmisljali o stevci in imenovalci)
 
+Smetar memory na katerega noben ne kaze izbrise.
+
+obstajajo tudi staticni atributi(vezani na celoten razred - skupni za vse objekte)
+primer staticnega atributa za cleveka = vrsta
+primer za cas = meja (0, 24ur), ameriski nacin zapisa(AM, PM)
+
+
+tabele so fiksne velikosti(nic se ne razteza, ampak se naredi nova tabela z vecjo velikostjo)
+variante "raztegljive tabele" - po potrebi naredimo novo tabelo, dodamo stare podatke
+to bi bilo zelo neucinkovito
+
+zato se naredi tabelo z zacetno kapaciteto(recimo 3), ko se zapolni je nova tabela 2x vecja od prejsnje. v povprecju smo ucinkoviti. vedno mora biti za nek faktor
+
+uporabili bomo faktor 2.
+
+
+
 ## Code
 
 staticna:
@@ -164,6 +181,59 @@ public boolean jeManjsiAliEnak(Cas drugi) {
 }
 ```
 
+vozni red avtobusa:
+```java
+import java.util.Scanner;
+
+public class VozniRed {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int uraZac = sc.nextInt();
+        int minutaZac = sc.nextInt();
+        int uraKon = sc.nextInt();
+        int minutaKon = sc.nextInt();
+        int interval = sc.nextInt();
+
+        Cas cas = new Cas(uraZac, minutaZac);
+        Cas casKon = new Cas(uraKon, minutaKon);
+
+        while (cas.jeManjsiAliEnak(casKon)) {
+            System.out.println(cas.toString());
+            cas = cas.plus(0, interval);
+        }
+    }
+}
+```
+
+ameriski nacin
+```java
+public class Cas {
+    private int ura;
+    private int minuta;
+
+    private static boolean zapis12 = false;
+
+    public Cas(int h , int min){ // ne inicializiramo v konstruktu
+        this.ura = h;
+        this.minuta = min;
+    } // konstruktor
+    
+    
+public static void nastaviZapis12(boolean da) {
+        zapis12 = vrednost; // ne this.zapis12, lahko pa Cas.zapis12
+    }
+    
+    
+public String toString() {
+        if (zapis12) {
+            String pripona = (this.ura < 12) ? "AM" ; "PM";
+            int h = (this.ura + 11) % 12 + 1;
+            return String.format("%d:%02d %s", this.ura, this.minuta, pripona);
+        }
+        return String.format("%d:%02d", this.ura, this.minuta);
+    }
+```
 ### Example
 
 
