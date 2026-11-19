@@ -32,6 +32,19 @@ metodam, ki spreminjajo vrednosti atributov se izogibamo. lazje da naredimo nov 
 nespremenljivi tipi:
 1. String
 
+s casom lahko tudi primerjamo
+
+== pri kazalcih 
+
+```java
+this == drugi (oba vsebujeta isti pomnilniski naslov - ista vsebina)
+this != drugi (en na enem naslovu in drugi na drugem)
+```
+
+naredili smo nov tip(z zgradbo, omogoca operacije)
+ko imamo tip cas je vseeno kako je cas interno predstavljen(lahko bi bil samo s stevilom od polnoci naprej)
+primer: razred o razredu ulomkov(nebi vec razmisljali o stevci in imenovalci)
+
 ## Code
 
 staticna:
@@ -98,9 +111,58 @@ public Cas plus(int h, int min) {
 klicemo Cas vecerja = kosilo.plus(5, 0);
 
 ```
-'''
 
-'''
+metoda, ki izpise cas:
+
+```java
+public void izpisi() {
+        System.out.printf("%d:%02d", this.ura, this.minuta);
+    }
+```
+
+metoda ToString():
+uporabimo String.format();
+
+```java
+public String toString() {
+        return String.format("%d:%02d", this.ura, this.minuta);
+    }
+    
+System.out.println(malica.toString());
+System.out.println(kosilo.toString());
+System.out.println(vecerja.toString());
+```
+
+primerjava 2 casov:
+
+```java
+public boolean jeEnako(Cas drugi) { // tukaj bolj naravno staticna metoda, ampak je praksa da se uporablja nestaticne metode
+        return (this.Cas == drugi.cas); // tukaj se primerjata po vsebini
+        // return this == drugi bi vrnila true samo ce bi kazala na isti objekt
+
+    }
+
+```
+
+
+se druge metode:
+```java
+public int razlikaVMin(Cas drugi) {
+        return 60 * (this.ura - drugi.ura) +
+                    (this.minuta - drugi.minuta);
+    }
+
+public boolean jeManjsiOd(Cas drugi) {
+	return (this.ura < drugi.ura) ||
+	this.ura == drugi.ura && this.minuta < drugi.minuta;
+
+	// ali return this.razlikaVMin(drugi) < 0;
+}
+
+public boolean jeManjsiAliEnak(Cas drugi) {
+	return this.jeManjsiOd(drugi) || this.jeEnakoKot(drugi);
+}
+```
 
 ### Example
 
