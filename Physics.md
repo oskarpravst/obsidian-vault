@@ -88,7 +88,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Fri 11-13 — Rigid body II (pulleys with mass, rolling) - repeat!!!
 	- Core: 2022/23 #4 (blocks + pulley, solution available); 2019/20 #4 (yo-yo); 2017/18 #3 (rolling cylinder)
 	- Extra: zbirka *Kinetična energija togih teles, kotaljenje*
-- [ ] Sat 11-14 — Angular momentum
+- [x] Sat 11-14 — Angular momentum
 	- Core: notes L5; 2019/20 #3 (pirouette); 2017/18 #4a (rod + snowball); 2014 #4 (hamster wheel)
 	- Extra: zbirka *Navor* (last 3); 2014 #3; 1. izpit 2020/21 #2
 - [ ] Sun 11-15 — Gravitation, Kepler
