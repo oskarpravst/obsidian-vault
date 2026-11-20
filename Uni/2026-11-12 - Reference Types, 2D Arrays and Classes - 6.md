@@ -383,6 +383,7 @@ b: 7/2
 
 - Course: [[Programming 1]]
 - Previous lecture: [[2026-11-05 - Arrays, Searching and Sorting - 5]] (memoization, [[Array|arrays]])
+- Exercises: [[2026-11-16 - Exercises for Reference Types, 2D Arrays and Classes - 6]]
 - Related: [[Fibonacci Sequence]] (memoization example), [[Variable Scope]]
 
 ## Sources
