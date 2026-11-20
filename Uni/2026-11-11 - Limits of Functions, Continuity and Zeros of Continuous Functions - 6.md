@@ -222,3 +222,4 @@ This method is used for functions of several variables (*funkcije več spremenlj
 
 - Handwritten notes: [[Sources/calculus/photoNotes/lectures/lecture 6.pdf|lecture 6]]
 - J. Globevnik, M. Brojan, *Analiza I* (2012): 3.3 continuity, characterisation with sequences (Izrek 24) [[Sources/calculus/skripta.pdf#page=82|skripta p. 72]]; 3.5 properties of continuous functions, zero on $[a, b]$ (Izrek 29), boundedness and min/max (Izrek 30, Posledica 14) [[Sources/calculus/skripta.pdf#page=90|p. 80]]; 3.8 limit of a function [[Sources/calculus/skripta.pdf#page=97|p. 87]], left limit (Def. 56) [[Sources/calculus/skripta.pdf#page=100|p. 90]]
+- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 6.pdf|vaje 6]]

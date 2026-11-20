@@ -365,6 +365,7 @@ Examples of factor sets:
 - [[Partition]]: cover and partition were defined in lecture 6; here every equivalence relation gives a partition
 - [[Quantifier]], [[Predicate Logic]]: the proof of associativity swaps $\exists z \exists w$ and moves a quantifier into a conjunction ([[2026-10-26 - Predicate Formulas, Scope of Quantifiers and Laws of Predicate Logic - 4]])
 - [[Logical Equivalence]]: the class $[p \Rightarrow q]$ is a class of equivalent formulas ([[2026-10-05 - Propositional Logic - 1]])
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 7.pdf|vaje 7]]
 
 ## Sources
 
