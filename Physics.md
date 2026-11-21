@@ -91,7 +91,7 @@ Until 11-18: about 2 h of physics a day, plus 45–60 min of Calculus / Discrete
 - [x] Sat 11-14 — Angular momentum
 	- Core: notes L5; 2019/20 #3 (pirouette); 2017/18 #4a (rod + snowball); 2014 #4 (hamster wheel)
 	- Extra: zbirka *Navor* (last 3); 2014 #3; 1. izpit 2020/21 #2
-- [ ] Sun 11-15 — Gravitation, Kepler
+- [x] Sun 11-15 — Gravitation, Kepler
 	- Core: 2019/20 #5 ($1/r^4$ universe); 2022/23 #3 (DART); 3. izpit 2021/22 #1 (Starlink); 1. izpit 2020/21 #5 (gravity of a rod)
 	- Extra: zbirka *Gravitacija*; 1. izpit 2021/22 #5; 2. izpit 2023/24 #5
 - [ ] Mon 11-16 — Oscillations
