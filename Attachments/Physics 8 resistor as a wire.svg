@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="175" viewBox="0 0 230 175" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="40" cy="75.0" rx="10.0" ry="25.0" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="40" y1="50" x2="190" y2="50" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="40" y1="100" x2="190" y2="100" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 190,50 A 10.0,25.0 0 0 1 190,100" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="55" y1="75" x2="167.0" y2="75.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="175,75 167.0,71.0 167.0,79.0" fill="#f59e0b"/>
+<text x="111.1" y="40" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">E</tspan></text>
+<line x1="111.7" y1="26.7" x2="116.7" y2="26.7" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="118.7,26.7 114.7,24.3 114.7,29.1" fill="#f59e0b"/>
+<text x="25" y="82" text-anchor="end" fill="#3b82f6" font-size="14">S</text>
+<path d="M 40,110 Q 40,118 50,118 L 109.0,118 Q 115.0,118 115.0,124 Q 115.0,118 121.0,118 L 180,118 Q 190,118 190,110" stroke="#8c8c8c" stroke-width="1.4" fill="none"/>
+<text x="115" y="142" text-anchor="middle" fill="#8c8c8c" font-size="14">L</text>
+<text x="115" y="162" text-anchor="middle" fill="#8c8c8c" font-size="14">U</text>
+</svg>

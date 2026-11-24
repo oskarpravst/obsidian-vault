@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="185" viewBox="0 0 300 185" font-family="Helvetica, Arial, sans-serif">
+<rect x="70" y="37" width="50" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<rect x="190" y="37" width="50" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="120" y1="50" x2="190" y2="50" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polyline points="70,50 40,50 40,150 125,150" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<polyline points="240,50 270,50 270,150 175,150" stroke="#8c8c8c" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+<text x="88.3" y="28" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">R</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<text x="208.3" y="28" fill="#3b82f6" font-size="14" xml:space="preserve"><tspan font-size="14">R</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<line x1="85" y1="90" x2="112.0" y2="90.0" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="120,90 112.0,86.0 112.0,94.0" fill="#f59e0b"/>
+<text x="93.8" y="108" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">I</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<line x1="200" y1="90" x2="227.0" y2="90.0" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="235,90 227.0,86.0 227.0,94.0" fill="#f59e0b"/>
+<text x="208.8" y="108" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">I</tspan><tspan font-size="9" dy="4">2</tspan></text>
+
+<line x1="25" y1="120" x2="25.0" y2="88.0" stroke="#f59e0b" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="25,80 21.0,88.0 29.0,88.0" fill="#f59e0b"/>
+<text x="15" y="105" text-anchor="end" fill="#f59e0b" font-size="13">I</text>
+<circle cx="131" cy="150" r="4" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<circle cx="169" cy="150" r="4" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<text x="131" y="170" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<text x="150.0" y="170" text-anchor="middle" fill="#8c8c8c" font-size="15">U</text>
+<text x="169" y="170" text-anchor="middle" fill="#a855f7" font-size="15">−</text>
+</svg>

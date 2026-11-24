@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="160" viewBox="0 0 490 160" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="30" cy="75.0" rx="14.0" ry="35.0" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="30" y1="40" x2="160" y2="40" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="30" y1="110" x2="160" y2="110" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 160,40 A 14.0,35.0 0 0 1 160,110" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<ellipse cx="230" cy="75.0" rx="14.0" ry="35.0" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="230" y1="40" x2="360" y2="40" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="230" y1="110" x2="360" y2="110" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 360,40 A 14.0,35.0 0 0 1 360,110" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<path d="M 60,60 L 120,95 L 70,95 L 130,55 L 90,100 L 80,50 L 125,80 L 55,75" stroke="#a855f7" stroke-width="1.2" fill="none"/>
+<path d="M 270,60 C 330,40 340,110 290,95 C 240,80 300,50 330,70 C 350,85 290,105 280,75" stroke="#a855f7" stroke-width="1.2" fill="none"/>
+<text x="80.4" y="30" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">E</tspan><tspan font-size="13"> = 0</tspan></text>
+<line x1="80.9" y1="17.6" x2="85.4" y2="17.6" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="87.4,17.6 83.4,15.2 83.4,20.0" fill="#f59e0b"/>
+<line x1="260" y1="20" x2="332.0" y2="20.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="340,20 332.0,16.0 332.0,24.0" fill="#f59e0b"/>
+<text x="285.5" y="34" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">E</tspan><tspan font-size="13"> ≠ 0</tspan></text>
+<line x1="286.1" y1="21.6" x2="290.6" y2="21.6" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="292.6,21.6 288.6,19.2 288.6,24.0" fill="#f59e0b"/>
+<text x="95" y="140" text-anchor="middle" fill="#8c8c8c" font-size="14">v̄ = 0</text>
+<line x1="320" y1="122" x2="278.0" y2="122.0" stroke="#a855f7" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="270,122 278.0,126.0 278.0,118.0" fill="#a855f7"/>
+<text x="273.3" y="145" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">v̄ = v</tspan><tspan font-size="10" dy="4">d</tspan></text>
+
+<text x="380" y="75" text-anchor="start" fill="#8c8c8c" font-size="12">the cloud moves</text>
+<text x="380" y="90" text-anchor="start" fill="#8c8c8c" font-size="12">slowly</text>
+</svg>

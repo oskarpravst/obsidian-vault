@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="210" viewBox="0 0 360 210" font-family="Helvetica, Arial, sans-serif">
+<circle cx="70" cy="60" r="22" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="190" cy="60" r="22" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="70" cy="150" r="22" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="190" cy="150" r="22" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="55" y="30" text-anchor="start" fill="#a855f7" font-size="13">e⁻</text>
+<text x="195" y="55" text-anchor="start" fill="#f59e0b" font-size="13">v⁺</text>
+<path d="M 80,40 Q 130,0 178,48" stroke="#a855f7" stroke-width="1.6" fill="none"/>
+<polygon points="178,48 175.2,39.5 169.5,45.2" fill="#a855f7"/>
+<text x="80" y="154" text-anchor="start" fill="#f59e0b" font-size="13">v⁺</text>
+<text x="110" y="154" text-anchor="start" fill="#8c8c8c" font-size="14">⇐</text>
+<text x="130" y="154" text-anchor="start" fill="#a855f7" font-size="13">e⁻</text>
+<line x1="330" y1="75" x2="278.0" y2="75.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="270,75 278.0,79.0 278.0,71.0" fill="#f59e0b"/>
+<text x="294.4" y="65" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">v</tspan><tspan font-size="9" dy="4">v</tspan></text>
+<line x1="294.9" y1="52.6" x2="298.8" y2="52.6" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="300.8,52.6 296.8,50.2 296.8,55.0" fill="#f59e0b"/>
+<line x1="330" y1="150" x2="278.0" y2="150.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="270,150 278.0,154.0 278.0,146.0" fill="#8c8c8c"/>
+<text x="296.4" y="140" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">E</tspan></text>
+<line x1="297.0" y1="127.7" x2="301.5" y2="127.7" stroke="#8c8c8c" stroke-width="1.1"/>
+<polygon points="303.5,127.7 299.5,125.2 299.5,130.1" fill="#8c8c8c"/>
+<text x="10" y="200" text-anchor="start" fill="#8c8c8c" font-size="12">free energy state: any electron can jump here</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="330" viewBox="0 0 420 330" font-family="Helvetica, Arial, sans-serif">
+<text x="15" y="30" text-anchor="start" fill="#8c8c8c" font-size="15">a)</text>
+<text x="70" y="60" text-anchor="middle" fill="#3b82f6" font-size="13">Si</text>
+<text x="30" y="130" text-anchor="middle" fill="#3b82f6" font-size="13">Si</text>
+<line x1="65" y1="70" x2="40" y2="120" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="75" y1="70" x2="95" y2="120" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="70" y1="45" x2="70" y2="25" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="80" y1="62" x2="160" y2="75" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="170" cy="78" r="5" stroke="#10b981" stroke-width="1.6" fill="#10b981"/>
+<line x1="170" y1="30" x2="170" y2="140" stroke="#10b981" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="150" y1="110" x2="190" y2="50" stroke="#10b981" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="175" y1="78" x2="240" y2="78" stroke="#10b981" stroke-width="1.2" stroke-linecap="round"/>
+<text x="180" y="30" text-anchor="start" fill="#10b981" font-size="12">donor: 4 e⁻ into the lattice</text>
+<text x="180" y="46" text-anchor="start" fill="#10b981" font-size="12">→ 1 extra e⁻ (free, donated)</text>
+<circle cx="255" cy="100" r="3" stroke="#a855f7" stroke-width="1" fill="#a855f7"/>
+<text x="262" y="104" text-anchor="start" fill="#a855f7" font-size="12">e⁻</text>
+<text x="180" y="135" text-anchor="start" fill="#f59e0b" font-size="13">n-type semiconductor</text>
+<text x="15" y="200" text-anchor="start" fill="#8c8c8c" font-size="15">b)</text>
+<text x="95" y="220" text-anchor="middle" fill="#3b82f6" font-size="13">Si</text>
+<line x1="95" y1="195" x2="95" y2="290" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="40" y1="260" x2="160" y2="270" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="100" y1="225" x2="165" y2="270" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="170" cy="272" r="5" stroke="#ef4444" stroke-width="1.6" fill="#ef4444"/>
+<line x1="170" y1="210" x2="170" y2="320" stroke="#ef4444" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="150" y1="310" x2="190" y2="240" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="175" y1="272" x2="230" y2="272" stroke="#8c8c8c" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="4 3"/>
+<text x="235" y="276" text-anchor="start" fill="#a855f7" font-size="12">e⁻ missing</text>
+<text x="180" y="210" text-anchor="start" fill="#ef4444" font-size="12">acceptor: takes an e⁻ from</text>
+<text x="180" y="226" text-anchor="start" fill="#ef4444" font-size="12">its neighbours ("accepts")</text>
+<text x="180" y="310" text-anchor="start" fill="#f59e0b" font-size="13">→ free v⁺ → p-type semiconductor</text>
+</svg>

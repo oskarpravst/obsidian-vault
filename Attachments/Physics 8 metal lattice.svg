@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" font-family="Helvetica, Arial, sans-serif">
+<line x1="30" y1="30" x2="300" y2="30" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="30" y1="130" x2="300" y2="130" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<circle cx="70" cy="60" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="70" y="65" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="150" cy="60" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="150" y="65" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="230" cy="60" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="230" y="65" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="70" cy="105" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="70" y="110" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="150" cy="105" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="150" y="110" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="230" cy="105" r="10" stroke="#ef4444" stroke-width="1.6" fill="none"/>
+<text x="230" y="110" text-anchor="middle" fill="#ef4444" font-size="15">+</text>
+<circle cx="105" cy="75" r="3" stroke="#a855f7" stroke-width="1" fill="#a855f7"/>
+<text x="100" y="68" text-anchor="end" fill="#a855f7" font-size="12">e⁻</text>
+<line x1="110" y1="80" x2="132.0" y2="80.0" stroke="#a855f7" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="140,80 132.0,76.0 132.0,84.0" fill="#a855f7"/>
+<circle cx="190" cy="90" r="3" stroke="#a855f7" stroke-width="1" fill="#a855f7"/>
+<text x="195" y="85" text-anchor="start" fill="#a855f7" font-size="12">e⁻</text>
+<line x1="185" y1="95" x2="174.3701422443754" y2="111.29911522529109" stroke="#a855f7" stroke-width="1.4" stroke-linecap="round"/>
+<polygon points="170,118 177.7,113.5 171.0,109.1" fill="#a855f7"/>
+<text x="310" y="55" text-anchor="start" fill="#ef4444" font-size="12">fixed atoms without</text>
+<text x="310" y="70" text-anchor="start" fill="#ef4444" font-size="12">outer e⁻ (ions)</text>
+<text x="310" y="110" text-anchor="start" fill="#a855f7" font-size="12">free electrons → nₑ</text>
+</svg>

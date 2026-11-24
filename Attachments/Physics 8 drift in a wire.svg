@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="175" viewBox="0 0 440 175" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="60" cy="75.0" rx="14.0" ry="35.0" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="60" y1="40" x2="240" y2="40" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<line x1="60" y1="110" x2="240" y2="110" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+<path d="M 240,40 A 14.0,35.0 0 0 1 240,110" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<line x1="20" y1="75" x2="292.0" y2="75.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="300,75 292.0,71.0 292.0,79.0" fill="#8c8c8c"/>
+<text x="306" y="80" text-anchor="start" fill="#8c8c8c" font-size="14">x</text>
+<circle cx="150" cy="58" r="3" stroke="#a855f7" stroke-width="1" fill="#a855f7"/>
+<text x="156" y="62" text-anchor="start" fill="#a855f7" font-size="12">e⁻</text>
+<line x1="146" y1="58" x2="118.0" y2="58.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="110,58 118.0,62.0 118.0,54.0" fill="#3b82f6"/>
+<text x="110.0" y="52" fill="#3b82f6" font-size="12" xml:space="preserve"><tspan font-size="12">v</tspan><tspan font-size="9" dy="4">d</tspan></text>
+<line x1="110.5" y1="40.6" x2="113.9" y2="40.6" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="115.9,40.6 111.9,38.2 111.9,43.0" fill="#3b82f6"/>
+<circle cx="130" cy="95" r="3" stroke="#a855f7" stroke-width="1" fill="#a855f7"/>
+<text x="136" y="99" text-anchor="start" fill="#a855f7" font-size="12">e⁻</text>
+<line x1="126" y1="95" x2="98.0" y2="95.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="90,95 98.0,99.0 98.0,91.0" fill="#3b82f6"/>
+<text x="90.0" y="89" fill="#3b82f6" font-size="12" xml:space="preserve"><tspan font-size="12">v</tspan><tspan font-size="9" dy="4">d</tspan></text>
+<line x1="90.5" y1="77.6" x2="93.9" y2="77.6" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="95.9,77.6 91.9,75.2 91.9,80.0" fill="#3b82f6"/>
+<line x1="80" y1="140" x2="192.0" y2="140.0" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,140 192.0,136.0 192.0,144.0" fill="#3b82f6"/>
+<text x="130.0" y="160" fill="#3b82f6" font-size="13" xml:space="preserve"><tspan font-size="13">v</tspan><tspan font-size="9" dy="4">d</tspan></text>
+<line x1="130.5" y1="147.7" x2="134.4" y2="147.7" stroke="#3b82f6" stroke-width="1.1"/>
+<polygon points="136.4,147.7 132.4,145.2 132.4,150.1" fill="#3b82f6"/>
+<text x="150" y="20" text-anchor="start" fill="#8c8c8c" font-size="14">l</text>
+<line x1="320" y1="30" x2="392.0" y2="30.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="400,30 392.0,26.0 392.0,34.0" fill="#f59e0b"/>
+<text x="330.0" y="22" fill="#f59e0b" font-size="13" xml:space="preserve"><tspan font-size="13">say </tspan><tspan font-size="13">E</tspan><tspan font-size="13"> > 0</tspan></text>
+<line x1="354.4" y1="9.7" x2="358.9" y2="9.7" stroke="#f59e0b" stroke-width="1.1"/>
+<polygon points="360.9,9.7 356.9,7.2 356.9,12.1" fill="#f59e0b"/>
+<line x1="400" y1="52" x2="348.0" y2="52.0" stroke="#a855f7" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="340,52 348.0,56.0 348.0,48.0" fill="#a855f7"/>
+<text x="355.0" y="47" fill="#a855f7" font-size="12" xml:space="preserve"><tspan font-size="12">F</tspan><tspan font-size="9" dy="4">e</tspan></text>
+<line x1="355.6" y1="35.6" x2="360.2" y2="35.6" stroke="#a855f7" stroke-width="1.1"/>
+<polygon points="362.2,35.6 358.2,33.2 358.2,38.0" fill="#a855f7"/>
+<text x="405" y="56" text-anchor="start" fill="#a855f7" font-size="12">e⁻</text>
+<text x="20.0" y="30" fill="#a855f7" font-size="13" xml:space="preserve"><tspan font-size="13">F</tspan><tspan font-size="9" dy="4">e</tspan><tspan font-size="13" dy="-4"> = (−e</tspan><tspan font-size="9" dy="4">0</tspan><tspan font-size="13" dy="-4">)</tspan><tspan font-size="13">E</tspan></text>
+<line x1="20.6" y1="17.6" x2="25.8" y2="17.6" stroke="#a855f7" stroke-width="1.1"/>
+<polygon points="27.8,17.6 23.8,15.2 23.8,20.0" fill="#a855f7"/>
+<line x1="77.2" y1="17.6" x2="81.7" y2="17.6" stroke="#a855f7" stroke-width="1.1"/>
+<polygon points="83.7,17.6 79.7,15.2 79.7,20.0" fill="#a855f7"/>
+<text x="330" y="130" text-anchor="start" fill="#f59e0b" font-size="15">I > 0</text>
+</svg>
