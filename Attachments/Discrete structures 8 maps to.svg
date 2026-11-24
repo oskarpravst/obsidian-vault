@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="140" viewBox="0 0 240 140" font-family="Helvetica, Arial, sans-serif">
+<circle cx="40" cy="70" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="200" cy="70" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<text x="36" y="95" text-anchor="start" fill="#8c8c8c" font-size="15">x</text>
+<text x="196" y="95" text-anchor="start" fill="#8c8c8c" font-size="15">y</text>
+<path d="M 45 62 Q 120 0 195 62" stroke="#8c8c8c" stroke-width="1.6" fill="none"/>
+<polygon points="195,62 185,58 190,52" fill="#8c8c8c"/>
+<text x="120" y="125" text-anchor="middle" fill="#f59e0b" font-size="15">f : x ↦ y</text>
+</svg>

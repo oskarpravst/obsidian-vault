@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="235" viewBox="0 0 290 235" font-family="Helvetica, Arial, sans-serif">
+<rect x="30" y="30" width="60" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="45" cy="60" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="75" cy="60" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<polyline points="140,32 260,32 260,68 140,68" stroke="#8c8c8c" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+<rect x="30" y="75" width="60" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="45" cy="105" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="75" cy="105" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<polyline points="140,77 260,77 260,113 140,113" stroke="#8c8c8c" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+<rect x="30" y="120" width="60" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="45" cy="150" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="75" cy="150" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<polyline points="140,122 260,122 260,158 140,158" stroke="#8c8c8c" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+<rect x="30" y="165" width="60" height="26" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="45" cy="195" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="75" cy="195" r="5" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<polyline points="140,167 260,167 260,203 140,203" stroke="#8c8c8c" stroke-width="1.8" fill="none" stroke-linejoin="round"/>
+<text x="60" y="225" text-anchor="middle" fill="#3b82f6" font-size="13">cars (A)</text>
+<text x="200" y="225" text-anchor="middle" fill="#8c8c8c" font-size="13">garages (B)</text>
+</svg>

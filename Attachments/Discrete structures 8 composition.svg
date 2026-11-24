@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="255" viewBox="0 0 400 255" font-family="Helvetica, Arial, sans-serif">
+<ellipse cx="60" cy="125" rx="35" ry="95" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="52" cy="60" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="62" y="65" text-anchor="start" fill="#8c8c8c" font-size="13">0</text>
+<circle cx="52" cy="90" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="62" y="95" text-anchor="start" fill="#8c8c8c" font-size="13">1</text>
+<circle cx="52" cy="120" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="62" y="125" text-anchor="start" fill="#8c8c8c" font-size="13">2</text>
+<circle cx="52" cy="150" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="62" y="155" text-anchor="start" fill="#8c8c8c" font-size="13">3</text>
+<circle cx="52" cy="180" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="62" y="185" text-anchor="start" fill="#8c8c8c" font-size="13">4</text>
+<text x="56" y="212" text-anchor="start" fill="#8c8c8c" font-size="14">⋮</text>
+<ellipse cx="200" cy="125" rx="35" ry="95" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="192" cy="60" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="202" y="65" text-anchor="start" fill="#8c8c8c" font-size="13">0</text>
+<circle cx="192" cy="90" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="202" y="95" text-anchor="start" fill="#8c8c8c" font-size="13">1</text>
+<circle cx="192" cy="120" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="202" y="125" text-anchor="start" fill="#8c8c8c" font-size="13">2</text>
+<circle cx="192" cy="150" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="202" y="155" text-anchor="start" fill="#8c8c8c" font-size="13">3</text>
+<circle cx="192" cy="180" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="202" y="185" text-anchor="start" fill="#8c8c8c" font-size="13">4</text>
+<text x="196" y="212" text-anchor="start" fill="#8c8c8c" font-size="14">⋮</text>
+<ellipse cx="340" cy="125" rx="35" ry="95" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="332" cy="60" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="342" y="65" text-anchor="start" fill="#8c8c8c" font-size="13">0</text>
+<circle cx="332" cy="90" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="342" y="95" text-anchor="start" fill="#8c8c8c" font-size="13">1</text>
+<circle cx="332" cy="120" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="342" y="125" text-anchor="start" fill="#8c8c8c" font-size="13">2</text>
+<circle cx="332" cy="150" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="342" y="155" text-anchor="start" fill="#8c8c8c" font-size="13">3</text>
+<circle cx="332" cy="180" r="3" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<text x="342" y="185" text-anchor="start" fill="#8c8c8c" font-size="13">4</text>
+<text x="336" y="212" text-anchor="start" fill="#8c8c8c" font-size="14">⋮</text>
+<line x1="74" y1="60" x2="178.27241558797405" y2="87.93011131820734" stroke="#3b82f6" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="186,90 179.3,84.1 177.2,91.8" fill="#3b82f6"/>
+<line x1="74" y1="90" x2="178.27241558797405" y2="117.93011131820734" stroke="#3b82f6" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="186,120 179.3,114.1 177.2,121.8" fill="#3b82f6"/>
+<line x1="74" y1="120" x2="178.27241558797405" y2="147.93011131820734" stroke="#3b82f6" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="186,150 179.3,144.1 177.2,151.8" fill="#3b82f6"/>
+<line x1="74" y1="150" x2="178.27241558797405" y2="177.93011131820734" stroke="#3b82f6" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="186,180 179.3,174.1 177.2,181.8" fill="#3b82f6"/>
+<line x1="214" y1="90" x2="318.272415587974" y2="62.06988868179267" stroke="#f59e0b" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="326,60 317.2,58.2 319.3,65.9" fill="#f59e0b"/>
+<line x1="214" y1="120" x2="318.272415587974" y2="92.06988868179266" stroke="#f59e0b" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="326,90 317.2,88.2 319.3,95.9" fill="#f59e0b"/>
+<line x1="214" y1="150" x2="318.272415587974" y2="122.06988868179266" stroke="#f59e0b" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="326,120 317.2,118.2 319.3,125.9" fill="#f59e0b"/>
+<line x1="214" y1="180" x2="318.272415587974" y2="152.06988868179266" stroke="#f59e0b" stroke-width="1.3" stroke-linecap="round"/>
+<polygon points="326,150 317.2,148.2 319.3,155.9" fill="#f59e0b"/>
+<path d="M 214 60 Q 280 90 326 150" stroke="#f59e0b" stroke-width="1.3" fill="none"/>
+<polygon points="327,150 318,143 316,151" fill="#f59e0b"/>
+<path d="M 75 22 Q 130 0 185 22" stroke="#3b82f6" stroke-width="1.6" fill="none"/>
+<text x="130" y="18" text-anchor="middle" fill="#3b82f6" font-size="14">g (inj)</text>
+<path d="M 215 22 Q 270 0 325 22" stroke="#f59e0b" stroke-width="1.6" fill="none"/>
+<text x="270" y="18" text-anchor="middle" fill="#f59e0b" font-size="14">f (sur)</text>
+<text x="60" y="245" text-anchor="middle" fill="#8c8c8c" font-size="15">ℕ</text>
+<text x="200" y="245" text-anchor="middle" fill="#8c8c8c" font-size="15">ℕ</text>
+<text x="340" y="245" text-anchor="middle" fill="#8c8c8c" font-size="15">ℕ</text>
+</svg>

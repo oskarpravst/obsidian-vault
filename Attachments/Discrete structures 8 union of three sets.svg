@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="260" viewBox="0 0 290 260" font-family="Helvetica, Arial, sans-serif">
+<circle cx="105" cy="90" r="65" stroke="#3b82f6" stroke-width="2" fill="none"/>
+<circle cx="185" cy="90" r="65" stroke="#f59e0b" stroke-width="2" fill="none"/>
+<circle cx="145" cy="155" r="65" stroke="#10b981" stroke-width="2" fill="none"/>
+<text x="40" y="25" text-anchor="start" fill="#3b82f6" font-size="15">A</text>
+<text x="245" y="25" text-anchor="start" fill="#f59e0b" font-size="15">B</text>
+<text x="215" y="225" text-anchor="start" fill="#10b981" font-size="15">C</text>
+<text x="80" y="75" text-anchor="middle" fill="#8c8c8c" font-size="13">+</text>
+<text x="210" y="75" text-anchor="middle" fill="#8c8c8c" font-size="13">+</text>
+<text x="145" y="195" text-anchor="middle" fill="#8c8c8c" font-size="13">+</text>
+<text x="145" y="72" text-anchor="middle" fill="#8c8c8c" font-size="13">+ + −</text>
+<text x="100" y="140" text-anchor="middle" fill="#8c8c8c" font-size="13">+ + −</text>
+<text x="190" y="140" text-anchor="middle" fill="#8c8c8c" font-size="13">+ + −</text>
+<text x="145" y="118" text-anchor="middle" fill="#8c8c8c" font-size="13">1</text>
+<text x="145" y="250" text-anchor="middle" fill="#f59e0b" font-size="13">centre: + + + − − − + = 1</text>
+</svg>

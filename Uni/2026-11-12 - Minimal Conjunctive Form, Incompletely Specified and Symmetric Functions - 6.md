@@ -303,6 +303,7 @@ $$f_C(x_1^{w_{1i}}, \dots, x_n^{w_{ni}}) = f_A(x_1^{w_{1i}}, \dots, x_n^{w_{ni}}
 - [[2026-11-02 - Prenex Normal Form, Sets and Russell's Paradox - 5]] (Discrete structures): the complement $\bar{A}$ of a set, used for symmetry numbers
 - [[Conjunctive Normal Form]], [[Disjunctive Normal Form]], [[De Morgan's Laws]], [[Veitch Diagram]], [[Switching Function]], [[Maxterm]]
 - [[Don't-care Condition]], [[Symmetric Switching Function]], [[Seven-segment Display]]
+- Exercises: [[Sources/introduction_to_digital_circuits/vaje/vaja6/vaje 6.pdf|vaje 6]]
 
 ## Sources
 
