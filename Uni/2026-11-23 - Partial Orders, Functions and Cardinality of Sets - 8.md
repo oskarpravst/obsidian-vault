@@ -365,6 +365,19 @@ while True: print('7')
 
 Real numbers that we cannot write down with a program are uncomputable (*realna št., ki jih ne moremo zapisati s programom, so neizračunljiva*).
 
+> [!note] From the professor's slides (p. 2): infinite sets, the computing goal (*neskončne množice, računalniški cilj*)
+> A real number $x$ is **computable** (*izračunljivo*) if there exists a computer program that prints $x$.
+> - $123$, $\pi$, $0.77777\ldots$ are computable real numbers.
+> - Every natural number is computable.
+> - We allow programs that do not terminate (i.e. loop forever — *se zaciklajo*).
+> - What is a computer program? What does it mean to print $x$?
+>
+> A real number $x$ is **uncomputable** (*neizračunljivo*) if there is no computer program that prints $x$.
+>
+> **Theorem:** there exist uncomputable real numbers. In fact, the vast majority of real numbers are uncomputable.
+
+Two sets $A$ and $B$ are **equinumerous** (*enako močni*), $A \sim B$, if there exists a bijective function from $A$ to $B$. We also write $|A| = |B|$. *(slides, p. 3)*
+
 $B$ is **at least as large** (*kvečjemu močnejša*, has at least as many elements as $A$), $|A| \le |B|$, if there exists an injective function from $A$ to $B$. These are no longer numbers (*to niso več števila*).
 
 $|A| < |B|$ means $|A| \le |B|$ and $|A| \ne |B|$:
@@ -372,7 +385,11 @@ $|A| < |B|$ means $|A| \le |B|$ and $|A| \ne |B|$:
 - there exists an injective function $A \to B$,
 - there is no injective function $B \to A$ (Dirichlet principle).
 
-**Theorem (Cantor–Schröder–Bernstein):** $|A| = |B|$ iff $|A| \le |B|$ and $|B| \le |A|$. This is not trivial (*to ni trivialno*).
+On the slides (p. 3): $|A| < |B|$ means that there exists an injective function from $A$ to $B$ and that there is **no bijective** function from $A$ to $B$.
+
+**Theorem (Cantor–Schröder–Bernstein):** $|A| = |B|$ iff $|A| \le |B|$ and $|B| \le |A|$. This is not trivial (*to ni trivialno*). So a bijection is not strictly needed (*bijekcija ni nujno potrebna*, slides p. 4): two injections, one in each direction, are enough.
+
+**Theorem (trichotomy — *o trihotomiji*)** *(slides, p. 4)*: any two sets are comparable by cardinality (*vsaki dve množici sta primerljivi po moči*). For arbitrary sets $A$ and $B$, exactly one of $|A| < |B|$, $|A| = |B|$ or $|A| > |B|$ holds.
 
 ### Countable and uncountable sets (*števne in neštevne množice*)
 
@@ -380,7 +397,10 @@ $|A| < |B|$ means $|A| \le |B|$ and $|A| \ne |B|$:
 - $B$ is **countable** (*števna*) if it is countably infinite or finite.
 - $C$ is **uncountable** (*neštevna*) if it is not countable.
 
-Examples of countably infinite sets: $|\mathbb{N}|, |\mathbb{Z}|, |\mathbb{Q}|$.
+Examples of countably infinite sets: $|\mathbb{N}|, |\mathbb{Z}|, |\mathbb{Q}|$. The slides (p. 5) also list:
+
+- the set of syntactically correct Java programs (*množica sintaktično pravilnih javanskih programov*),
+- the set of computable real numbers (*množica izračunljivih realnih števil*).
 
 $$\mathbb{N} \overset{\text{inj}}{\hookrightarrow} \mathbb{Z} \overset{\text{inj}}{\hookrightarrow} \mathbb{Q}, \qquad n \mapsto n, \qquad n \mapsto \frac{n}{1}$$
 
@@ -392,11 +412,11 @@ $1, 2, 3 \overset{\text{inj}}{\hookrightarrow}$ `print 1`, `print 2`, `print 3`.
 
 $x$ a computable real number: we choose the shortest program that prints $x$; among those, I choose the first one in alphabetical order (*med njimi izberem po abc prvega*).
 
-If $A$ and $B$ are countable, then $A \cup B$ is countable too.
+**Proposition** (*trditev*): if $A$ and $B$ are countable, then $A \cup B$ is countable too.
 
 #### How do we get to uncountable sets (*kako do neštevnih množic*)?
 
-For every $A$: $|A| < |\mathcal{P}A|$.
+**Theorem:** for every set $A$: $|A| < |\mathcal{P}A|$.
 
 - $A$ finite: $n < 2^n$ for all $n \in \mathbb{N}$.
 - $A$ infinite: $|A| < |\mathcal{P}A|$ … there exists an injection $A \hookrightarrow \mathcal{P}A$ and there is no injection $\mathcal{P}A \to A$.
@@ -435,6 +455,16 @@ $$x_{(2)} = 0.110101100110001\dots$$
 
 $$\{0, 1, 3, 5, 6, 9, 10, 14, \dots\}$$
 
+> [!note] From the professor's slides (p. 6)
+> Examples of uncountable sets:
+> - $\mathcal{P}\mathbb{N}$,
+> - $\mathbb{R}$, $(0, 1)$, $[0, 1)$, $[0, 1]$, since
+>   $$|[0, 1]| = |\mathbb{R}| = \left|\left(-\tfrac{\pi}{2}, \tfrac{\pi}{2}\right)\right| = |(0, 1)| = |\mathcal{P}\mathbb{N}|,$$
+> - the set of uncomputable real numbers (*množica neizračunljivih realnih števil*).
+>
+> Ever larger infinities in the sequence (*vedno večje neskončnosti v zaporedju*):
+> $$|\mathbb{N}|,\ |\mathcal{P}\mathbb{N}|,\ |\mathcal{P}\mathcal{P}\mathbb{N}|,\ |\mathcal{P}\mathcal{P}\mathcal{P}\mathbb{N}|,\ |\mathcal{P}\mathcal{P}\mathcal{P}\mathcal{P}\mathbb{N}|,\ \dots$$
+
 ## Questions
 
 - [ ] Is $\trianglelefteq$ ("from some point on $f(x) \le g(x)$") a partial order — is it antisymmetric if $f$ and $g$ differ only for small $x$? Are $\preceq$ and $\trianglelefteq$ linear orders?
@@ -456,4 +486,5 @@ $$\{0, 1, 3, 5, 6, 9, 10, 14, \dots\}$$
 ## Sources
 
 - Handwritten notes: [[Sources/discrete_structures/photoNotes/lectures/lecture8/lecture 8.pdf|lecture 8]]
+- Slides: [[Sources/discrete_structures/photoNotes/lectures/lecture8/dsuni-predavanje_malo_o_neskoncnih_mnozicah.pdf|Malo o neskončnih množicah]] (G. Fijavž, 23. 11. 2026): computable real numbers (p. 2), cardinality, Cantor–Schröder–Bernstein and trichotomy (pp. 3–4), countable sets (p. 5), uncountable sets and $|A| < |\mathcal{P}A|$ (p. 6)
 - G. Fijavž, *Diskretne strukture* (FRI, 2015): 4.6.1 Partial and linear order (p. 96), 4.6.3 Hasse diagram (pp. 99–100), 5.1 Functions and their properties (pp. 103–106), 5.2 Inverse function and composition (pp. 106–108), 5.3 Properties of functions and composition (pp. 112–114), 6.1 Finite sets and the Dirichlet principle (pp. 119–121), 6.2 Cardinality of finite sets and operations, principle of inclusion and exclusion (pp. 122–125) — [[Sources/discrete_structures/ds.pdf#page=96|ds.pdf]]

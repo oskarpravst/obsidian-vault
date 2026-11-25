@@ -51,9 +51,9 @@ After that the plates carry $-de$ and $+de$, so $\vec{E} \neq 0$ and $U \neq 0$.
 
 $$A_e = de \cdot U$$
 
-with (as written in the notes) $e = CU \to de = C\cdot U$, $U = \frac{de}{C}$:
+where the voltage depends on the charge $e_p$ already on the plate: $e_p = CU \to U = \frac{e_p}{C}$:
 
-$$A_e = \frac{de}{C}\cdot de = \frac{e_p}{C}\,de$$
+$$A_e = \frac{e_p}{C}\,de$$
 
 With $-2de$ and $+2de$ on the plates, and so on, until the plates carry $-e$ and $+e = e_p$:
 
@@ -163,7 +163,7 @@ $$I = \vec{j}_e\cdot\vec{S} = \vec{j}_e\cdot\vec{n}\,S, \qquad \vec{j}_e\cdot\ve
 
 Say $e_1 = -e_0$ ($e^-$):
 
-$$\vec{F}_e = e_1\vec{E} = (-e_0)\vec{E}, \qquad -e_0\vec{E} = m_e\vec{a} \implies \vec{a} = \frac{e_0\vec{E}}{m_e}$$
+$$\vec{F}_e = e_1\vec{E} = (-e_0)\vec{E}, \qquad -e_0\vec{E} = m_e\vec{a} \implies \vec{a} = -\frac{e_0\vec{E}}{m_e}$$
 
 If we plug a hair dryer into the socket, the electrons would start to accelerate (*fen v utičnico, bodo el. začeli pospeševati*) → **this is not a good model** (*to ni vredu model*). An electron (or hole) in matter has to navigate through all the clouds of atoms (*mora navigirati skozi vse oblake atomov*), ergo the model is not simple.
 
@@ -222,9 +222,9 @@ Equivalent resistors (*nadomestni upori*), $R = ?$
 
 ![[Physics 8 resistors in series.svg]]
 
-- II. Kirchhoff's law (as in the notes): $I = I_1 = I_2$ (the current is conserved — *ohranja tok*)
+- 1st Kirchhoff's law: $I = I_1 = I_2$ (the current is conserved — *ohranja tok*)
 - $U = RI$
-- I. Kirchhoff's law (as in the notes): $U = U_1 + U_2$ (the sum of the voltage drops = the external voltage — *vsota padcev napetosti = zun. nap.*)
+- 2nd Kirchhoff's law: $U = U_1 + U_2$ (the sum of the voltage drops = the external voltage — *vsota padcev napetosti = zun. nap.*)
 
 $$R\cancel{I} = R_1\cancel{I_1} + R_2\cancel{I_2} \implies \boxed{R = R_1 + R_2}$$
 
