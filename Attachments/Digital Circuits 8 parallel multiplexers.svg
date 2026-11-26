@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="300" viewBox="0 0 330 300" font-family="Helvetica, Arial, sans-serif">
+<polyline points="70,90 250,90 225,150 95,150 70,90" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<line x1="160" y1="150" x2="160.0" y2="182.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="160,190 164.0,182.0 156.0,182.0" fill="#f59e0b"/>
+<text x="168.0" y="188" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan></text>
+
+<polyline points="92,112 272,112 247,172 117,172 92,112" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<line x1="182" y1="172" x2="182.0" y2="204.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="182,212 186.0,204.0 178.0,204.0" fill="#f59e0b"/>
+<text x="190.0" y="210" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<text x="182" y="167" text-anchor="middle" fill="#3b82f6" font-size="16">MX</text>
+<line x1="25" y1="120" x2="80" y2="120" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="25.0" y="116" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">m</tspan><tspan font-size="9" dy="4">0</tspan></text>
+
+<line x1="25" y1="140" x2="88" y2="140" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="25.0" y="136" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">m</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<line x1="110" y1="50" x2="110.0" y2="82.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="110,90 114.0,82.0 106.0,82.0" fill="#8c8c8c"/>
+<text x="104.6" y="45" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">k</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<line x1="140" y1="50" x2="140.0" y2="82.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="140,90 144.0,82.0 136.0,82.0" fill="#8c8c8c"/>
+<text x="134.6" y="45" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">k</tspan><tspan font-size="9" dy="4">2</tspan></text>
+
+<line x1="170" y1="50" x2="170.0" y2="104.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="170,112 174.0,104.0 166.0,104.0" fill="#8c8c8c"/>
+<text x="164.6" y="45" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">k</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<line x1="200" y1="50" x2="200.0" y2="104.0" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,112 204.0,104.0 196.0,104.0" fill="#8c8c8c"/>
+<text x="194.6" y="45" fill="#8c8c8c" font-size="12" xml:space="preserve"><tspan font-size="12">k</tspan><tspan font-size="9" dy="4">2</tspan></text>
+
+<text x="170" y="285" text-anchor="middle" fill="#8c8c8c" font-size="13">parallel multiplexers: more outputs</text>
+</svg>

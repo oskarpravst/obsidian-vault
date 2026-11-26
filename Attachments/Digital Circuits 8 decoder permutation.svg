@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="300" viewBox="0 0 260 300" font-family="Helvetica, Arial, sans-serif">
+<text x="31.4" y="35" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">0</tspan></text>
+
+<text x="211.4" y="35" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">0</tspan></text>
+
+<text x="31.4" y="65" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<text x="211.4" y="65" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<text x="31.4" y="95" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<text x="211.4" y="95" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<text x="31.4" y="125" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">3</tspan></text>
+
+<text x="211.4" y="125" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">3</tspan></text>
+
+<text x="31.4" y="155" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">4</tspan></text>
+
+<text x="211.4" y="155" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">4</tspan></text>
+
+<text x="31.4" y="185" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">5</tspan></text>
+
+<text x="211.4" y="185" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">5</tspan></text>
+
+<text x="31.4" y="215" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<text x="211.4" y="215" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<text x="31.4" y="245" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">7</tspan></text>
+
+<text x="211.4" y="245" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">7</tspan></text>
+
+<line x1="58" y1="30" x2="193.24288175017088" y2="115.71731941912239" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,120 195.4,112.3 191.1,119.1" fill="#3b82f6"/>
+<line x1="58" y1="60" x2="193.24288175017088" y2="145.7173194191224" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,150 195.4,142.3 191.1,149.1" fill="#3b82f6"/>
+<line x1="58" y1="90" x2="193.24288175017088" y2="175.7173194191224" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,180 195.4,172.3 191.1,179.1" fill="#3b82f6"/>
+<line x1="58" y1="120" x2="193.24288175017088" y2="205.7173194191224" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,210 195.4,202.3 191.1,209.1" fill="#3b82f6"/>
+<line x1="58" y1="150" x2="193.24288175017088" y2="235.7173194191224" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,240 195.4,232.3 191.1,239.1" fill="#3b82f6"/>
+<line x1="58" y1="180" x2="194.50019177669296" y2="35.809656573915895" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,30 191.6,33.1 197.4,38.6" fill="#3b82f6"/>
+<line x1="58" y1="210" x2="194.50019177669296" y2="65.8096565739159" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,60 191.6,63.1 197.4,68.6" fill="#3b82f6"/>
+<line x1="58" y1="240" x2="194.50019177669296" y2="95.8096565739159" stroke="#3b82f6" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="200,90 191.6,93.1 197.4,98.6" fill="#3b82f6"/>
+<text x="130" y="285" text-anchor="middle" fill="#8c8c8c" font-size="14">mᵢ → m₍ᵢ₊₃₎ mod 8</text>
+</svg>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="320" viewBox="0 0 470 320" font-family="Helvetica, Arial, sans-serif">
+<polyline points="70,40 140,65 140,175 70,200 70,40" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="105" y="128" text-anchor="middle" fill="#3b82f6" font-size="20">K</text>
+<line x1="25" y1="65" x2="70" y2="65" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="28.0" y="60" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">0</tspan></text>
+
+<text x="15" y="70" text-anchor="end" fill="#8c8c8c" font-size="14">0</text>
+<line x1="25" y1="102" x2="70" y2="102" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="28.0" y="97" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<text x="15" y="107" text-anchor="end" fill="#8c8c8c" font-size="14">0</text>
+<line x1="25" y1="139" x2="70" y2="139" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="28.0" y="134" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">2</tspan></text>
+
+<text x="15" y="144" text-anchor="end" fill="#f59e0b" font-size="14">1</text>
+<line x1="25" y1="176" x2="70" y2="176" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="28.0" y="171" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">3</tspan></text>
+
+<text x="15" y="181" text-anchor="end" fill="#8c8c8c" font-size="14">0</text>
+<line x1="95" y1="190" x2="95.0" y2="232.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="95,240 99.0,232.0 91.0,232.0" fill="#f59e0b"/>
+<text x="88.7" y="258" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<line x1="120" y1="190" x2="120.0" y2="232.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="120,240 124.0,232.0 116.0,232.0" fill="#f59e0b"/>
+<text x="113.7" y="258" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<text x="105" y="290" text-anchor="middle" fill="#8c8c8c" font-size="13">4 inputs → 2 outputs</text>
+<polyline points="330,20 410,50 410,190 330,220 330,20" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="370" y="127" text-anchor="middle" fill="#3b82f6" font-size="20">K</text>
+<line x1="280" y1="36" x2="330" y2="36" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="32" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">0</tspan></text>
+
+<line x1="280" y1="60" x2="330" y2="60" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="56" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">1</tspan></text>
+
+<line x1="280" y1="84" x2="330" y2="84" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="80" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">2</tspan></text>
+
+<line x1="280" y1="108" x2="330" y2="108" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="104" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">3</tspan></text>
+
+<line x1="280" y1="132" x2="330" y2="132" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="128" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">4</tspan></text>
+
+<line x1="280" y1="156" x2="330" y2="156" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="152" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">5</tspan></text>
+
+<line x1="280" y1="180" x2="330" y2="180" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="176" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">6</tspan></text>
+
+<line x1="280" y1="204" x2="330" y2="204" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<text x="283.0" y="200" fill="#8c8c8c" font-size="13" xml:space="preserve"><tspan font-size="13">m</tspan><tspan font-size="9" dy="4">7</tspan></text>
+
+<line x1="350" y1="210" x2="343.31519189844283" y2="250.10884860934286" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="342,258 347.3,250.8 339.4,249.5" fill="#f59e0b"/>
+<text x="335.7" y="276" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<line x1="370" y1="210" x2="370.0" y2="250.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="370,258 374.0,250.0 366.0,250.0" fill="#f59e0b"/>
+<text x="363.7" y="276" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<line x1="390" y1="210" x2="396.68480810155717" y2="250.10884860934286" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="398,258 400.6,249.5 392.7,250.8" fill="#f59e0b"/>
+<text x="391.7" y="276" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">y</tspan><tspan font-size="10" dy="4">3</tspan></text>
+
+<text x="370" y="305" text-anchor="middle" fill="#8c8c8c" font-size="13">8 inputs → 3 outputs</text>
+</svg>

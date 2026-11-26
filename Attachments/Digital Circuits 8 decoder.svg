@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="280" viewBox="0 0 300 280" font-family="Helvetica, Arial, sans-serif">
+<polyline points="90,80 180,40 180,260 90,230 90,80" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<text x="135" y="165" text-anchor="middle" fill="#3b82f6" font-size="20">DK</text>
+<line x1="80" y1="10" x2="102.06266772211161" y2="65.89209156268275" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="105,73.33333333333333 105.8,64.4 98.3,67.4" fill="#8c8c8c"/>
+<text x="66.7" y="22" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">x</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<line x1="108" y1="10" x2="129.4725473871324" y2="53.708563125807274" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="133,60.888888888888886 133.1,51.9 125.9,55.5" fill="#8c8c8c"/>
+<text x="94.7" y="22" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">x</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<line x1="136" y1="10" x2="156.6387306546705" y2="41.73778136229329" stroke="#8c8c8c" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="161,48.44444444444444 160.0,39.6 153.3,43.9" fill="#8c8c8c"/>
+<text x="122.7" y="22" fill="#8c8c8c" font-size="14" xml:space="preserve"><tspan font-size="14">x</tspan><tspan font-size="10" dy="4">3</tspan></text>
+
+<line x1="180" y1="65" x2="232.0" y2="65.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,65 232.0,61.0 232.0,69.0" fill="#f59e0b"/>
+<text x="248.0" y="70" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">0</tspan></text>
+
+<line x1="180" y1="89" x2="232.0" y2="89.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,89 232.0,85.0 232.0,93.0" fill="#f59e0b"/>
+<text x="248.0" y="94" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">1</tspan></text>
+
+<line x1="180" y1="113" x2="232.0" y2="113.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,113 232.0,109.0 232.0,117.0" fill="#f59e0b"/>
+<text x="248.0" y="118" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">2</tspan></text>
+
+<line x1="180" y1="137" x2="232.0" y2="137.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,137 232.0,133.0 232.0,141.0" fill="#f59e0b"/>
+<text x="248.0" y="142" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">3</tspan></text>
+
+<line x1="180" y1="161" x2="232.0" y2="161.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,161 232.0,157.0 232.0,165.0" fill="#f59e0b"/>
+<text x="248.0" y="166" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">4</tspan></text>
+
+<line x1="180" y1="185" x2="232.0" y2="185.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,185 232.0,181.0 232.0,189.0" fill="#f59e0b"/>
+<text x="248.0" y="190" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">5</tspan></text>
+
+<line x1="180" y1="209" x2="232.0" y2="209.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,209 232.0,205.0 232.0,213.0" fill="#f59e0b"/>
+<text x="248.0" y="214" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">6</tspan></text>
+
+<line x1="180" y1="233" x2="232.0" y2="233.0" stroke="#f59e0b" stroke-width="1.6" stroke-linecap="round"/>
+<polygon points="240,233 232.0,229.0 232.0,237.0" fill="#f59e0b"/>
+<text x="248.0" y="238" fill="#f59e0b" font-size="14" xml:space="preserve"><tspan font-size="14">m</tspan><tspan font-size="10" dy="4">7</tspan></text>
+
+</svg>
