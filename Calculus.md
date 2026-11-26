@@ -32,7 +32,7 @@ path:Uni [course:"Calculus"] task-todo:/\[ \]\s+\S/
 
 ## Exam
 
-1st colloquium (*1. kolokvij*): **2026-12-02**. Recent papers have 4 problems × 25 points in 90 min, with 1 A4 formula sheet and no calculator. Scope not confirmed. In Physics the colloquium covers what the exercises (*vaje*) reach, not the lectures; if Calculus works the same way, it ends around continuity of functions. The past papers agree: since 2019 they test complex numbers, sequences, series and continuity, and no derivatives except one tangent (2023).
+1st colloquium (*1. kolokvij*): **2026-12-02**. Recent papers have 4 problems × 25 points in 90 min, with 1 A4 formula sheet and no calculator. Scope confirmed in [[2026-11-25 - Partial Derivatives, Directional Derivative, Gradient and Gradient Descent - 8|lecture 8]]: everything up to what the exercises (*vaje*) cover in the week of 2026-11-23 (*na kolokviju vse do kar delamo ta teden na vajah*), not the lectures. Check the vaje of that week (vaje 7) for where it stops. The past papers agree: since 2019 they test complex numbers, sequences, series and continuity, and no derivatives except one tangent (2023).
 
 ### Topics
 

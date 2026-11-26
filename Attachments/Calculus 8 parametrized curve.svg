@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="320" viewBox="0 0 540 320" font-family="Helvetica, Arial, sans-serif">
+<path d="M 90 300 C 100 220, 150 190, 230 170 C 330 140, 360 60, 300 40 C 230 20, 170 70, 190 130 C 205 175, 260 170, 270 160" stroke="#3b82f6" stroke-width="2.2" fill="none"/>
+<circle cx="148" cy="205" r="4" stroke="#8c8c8c" stroke-width="1.5" fill="#8c8c8c"/>
+<line x1="148" y1="205" x2="203.17918998071247" y2="171.1804964634343" stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round"/>
+<polygon points="210,167 201.1,167.8 205.3,174.6" fill="#f59e0b"/>
+<text x="188" y="153" text-anchor="start" fill="#f59e0b" font-size="16">γ′</text>
+<text x="340" y="110" text-anchor="start" fill="#3b82f6" font-size="17">γ</text>
+<text x="250" y="250" text-anchor="start" fill="#8c8c8c" font-size="13">the same curve with different</text>
+<text x="250" y="268" text-anchor="start" fill="#8c8c8c" font-size="13">parametrizations (različne parametrizacije)</text>
+</svg>
