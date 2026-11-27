@@ -304,6 +304,7 @@ A metal (*kovina*) gate on SiO (insulator — *izolator*) over the semiconductor
 ## Connections
 
 - Course: [[Physics]]
+- Exercises: [[Sources/physics/photoNotes/vaje/vaje 8.pdf|vaje 8]]: open pipe with neighbouring resonances at 240 Hz and 280 Hz, $L = \frac{c}{2\Delta\nu} = 4{,}25$ m, displacement 0,5 m outside the pipe and the pipe closed at one end, $\tilde\nu_n = \frac{c(2n-1)}{4L}$ (task 8.1); interference of two sources, constructive and destructive (*konstruktivna, destruktivna interferenca*); two wave sources on water, $c = \sqrt{gh}$, distance between them $a = 5{,}9$ m from $\frac{\delta x}{d} = \frac{\lambda}{a}$ (task 8.2); electrostatics, Coulomb's law $F_e = \frac{e_1 e_2}{4\pi\varepsilon_0 r^2}$, electrostatic energy; acceleration of a charged ball in an equilateral triangle of charges, $a = 1{,}95$ m/s² (task 9.1)
 - Previous lecture: [[2026-11-17 - Electric Field, Gauss's Law and Capacitors - 7]]: parallel-plate capacitor, capacitance $C = \varepsilon\varepsilon_0 S/d$, parallel connection; its open question about capacitors in series is answered here
 - [[2026-11-10 - Physical Pendulum, Waves and Electrostatics - 6]]: electric potential energy, voltage
 - [[2026-11-03 - Angular Momentum, Kepler's Laws, Precession and Oscillations - 5]]: energy of a spring $\frac{1}{2}kx^2$, which the energy density resembles

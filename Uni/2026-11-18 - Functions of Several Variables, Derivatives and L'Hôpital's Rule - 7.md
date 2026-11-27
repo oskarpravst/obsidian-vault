@@ -268,6 +268,7 @@ $$\lim_{n \to \infty} \frac{e^n}{n^{307}} \overset{\text{L'H}}{\underset{\frac{\
 ## Connections
 
 - Course: [[Calculus]]
+- Exercises: [[Sources/calculus/photoNotes/vaje/vaje 7.pdf|vaje 7]]
 - Previous lecture: [[2026-11-11 - Limits of Functions, Continuity and Zeros of Continuous Functions - 6]] — limit of a function of one variable with $\varepsilon$ and $\delta$, left and right limits, continuity; gradient descent already used $f'$
 - [[2026-10-14 - Polar Form of Complex Numbers - 2]] — polar form $r$, $\varphi$, the same idea as the polar coordinates for limits at $(0, 0)$
 - [[2026-10-28 - Limits of Sequences - 4]] — the number $e$ as $\lim (1 + \frac{1}{n})^n$, used in the proof of $(\ln x)' = \frac{1}{x}$

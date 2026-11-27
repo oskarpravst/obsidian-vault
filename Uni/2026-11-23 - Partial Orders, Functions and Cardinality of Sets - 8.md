@@ -475,6 +475,7 @@ $$\{0, 1, 3, 5, 6, 9, 10, 14, \dots\}$$
 ## Connections
 
 - Course: [[Discrete structures]]
+- Exercises: [[Sources/discrete_structures/photoNotes/vaje/vaje 8.pdf|vaje 8]]
 - Previous lecture: [[2026-11-16 - Graph of a Relation, Operations, Closures and Equivalence Relations - 7]] — properties of relations, inverse relation, product of relations, equivalence classes $[p \Rightarrow q]$
 - [[Partial Order]], [[Linear Order]], [[Hasse Diagram]], [[Function]], [[Injective Function]], [[Surjective Function]], [[Bijective Function]], [[Composition of Functions]], [[Inclusion–Exclusion Principle]], [[Pigeonhole Principle]], [[Countable Set]], [[Cantor's Theorem]]
 - [[Composition of Relations]], [[Inverse Relation]]: $g \circ f = f * g$ and $f^{-1}$ come from lecture 7
